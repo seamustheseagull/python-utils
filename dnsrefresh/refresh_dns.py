@@ -1,6 +1,7 @@
 import requests
 import json
 import os
+import sys
 import time
 
 def get_my_ip():
@@ -55,9 +56,11 @@ def log_data(logFile, msgtype, message):
 
 def main():
 
-    source_data = "credentials.json"
+    my_context = sys.path[0]
 
-    logFile = "refresh_dns.log"
+    source_data = ("%s/credentials.json" % my_context)
+
+    logFile = ("%s/refresh_dns.log" % my_context)
 
     credential_json = '{ "login_email" : "someone@somewhere.there", "api_key" : "areallylongstringofrandomcharspurplemonkeydishwasher" ,"target_hostname" : "myhost", "target_domain" : "cloudflaremanaged.domain" }'
 
