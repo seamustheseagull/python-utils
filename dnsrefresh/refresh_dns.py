@@ -6,11 +6,9 @@ import time
 
 def get_my_ip():
 
-    req = requests.get("https://wtfismyip.com/json")
-    #print(req.content)
-    data = json.loads(req.text)
-
-    return data["YourFuckingIPAddress"]
+    req = requests.get("https://ident.me/")
+    
+    return req.text
 
 def build_headers(credentials):
     return {"X-Auth-Email" : credentials['login_email'],
