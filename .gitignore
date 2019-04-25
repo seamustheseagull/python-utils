@@ -2,3 +2,4 @@ venv
 .venv
 credentials.json
 *.log
+.vscode

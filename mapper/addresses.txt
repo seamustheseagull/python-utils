@@ -1,0 +1,1712 @@
+17355I|MUIRE NA DEA COIRLE GIRLS SENIOR,Mourne Road,Drimnagh,Dublin 12,,Dublin,D12XD51
+17356K|MUIRE NA DEA COIRLE INF,Mourne Road,Drimnagh,Dublin 12,,Dublin,D12E228
+17357M|S N BAILE AN PHIULL,Piltown,Co. Kilkenny,,,Kilkenny,E32DE27
+17358O|S N NAOMH EIRC,Cill Mhaoile,Ard Fhearta,Co. Chiarraí.,,Kerry,V92W942
+17360B|S N MHUIRE,Ráth Phéacáin,Blackpool,Co. Cork,,Cork,T23F799
+17362F|S N BREANDAN NAOFA,Rathcoole,Mallow,Co. Cork,,Cork,P51A038
+17363H|SN CROS TSEAIN,Crosshaven Boy's NS,Crosshaven,Co. Cork,,Cork,P43W993
+17364J|SCOIL BAILE AN AIRD,Baile an Aird,Kilmallock,Co. Limerick,,Limerick,V35KX63
+17365L|Two Mile Community National School,Augheelamore,Cill Airne,Co. Chiarraí,,Kerry,V93WD82
+17367P|MARY, HELP OF CHRISTIANS G.N.S.,Navan Road,Dublin 7,,,Dublin,D07EH68
+17368R|CROI RONAOFA MEASCAITHE,Williamstown,Castlerea,,,Galway,F45K466
+17373K|S N CLOCHAR MHUIRE,Saint John's Road,Wexford,,,Wexford,Y35X084
+17374M|S N CHRION CHOILL,Gathabawn,via Thurles,Co. Kilkenny,,Kilkenny,E41WD59
+17432A|MAGH MORA N S,Moyvore,Co. Westmeath,,,Westmeath,N91FA00
+17438M|SHANAGOLDEN N S,Shanagolden,Co. Limerick,,,Limerick,V94H642
+17440W|S N NAOMH MAODHOG,Cill na Bheart,Béal Átha Conaill,Co. Cavan,,Cavan,H14Y861
+17441B|SCOIL MHUIRE,Wolfhill,Athy,Co. Kildare,,Laois,R14C521
+17443F|S N FIONNTAIN,Taghmon,Co. Wexford,,,Wexford,Y35NP27
+17444H|S N SEOSAMH NAOFA,An Cheathrú Bhán,Baile Átha an Rí,Co. na Gaillimhe,,Galway,H65YK19
+17447N|S N CRANNAIGHE BUIDHE,Crannóg Buí,Ardara,Co. Donegal,,Donegal,F94H422
+17450C|S N MHAODHOIG,Poll Fothair,Fiodh Ard,Ros Mhic Treoin,Co. Loch Garman,Wexford,Y34DC82
+17456O|S N RONAIN,Arainn,Co. na Gaillimhe,,,Galway,H91ED89
+17459U|CHRIST THE KING I G,Annaly Road,Cabra,Dublin 7,,Dublin,D07HV12
+17462J|SCOIL NAIS MHICHIL,Baile Nua,Borris,Co. Carlow,,Carlow,R95TP30
+17463L|S N BRIOCAIN,An Gort Mór,Rosmuc,Co. na Gaillimhe,,Galway,H91V5X0
+17464N|FIONNBARRA NAOFA B.N.S.,,Kilkieran Road,Cabra West,Dublin 7,,Dublin,D07A522
+17465P|DOMINICAN CONVENT GIRLS SENIOR SCHOOL,Ratoath Road,Cabra West,Dublin 7,,Dublin,D07V045
+17466R|ST CATHERINES INFANT SCHOOL,Ratoath Road,Cabra,Dublin 7,,Dublin,D07TP21
+17469A|SCOIL CUILM CILLE,Ballindrait,Lifford,Co. Donegal,,Donegal,F93Y227
+17470I|ST RAPHAELAS N S,Saint Raphaela's Road,Stillorgan,Blackrock,Co. Dublin,Dublin,A94R7N8
+17471K|S N SHEAN BHOTH,Rosbercon,New Ross,,,Wexford,Y34V129
+17472M|BAILE FALBACH,Lusk,Co. Dublin,,,Dublin,K45YP02
+17475S|S N AINE NAOFA,Loch Cutra,Gort,Co. Galway,,Galway,H91C6D6
+17479D|SCOIL MHUIRE,Lacken,Ballinagh,Co. Cavan,,Cavan,H12E171
+17480L|S N BAILE CHEANT,Bail Cheant,An Uaimh,Co. na Mí,,Meath,C15YK73
+17481N|ST BRENDANS N S,Drummond,St Mullins,Carlow ,via Kilkenny,Carlow,R95DX24
+17482P|CLOGHER NS,Clogher,Claremorris,Co. Mayo,,Mayo,F12RC95
+17483R|CARRAHOLLY N S,Rusheen,Carrowholly,Westport,Co. Mayo,Mayo,F28VX94
+17485V|S N PADRAIG NAOFA,Fothaine,Áth Eascrach,Béal Átha na Slua,Co. na Gaillimhe,Galway,H53PN72
+17486A|S N CLEIREACHAIN,Clerihan,Clonmel,,,Tipperary,E91WP77
+17487C|SCOIL NAIS CATHAIR CHINN LIS,Cathaircinnlis,Caherconlish,Co. Limerick,,Limerick,V94X4A8
+17488E|SN AN AILL BHREACH,Baile Conaola,Connemara,Co. na Gaillimhe,,Galway,H71EP65
+17489G|S N FIONNTAN NAOFA,Abbeyleix,Portlaoise,Co. Laois,,Laois,R32F899
+17490O|S N LORCAIN NAOFA,Tigneatha,Baile Locha Riach,Co. na Gaillimhe,,Galway,H62AW74
+17492S|S N MHUIRE,Kilmurray,Castlerea,Co. Roscommon,,Roscommon,F45NR22
+17493U|ROSENALLIS N S,Rosenallis,Co. Laois,,,Laois,R32Y674
+17494W|S N AN RATH MHOR,Rathmore,Athboy,Co. Meath,,Meath,C15X525
+17498H|S N NAOMH SHEOSAMH,Toomevara,Nenagh,Co. Tipperary,,Tipperary,E45VH70
+17500O|S N MUIRE MXD,Barndarrig,Co. Wicklow,,,Wicklow,A67R296
+17501Q|Bennekerry National School,Bennekerry,Co. Carlow,,,Carlow,R93D535
+17502S|S N NAOMH THOMAIS,Tobar Pheadar,Gaillimh,,,Galway,H91TP89
+17503U|S N ADHAMHNAIN,An Luinnigh,Doire Beaga,Co. Dhún na nGall,,Donegal,F92C963
+17505B|S N CILL RUADHAIN,Glanmire,Co. Cork,,,Cork,T45CA19
+17506D|S N BREANDAN NAOFA,Dun Doighre,Coill Bhreac,Loughrea,Co. Galway,Galway,H62VK28
+17507F|S N PADRAIG NAOFA,Gleann Cuillin,Cill Tiernáin,Co. Átha Cliath,,Dublin,D18H504
+17508H|S N NAOMH CHOLUMCHILLE,Durrow,Tullamore,Co. Offaly,,Offaly,R35XY40
+17510R|S N TREASA NFA,Ballyellis,Gorey,Co. Wexford,,Wexford,Y25P620
+17511T|S N BAILE AN IUBHAIR,Thurles,Co. Tipperary,,,Tipperary,E41PP30
+17512V|S N FLANNAIN NAOFA,Ráth Chobain,Roscrea,Co. Thiobraid Árann,,Tipperary,R42TK23
+17513A|S N CILL BHRIGHDE,Kilbride,Trim,Co. Meath,,Meath,C15EK88
+17514C|S N CLUAIN NA GALL,Main Street,Clonegal,Co. Carlow,,Carlow,Y21XK73
+17515E|S N ACHADH BOLG,Aghabullogue,Coachford,Co. Cork,,Cork,P12P406
+17517I|DOOLIN MIXED N S,Ennis,Co. Clare,,,Clare,V95TC66
+17519M|S N CAISLEAN DOCHRAILL,Ballycarney,Enniscorthy,Co. Wexford,,Wexford,Y21N968
+17520U|S N MHUIRE,Robinstown,Navan,Co. Meath,,Meath,C15YK66
+17521W|S N COLMCILLE,Scrin,Tara,Co. Meath,,Meath,C15NV99
+17522B|KNOCKANORE N S,Knockanore,Co. Waterford,,,Waterford,P51XK58
+17523D|S N CRONAIN NAOFA,Drum Uí Cianan,Roscrea,Co. Tipperary,,Offaly,E53PK37
+17525H|Light of Christ National School,Dunmore East,Co. Waterford,,,Waterford,X91RY67
+17526J|S N ABBAIN,Adamstown,Enniscorthy,,,Wexford,Y21VY56
+17527L|SCOIL BHRUGH THUINNE,Churchtown,Mallow,Co. Cork,,Cork,P51KN79
+17528N|S N NAOMH CAITRIONA,Conna,Co. Cork,,,Cork,P51EY05
+17529P|S N IOMAIR NAOFA,Brackloon,Cill Tullach,Béal Átha na Ríogh,Co. na Gaillimhe,Galway,H65C670
+17531C|BAILE NA MONA,Bailieboro,Co. Cavan,,,Cavan,A82W264
+17532E|S N DRUIM SLAOD,Baile Cruaich,Cathair na Mart,Co. Mayo,,Mayo,F28PD70
+17533G|S N RATHAIN,Mallow,Co. Cork,,,Cork,P51DP79
+17535K|FIONNABHAIR N S,Fenor,Tramore,Co. Waterford,,Waterford,X91VK31
+17536M|S N DUN AILL,Dunhill,via Tramore,Co. Waterford,,Waterford,X91X86V
+17537O|SCOIL PADRAIG NAOFA,Bray,Co. Wicklow,,,Wicklow,A98F652
+17539S|S N CILL CRUAIN,Ballyglass South,Williamstown,Castlerea,,Galway,F45A099
+17540D|S N MHANACHAIN,An Tobar,An Móta,Co. na hIarmhí,,Offaly,N37T8Y0
+17542H|S N RATH CHAOMHGHIN,Clonmel,Co. Tipperary,,,Tipperary,E91TX38
+17543J|CLOUGHJORDAN N S,Cloughjordan,Co. Tipperary,,,Tipperary,E53WC80
+17547R|S N BREANDAN NAOFA,Doire Úbair,Gurteent Woodford,Loughrea,Co. Galway,Galway,H62NY53
+17549V|S N CEATHRU CAOL,Kerrykeel,Lifford,Co. Donegal,,Donegal,F92WC60
+17550G|SCOIL FHURSA,Marlbog Road,Haggardstown,Co. Louth,,Louth,A91AP98
+17553M|S N TAODHBHOG,An Clochán,Leifearr,Co. Dhún na nGall,,Donegal,F93K028
+17554O|S N NMH SEOSAIMH,Baile Miota,Hilltown,Co. Wexford,,Wexford,Y35YW81
+17555Q|SCOIL NAOMH ABBAN,Crettyard,Carlow,Co. Carlow,,Laois,R93DY27
+17557U|SCOIL ABBAIN CILLIN,Killeen,Maganey,Co. Laois,,Laois,R93N244
+17559B|S N MHUIRE,The Green,Garristown,Co. Dublin,,Dublin,A42V673
+17560J|S N SEOSAMH NAOMTHA,Dun Doire,An Uaimh,Co. na Mí,,Meath,C15HH63
+17561L|SAMHTHANN N S,Ballinalee,Longford,,,Longford,N39HY57
+17562N|St Paul's National School,Islandeady,Castlebar,Co. Mayo,,Mayo,F23HX85
+17563P|OGONNELLOE NATIONAL SCHOOL,Ogonnelloe,Scariff,Co. Clare,,Clare,V94N599
+17564R|S N AN CHOIMIN,Clochán,Leithbhearr,Co. Dhún na nGall,,Donegal,F93CF67
+17566V|S N BHRIDHE,Kells,Co. Kilkenny,,,Kilkenny,R95WK84
+17567A|ALMHAINE N S,Kilmeague,Naas,Co. Kildare,,Kildare,W91AX99
+17569E|BLESSED OLIVER N S,Baile an Ridire,Baile Brigín,Co. Átha Cliath,,Dublin,K32WR94
+17570M|S N NA BHFIODH,Fews,Kilmacthomas,,,Waterford,X42X968
+17571O|Dangan NS,Dangan,Kilmore,Carrick-on-Shannon,,Roscommon,N41RC79
+17574U|S N NAOMH CIARAIN,Cill Chiaráin,Conamara,Co. na Gaillimhe,,Galway,H91T650
+17575W|S N GLEANN COIMHEAD,Ballybofey,Co. Donegal,,,Donegal,F93XF59
+17576B|SCOIL AN CHOROIN MHUIRE,Dominican Campus,Convent Road,Wicklow,,Wicklow,A67P680
+17579H|S N ATH FHADA,Aghada,Midleton,Co. Cork,,Cork,P25X922
+17580P|S N GORT NA HUAIGHE,Gortnahoe,Thurles,,,Tipperary,E41F857
+17583V|S N CNOC AN EIN,Inis,Co. Clare,,,Clare,V95FW42
+17585C|S N BEAL CARADH,Belcarra,Castlebar,Co. Mayo,,Mayo,F23ET38
+17589K|S N CHIARAN NAOFA,Stoneyford,Co. Kilkenny,,,Kilkenny,R95XR65
+17590S|S N MOIN RUADH MIXED,Knocktopher,Co. Kilkenny,,,Kilkenny,R95FY06
+17593B|SCOIL NAOMH MHUIRE,Cnoc Uí Choileáin,Abbeyfeale,Co. Limerick,,Limerick,V94K036
+17595F|CILL COSCAIN,The Ward,Co. Dublin,,,Dublin,D11PW92
+17598L|SN AN LEINBH IOSA,Coxtown,Carrigans,Lifford,Co. Donegal,Donegal,F93K662
+17599N|S N BAILE AN LUIG,Béal Trá,Co. Shligigh,,,Sligo,F91VK52
+17600S|S N NA SCAIRTE LEITHE,Saleen,Cloyne,Midleton,Co. Cork,Cork,P25K286
+17601U|S N DOIRE NA CEISE,Maudabawn,Cootehill,,,Cavan,H16KP86
+17602W|S N NAOMH LACHTIN,Domhnach Mór,Co. Chorcaí,,,Cork,P32PW68
+17603B|SCOIL IOSAGAIN BOYS SENIOR,Aughavannagh Road,Crumlin,Dublin 12,,Dublin,D12W522
+17604D|RAITHIN AN UISCE N S,Raithin an Uisce,Portlaoise,Co. Laoise,,Laois,R32HW50
+17606H|NAOMH MICHEAL N S,Castletown-Finea,Mullingar,Co. Westmeath,,Westmeath,N91FN29
+17607J|S N SEISEADH UI NEILL,Ballybofey,Co. Donegal,,,Donegal,F93AE24
+17608L|S N LUA NAOFA,Lorrha,Nenagh,Co. Tipperary,,Tipperary,E45AH95
+17609N|RATHCORMAC N S,Rathcormac,Fermoy,,,Cork,P61ER24
+17610V|S N BAILE FADA,Ballyfad,Gorey,Co. Wexford,,Wexford,Y25E376
+17612C|ST GARVANS NS,Carrowreigh,Taghmon,Co. Wexford,,Wexford,Y35E773
+17613E|S N CAITRIONA NAOFA,Eachdruim,Ballinasloe,Co. Galway,,Galway,H53X266
+17615I|SN NAOMH PROINNSIAS,An Choill Rua,Odhar,Co. na Gaillimhe,,Mayo,H91F6D8
+17616K|NAOMH MHUIRE N S,Inis na mBreathnach,Geisill,Co. Offaly,,Offaly,R35T653
+17617M|SCOIL CHOMHGAIN NAOFA,Killeshin Road,Carlow,Co. Carlow,,Laois,R93XF53
+17622F|S N LASAIR NAOFA,Greaghnafarna,Arigna,Carrick-on-Shannon,,Roscommon,N41FX64
+17623H|O'GROWNEY NATIONAL SCHOOL,Athboy,Co. Meath,,,Meath,C15W2VN
+17625L|CNOC AN TEAMPAILL,Knocktemple,Virginia,Co. Cavan,,Cavan,A82PF98
+17628R|S N NAOMH PADRAIG MXD,Baile Haol,Co. Kilkenny,,,Kilkenny,R95EK00
+17629T|S N PADRAIG NAOFA,Aad a'Chatha,Garristown,Co. Meath,,Meath,A42WR12
+17630E|S N MAODHOG,Cnoc Bhrighde,Bailieboro,Co. Cavan,,Cavan,A82A567
+17631G|CEATHRU NA NGARRDHANTA,Ballytrasna,Tuam,Galway,,Galway,H54RW56
+17633K|S N EOIN BAISTE,Ballyvaughan,via Galway,Co. Clare,,Clare,H91F6P2
+17634M|SCOIL AILBHE,Thurles,Co. Tipperary,,,Tipperary,E41XY10
+17637S|S N SHEOSAIMH NAOFA,Béal Átha na gCarr,Tullamore,Co. Offaly,,Offaly,R35RW26
+17638U|ST JOSEPH'S N.S.,Donard,Poulpeasty,Co. Wexford,,Wexford,Y21V091
+17639W|SCOIL NA MBRAITHRE,Brigown,Mitchelstown,Co. Cork,,Cork,P67FY81
+17640H|S N COLMAIN NAOFA,Tír Dhá Ghlas,Nenagh,Co. Tipperary,,Tipperary,E45T671
+17641J|S N REALT NA MARA,Rosses Point,Co. Sligo,,,Sligo,F91TR29
+17643N|S N CILL BHRIAIN,Ballinamult,Clonmel,Co. Waterford,,Waterford,E91KX97
+17644P|SCOIL MHUIRE,Aughnagarron,Granard,Co. Longford,,Longford,N39KX77
+17645R|S N CRONAIN,Kiltiernan,Kilcolgan,Co. Galway,,Galway,H91T2N2
+17646T|S N UAIMH BHREANAINN,Cill Dubh,Trá Lí,Co. Chiarraí,,Kerry,V92AE73
+17647V|MUIRE NA DEA COMHAIRLE,Headford,Co. Galway,,,Galway,H91FD71
+17648A|S N BREANDAIN NAOFA,Áth Cinn,Gaillimh,,,Galway,H91NV02
+17650K|S N IDE,Kilmead,Athy,Co. Kildare,,Kildare,R14EV65
+17652O|SCOIL OILIBHEIR NAOFA,Coillcluana,Co. na Mí,,,Meath,A85NH30
+17653Q|CASTLE INY N S,Luach Magh,Templemore,Co. Tipperary,,Tipperary,E41X386
+17655U|S N CALADH NA MUC,Ros Cathail,Co. na Gaillimhe,,,Galway,H91XD57
+17656W|S N OLIBHEIR BEANNUITHE,Duncannon,Co. Wexford,,,Wexford,Y34CY63
+17660N|S N NAOMH TREASA,Caiseal,Co. na Gaillimhe,,,Galway,H91A6C1
+17662R|S N BRIGHDE,Kill,Co. Kildare,,,Kildare,W91PF85
+17663T|ST PATRICKS N S,Rathvilly,Co. Carlow,,,Carlow,R93RD98
+17665A|S N GLEANN GUAIL,Glengoole,Thurles,,,Tipperary,E41X921
+17667E|S N PADRAIG NAOFA,Farranastig,Whitechurch,Co. Cork,,Cork,T34AY74
+17668G|S N NA BHFORBACHA,An Spidéal,Co. na Gaillimhe,,,Galway,H91RR60
+17669I|S N TREASA NAOMHA,Tynock,Kiltegan,Co. Wicklow,,Carlow,W91TFN5
+17674B|ST ANNES NATIONAL SCHOOL,Ardclough,Straffan,Co. Kildare,,Kildare,W23H330
+17675D|S N TEAMPALL LOISCITHE,Burnchurch,Cuffesgrange,Co. Kilkenny,,Kilkenny,R95RT02
+17678J|S N FIONDALBHA,Manulla,Castlebar,,,Mayo,F23RY77
+17681V|S N NA MAIGHNE,Moyne,Thurles,,,Tipperary,E41D6K3
+17682A|S N COLM NAOFA,Coggale,Westport,Co. Mayo,,Mayo,F28RR68
+17683C|MUIRE OG 2 LORETO CON,Crumlin Road,Dublin 12,,,Dublin,D12P602
+17686I|SCOIL MHUIRE BNS,Castleblayney,Co. Monaghan,,,Monaghan,A75PC94
+17689O|S N TIR AN FHIAIDH,Tír an Fhia,Leitir Mór,Co. na Gaillimhe,,Galway,H91YF90
+17694H|S N CHLUAININ,Clonmel,Co. Tipperary,,,Tipperary,E91D838
+17695J|S N MOLAISE,Molaise,An Cnoch,Mainistir Laoise,Co. Laoise,Laois,R32PT62
+17703F|S N ARD CROINE,Ardcroney,Nenagh,Co. Tipperary,,Tipperary,E45VH01
+17704H|Scoil Fhionáin,Baile Chonaill,An Falcarrach,Co. Dhún na nGall,,Donegal,F92FW44
+17705J|S N CROS BAN,Whitecross,Julianstown,Co. Meath,,Meath,A92W291
+17706L|S N AN MHAOILINN,Meelin,Newmarket,,,Cork,P51FH27
+17707N|S N RATH AN IUBHAIR,Ráth an Iúir,Inis Córthaidh,Co. Loch Garman,,Wexford,Y21V228
+17708P|SC CIARAIN,Lower Warren,Baylin,Co. Westmeath,,Westmeath,N37AH98
+17709R|S N NAOMH MHUIRE,Drumboylan,Leitrim PO,Co. Roscommon,,Roscommon,N41X677
+17710C|S N AN CHUILLEANAIG,Beaufort,Killarney,Co. Kerry,,Kerry,V93RC81
+17712G|S N CHIARDA NAOFA,Kilkeary,Nenagh,Co. Tipperary,,Tipperary,E45T922
+17714K|S N CILL CAE,Castledermot,Athy,Co. Kildare,,Kildare,R14KC97
+17715M|S N RATH A BHARRAIGH,Clonakilty,Co. Cork,,,Cork,P85E542
+17716O|ST RIAGHANS NS,Drimnacrosh,Glenties,Co. Donegal,,Donegal,F94NH95
+17720F|SCOIL NAOMH CAOIMHGHIN,Greystones,Co. Wicklow,,,Wicklow,A63AD73
+17721H|SCOIL TREASA NAOFA,Malainn,Lifford,Co. Donegal,,Donegal,F93KP89
+17725P|S N BHRIDE,Carn,Moneygold,Co. Sligo,,Sligo,F91N528
+17726R|S N TULACH ALUINN,Tullyallen,Drogheda,Co. Louth,,Louth,A92AE81
+17727T|SN CROI MUIRE,Béal an Mhuirthead,Co. Mhaigh Eo,,,Mayo,F26H285
+17728V|S N TALAMH NA COILLE,Talamh na Coille,Letterkenny,Co. Donegal,,Donegal,F92FF84
+17729A|SCOIL NAOMH PROINNSEAS,Magherabeg,Manorcunningham,Co. Donegal,,Donegal,F92PK26
+17730I|S N NA LANAI GLASA,Seafield Avenue,Clontarf,Dublin 3,,Dublin,D03A024
+17731K|S N IOSEF NAOFA,Templmore,Co. Tipperary,,,Tipperary,E41W132
+17732M|SCOIL CHIARAIN,Ascaill Uí Choileáin,Domhnach Cairne,Baile Átha Cliath 5,,Dublin,D05Y578
+17734Q|SCOIL EOIN BAISTE,Galbally,Ballyhogue,Co. Wexford,,Wexford,Y21HN47
+17735S|ST PATRICKS NS,Broomfield ,Castleblayney,Co. Monaghan,,Monaghan,A75TK84
+17737W|OUR LADY QUEEN OF PEACE SCHOOL,Janesboro,Limerick,,,Limerick,V94T9C8
+17738B|SCOIL TOBAR PADRAIG,Tobar Phadraig,Luimneach,,,Limerick,V94YF44
+17741N|SCOIL NAIS AITINN BHUI,Beauparc,Navan,Co. Meath,,Meath,C15X535
+17742P|SCOIL NAIS MHUIRE NAOFA,Kiltale,Dunsany,Co. Meath,,Meath,C15XF86
+17743R|NAOMH MUIRE N S,Fiodh an Átha,Mullingar,Co. Westmeath,,Westmeath,N91YN53
+17744T|S N GNIOMH GO LEITH B,Rathmore,Co. Kerry,,,Kerry,P51X450
+17746A|SCOIL COLMAIN NAOFA,Muchlach,Screagain,Co. Uíbh Fhailí,,Offaly,R35HR63
+17747C|S N NA SRONA,Rathmore,Co. Kerry,,,Kerry,P51ET85
+17748E|S N PADRAIG NAOFA,Dungar,An Caisleán Riabhach,Co. Ros Comáin,,Roscommon,F45FD34
+17753U|S N CHIARAIN NAOFA,Breach Choill,Kilcormac,Co. Offaly,,Offaly,R42P766
+17754W|S N NAOMH EOIN B,Ballincollig,Co. Cork,,,Cork,P31XW21
+17755B|SCOIL NAOMH MHUIRE C,Ballincollig,Co. Cork,,,Cork,P31N265
+17756D|BALLINABRANNA MXD N S,Milford,Co. Carlow,,,Carlow,R93T9N4
+17758H|SCOIL MHICHIL NAOFA,Crosspatrick,Co. Kilkenny,via Thurles,,Kilkenny,E41TD34
+17759J|S N BRIGHDE,Mionloch,An Caisleán Gearr,Co. na Gaillimhe,,Galway,H91YD63
+17760R|S N BAILE AN LEASA,Dunmore,Tuam,Co. Galway,,Galway,H54TP40
+17761T|S N MHUIRE,Araglinn,Cill Uird,Co. Chorcaí,,Cork,P61KF82
+17763A|ROCKCHAPEL N S,Rockchapel,Mallow,Co. Cork,,Cork,P51YX84
+17765E|S N RE NA SCRINE,Roscarbery,Co. Cork,,,Cork,P85XE17
+17768K|Scoil Ghormáin Naofa,Castletown,Inch ,Co. Wexford,,Wexford,Y25DY05
+17769M|S N MHUIRE,Tagoat,Co. Wexford,,,Wexford,Y35DE08
+17770U|S N NAOMH COLMAIN,Muigh-Inis,Carna,Co. na Gaillimhe,,Galway,H91Y8K0
+17771W|S N MHUIRE,Lisin na Coille,Órán Mór,Co. na Gaillimhe,,Galway,H91YR20
+17772B|S N BRIGHDHE NAOFA,Cinn Mara,Co. na Gaillimhe,,,Galway,H91F2A4
+17774F|S N LISSARA NAOFA,Baile na Carra,Baile an Mhóta,Co. Shligigh,,Sligo,F56PN59
+17776J|S N COMHGHALL,Coininsi,Clones,Co. Monaghan,,Monaghan,H23EH04
+17779P|POWERSTOWN N S,Clonmel,Co. Tipperary,,,Tipperary,E91Y961
+17780A|BALLYHAISE N S,Cavan Road,Ballyhaise,,,Cavan,H12F825
+17782E|S N BRIDE NAOFA,Sean Tallamh,Gaillimh,,,Galway,H91VW59
+17783G|S N CHUIRT DOIGHTE,Burncourt,Cahir,Co. Tipperary,,Tipperary,E21PT44
+17784I|S N PADRAIC NAOFA,Sráid Lombard,Gaillimh,,,Galway,H91K3C7
+17785K|SAN NIOCLAS MYRA,Malahide Road,Kinsealy,Dublin 17,,Dublin,D17FP52
+17787O|S N COLMCILL NAOFA,Moone,Athy,Co. Kildare,,Kildare,R14AY61
+17789S|S N CILL TARTAIN,Gort Inse Guaire,Co. na Gaillimhe,,,Galway,H91C6E8
+17790D|CURRAGHAGALLA N S,Curraghagalla,Kilworth,,,Cork,P61AV80
+17793J|S N PADRAIG NAOFA,Cloideach,Áth Cinn,Co. na Gaillimhe,,Galway,H91CK06
+17794L|S N AN PHAIRC,Park,Youghal,Co. Cork,,Cork,P36CK76
+17796P|Our Lady's National School,Nurney,Carlow,Co. Carlow,,Carlow,R93D340
+17799V|S N NA HAILLE,Aill,An Mhóin Ard,Co. Thiobraid Árann,,Tipperary,E34FF90
+17800D|S N SEOSAMH NFA,Bree,Enniscorthy,Co. Wexford,,Wexford,Y21TW82
+17804L|S N CNOC NA MANACH,Minane Bridge,Cork,,,Cork,P17RX71
+17806P|CILL CLEITHE N S,Cill Cleithe,Castledaly,Moate,,Westmeath,N37K8V0
+17807R|S N CATHAIR GEAL,Cathair Geal,Tuam,Co. Galway,,Galway,H54C593
+17808T|ST MARY'S PRIMARY,Strokestown,Co. Roscommon,,,Roscommon,F42XD34
+17810G|SN NICOLAIS NAOFA,Dunluain,Co. Chill Mhantáín,,,Wicklow,W91YY22
+17812K|ST MARYS N S,Parnell Avenue ,Co. Wexford,,,Wexford,Y21FX21
+17814O|GEAROID UI GHRIOBHTHA,Loughill,Co. Limerick,,,Limerick,V94EK19
+17816S|COORACLARE B N S,Cooraclare,Kilrush,,,Clare,V15D728
+17820J|BRIGHDE NAOFA,Baile Rothluis,Kilsallaghan,Co. Dublin,,Dublin,K67Y308
+17821L|ST. MARY'S PRIMARY SCHOOL,Enfield,Co. Meath,,,Meath,A83X316
+17822N|SCOIL BHRIGHDE,Min a Chladaigh,Gort a Choirce,Co. Dhún na nGall,,Donegal,F92XN81
+17823P|GLANTANE B N S,Brittas,Lombardstown,Co. Cork,,Cork,P51PK65
+17826V|Scoil na Coróine Mhuire,Ashford,Co. Wicklow,,,Wicklow,A67X257
+17827A|SCOIL PHADRAIG,Patrick Street,Portarlington,Co. Offaly,,Offaly,R32NR76
+17828C|SCOIL ADHAMHNAIN,Rathbhoth,Leithbhearr,Co. Dhún na nGall,,Donegal,F93K851
+17829E|S N ATH AN MHUILLINN,Rathluirc,Co. Cork,,,Cork,P56FA00
+17831O|GLEBE NS,The Glebe,Dún na nGall,Co. Dhún na nGall,,Donegal,F94K407
+17832Q|KILNABOY N S,Kilnaboy,Ennis,Co. Clare,,Clare,V95HX58
+17837D|SCOIL MHUIRE,Pettigo,Co. Donegal,,,Donegal,F94C960
+17838F|S N EOIN NAOFA,Baile Easa Dara,Co. Shligigh,,,Sligo,F91K032
+17839H|S N BHEINN NAOFA B,Duleek,Co. Meath,,,Meath,A92C903
+17840P|S N BHEININ NAOFA C,Duleek,Co. Meath,,,Meath,A92W722
+17841R|SN MHUIRE,Ballyhogue,Bree,Co. Wexford,,Wexford,Y21Y898
+17845C|SCOIL MHUIRE,Brierhill School,Brierhill,Galway,,Galway,H91E5C9
+17847G|S N AIBHISTIN NAOFA,Cill Seanaigh,Inis,Co. an Chláir,,Clare,V95XF75
+17848I|S N MHUIRE,Gleann an Phréacháin,Glenville,Co. Cork,,Cork,T56PP79
+17849K|S N O DUBHLAIN,Ballagh,Kilrooskey,Co. Roscommon,,Roscommon,F42CF90
+17850S|S N PHADRAIG NAOFA,Páirc na Coille,Borrisokane,Co. Tipperary,,Tipperary,E45K681
+17854D|S N PADRAIG NAOFA,St. Patrick's B.N.S.,Coote's Lane,Co. Kilkenny,,Kilkenny,R95DX80
+17856H|S N DUN UABHAIR,Dún Uabhair,Drogheda,Co. Meath,,Meath,A92A568
+17857J|S N AINDREIS NAOFA,Curraha,Ashbourne,Co. Meath,,Meath,A84DF89
+17858L|S N COILL AN IARAINN,Kilanerin,Gorey,Co. Wexford,,Wexford,Y25VK29
+17863E|SCOIL IARLATHA NAOFA,Mionloch,Béal Átha na Sluaighe,Co. na Gaillimhe,,Galway,H53HW42
+17867M|SCOIL IOGNAID DE RIS,Stephen Street,Kilkenny,,,Kilkenny,R95EC93
+17868O|SCOIL FREASTOGAIL MUIRE,College Road,Fermoy,,,Cork,P61N562
+17869Q|S N CIARAIN NAOFA,Dubhros,Cinn Mhara,Co. na Gaillimhe,,Galway,H91DFH7
+17870B|SCOIL BHREANDAIN NAOFA,Cluain Fhearta,Béal Átha na Sluaighe,Co. na Gaillimhe,,Galway,H53EW70
+17871D|SCOIL CILL CHURNAIN,Kilcornan,Co. Limerick,,,Limerick,V94XF95
+17872F|ST CONLETHS AND MARYS N S,Newbridge,Co. Kildare,,,Kildare,W12VN26
+17873H|S N CONNLAODH NAOFA N,Newbridge,Co. Kildare,,,Kildare,W12WV88
+17874J|GLENCORRIB N S,Glencorrib,Shrule,Co. Mayo,,Mayo,H91NAV2
+17877P|SCOIL MUIRE NAOFA,Mionloch,Béal Átha na Sluaighe,Co. na Gaillimhe,,Galway,H53A3E8
+17881G|SCOIL UI CHONAILL BOYS SENIORS,North Richmond Street,Dublin 2,,,Dublin,D01H9X5
+17882I|S N AODHA NAOFA,Rahugh,Kilbeggan,,,Westmeath,N91XF20
+17883K|MUIRE NAOFA CASTLECUFFE,Castlecuffe,Clonaslee,Co. Laois,,Laois,R32CR74
+17887S|S N NAOMH PADRAIG BOYS SENIOR SCHOOL,New Road,Mallow,,,Cork,P51TD30
+17891J|SCOIL MHUIRE,Mount Sackville Convent,Chapelizod,Dublin 20,,Dublin,D20HX04
+17893N|SANCTA MARIA C B S,Synge Street,Dublin 8,,,Dublin,D08V6R9
+17899C|SCOIL CARMEL,Teach na  Giúise,Tallaght,Dublin 24,,Dublin,D24NA44
+17903N|CORR NA MADADH N S,Cornamaddy,Athlone,Co. Westmeath,,Westmeath,N37TR23
+17904P|S N BRUSNA,Brusna,Bealach an Doirín,Co. Roscommon,,Roscommon,F45AR29
+17905R|S N TOBAIR EOIN BAISDE,Johnswell,Co. Kilkenny,,,Kilkenny,R95YY10
+17907V|CROSSBRIDGE N S,Crossbridge,Tinahely,Co. Wicklow,,Wicklow,Y14YH51
+17911M|COLMCILLE MIXED N S,Bigwood,Mullinavat,Co. Waterford,,Kilkenny,X91YA49
+17912O|S N EOIN BOSCO BUACH,Navan Road,Dublin 7,,,Dublin,D07V654
+17913Q|S N MHUIRE,Barntown,Co. Wexford,,,Wexford,Y35X620
+17914S|ST OLIVER PLUNKETT,Grove Road,Malahide,Co. Dublin,,Dublin,K36H998
+17915U|FREASTOGAIL MHUIRE MXD,Killahan,Abbeydorney,Tralee,,Kerry,V92XH31
+17919F|AIBHISTIN NAOFA,Cluain Tuaiscirt,Béal Átha na Sluaighe,Co. na Gaillimhe,,Galway,H53X568
+17920N|DONARD N S,Donard,Co. Wicklow,,,Wicklow,W91TW42
+17921P|S N MOING NA MIOL,Clashbee,Mallow,Co. Cork,,Cork,P51D409
+17922R|CLOGHANS HILL N S,Tuam,Co. Galway,,,Mayo,H54H024
+17923T|S N BEAL AN MHUIRTHEAD,Béal an Mhuirthead,Co. Mhaigh Eo,,,Mayo,F26H285
+17928G|SN N SAILBHEASTAR NFA,Yellow Walls Road,Malahide,Co. Dublin,,Dublin,K36PA66
+17930Q|S N SEACHNAILL NAOFA,Dunshaughlin,Co. Meath,,,Meath,A85R262
+17931S|S N BRIGHDE,Ticknevin,Carbury,Co. Kildare,,Kildare,W91P868
+17932U|ODHRAN NAOFA N S,Sonna,Slanmore,Co. Westmeath,,Westmeath,N91Y682
+17934B|SCOIL BHRIDE,An Cnoc Bhreac,Béal Átha na Sluaighe,Co. na Gaillimhe,,Galway,H53K188
+17936F|SN EOIN BAISDE BOYS SENIOR SCHOOL,Seafield Road,Clontarf,Dublin 3,,Dublin,D03HK82
+17937H|SCOIL MOIN A LIN,Castleroy,Limerick,,,Limerick,V94T9P1
+17940T|S N NA MBUACHAILLI,Tulach Seasta,Newport,Co. Tipperary,,Tipperary,V94RX20
+17945G|SCOIL NAOMH CHAITRIONA,Ballyshannon,Co. Donegal,,,Donegal,F94RK10
+17946I|SCOIL NAIS NAOMH AINE,Maio,Tierworker,Kells,Co. Meath,Meath,A82AP80
+17947K|SCOIL NAOMH BRIDE,Boardsmill,Trim,Co. Meath,,Meath,C15TP62
+17950W|SHANAGARRY N S,Shanagarry,Midleton,Co. Cork,,Cork,P25V599
+17951B|SCOIL O CURAIN B,Newcastle West,Co. Limerick,,,Limerick,V42X343
+17952D|S N NAOMH FHIONAIN,Dillonstown,Drumcar,Co. Louth,,Louth,A92CX60
+17953F|S N BHAILE EAMONN,Edmondstown Road,Rathfarnham,Dublin 16,,Dublin,D16XF86
+17954H|SCOIL CAOIMHIN NAOFA,Mount Merrion,Blackrock,Co. Dublin,,Dublin,A94KW94
+17955J|MUIRE GAN SMAL,Cluain Dalláin,Fermoy,Co. Cork,,Cork,P61PW10
+17956L|SCOIL CHOLMCILLE NAOFA,Ballylast,Castlefin,Co. Donegal,,Donegal,F93NC84
+17957N|HOLY FAMILY JUNIOR SCHOOL,Station Road,Ennis,,,Clare,V95YR79
+17961E|S N LUSCA,Chapel Road,Lusk,Co. Dublin,,Dublin,K45CX43
+17964K|S N MHUIRE NAOFA,Rathfeigh,Tara,Co. Meath,,Meath,C15F220
+17965M|S N BHRIDE,Ard Achaidh,Omeath,Co. Louth,,Louth,A91DA37
+17967Q|S N MULLACH RUA,Mullaghroe,Gurteen,via Boyle,,Sligo,F52AK84
+17968S|URSAILLE NAOFA,Teach an Dá Mhíle,Naas,Co. Kildare,,Kildare,W91YY75
+17969U|S N MHUIRE,An Uaimh,Co. na Mí,Abbey Road,,Meath,C15DA09
+17970F|OUR LADY OF MERCY CONVENT SCHOOL,Rosemount Terrace,Booterstown,Co. Dublin,,Dublin,A94V656
+17972J|S N CILL MHUIRE B,Lisardagh,Co. Cork,,,Cork,P14R670
+17976R|SCOIL ASSAIM BOYS SENIORS,Raheny,Dublin 5,,,Dublin,D05AW29
+17977T|SCOIL AINE CONVENT SENIOR,All Saints Drive,Raheny,Dublin 5,,Dublin,D05PD34
+17978V|NAISCOIL IDE,All Saint Drive,Raheny,Dublin 5,,Dublin,D05E932
+17979A|S N CNOC AINBHIL,Lower Kilmacud Road,Stillorgan,Co. Dublin,,Dublin,A94E2N7
+17980I|SCOIL MHUIRE,Ardeevin,Williamstown,Co. Galway,,Galway,F45DX68
+17981K|S N GLEANN NA GCREABHAR,Gleann na gCreabhar,Cill Mocheallóg,Co. Luimnigh,,Limerick,V35TX00
+17986U|S N NMH SHEOSAMH,Boyerstown,Navan,Co. Meath,,Meath,C15WT26
+17990L|S N DROM CNAMH,Drom Cnamh,Co. Cavan,,,Cavan,H12FX65
+17991N|EOIN NAOFA N S,Ballymore,Mullingar,Co. Westmeath,,Westmeath,N91HY28
+17993R|SCOIL MHUIRE GAN SMAL B,School Avenue,Glasheen Road,Co. Cork,,Cork,T12V084
+17994T|S N FHOIRTCHEIRN/FHININ,Myshall,Bagenalstown,Co. Carlow,,Carlow,R21HR22
+17995V|S N OILIBHEAR PLUNGLEAD,Killina,Carbury,Co. Kildare,,Kildare,W91XC62
+17996A|GLEN NA SMOL N S,Glenasmole National School,Bohernabreena,Dublin 24,,Dublin,D24YC57
+17997C|ST MARYS N S GRANGE,Ballybrusa,Grange,via Youghal,,Waterford,P36AT88
+18000W|Scoil Mhuire Naofa,Carrigtwohill,Co. Cork,,,Cork,T45AK65
+18001B|S N NAOMH LORCAN,Omeath,Dundalk,Co. Louth,,Louth,A91E265
+18002D|DRUMGALLAGH N S,Ballycroy,Westport,Co. Mayo,,Mayo,F28PP27
+18003F|S N ATHRACHT NFA,Charlestown,Co. Mayo,,,Mayo,F12T440
+18005J|SCOIL MHUIRE GAN SMAL,Fíodhbhach,Díseart,Co. Ros Comáin,,Roscommon,H53NX71
+18007N|S N OLIBHEAR PLUINCEID,Rann na Feirste,Anagaire,Co. Dhún na nGall,,Donegal,F94AC96
+18010C|Davidstown Primary School,Davidstown,Enniscorthy,Co. Wexford,,Wexford,Y21E772
+18012G|S N CRUACHAIN,Carrowmore,Croghan,via Boyle,,Roscommon,F52NH72
+18014K|Scoil an Chroi Ro Naofa,The Swan National School,via Athy,Co. Laois,,Laois,R14PF79
+18016O|S N COLUMBAIN,Baile Íomhair,Co. na Mí,,,Meath,C15AE33
+18018S|SCOIL BHRIDE N S,Rathangan,Co. Kildare,,,Kildare,R51FP93
+18019U|S N CHAOIMHIN NAOFA,Philipstown,Dunleer,Drogheda,,Louth,A92D761
+18020F|S N AN GHARRAIN,Upton,Co. Cork,,,Cork,T12C799
+18021H|SN AN CROI RO NAOFA,Béal Chláir,Co. na Gaillimhe,,,Galway,H54NY03
+18023L|S N ATH NA BH-FEARCON,Aughnafarcon,Broomfield,Castleblayney,Co. Monaghan,Monaghan,A75Y934
+18024N|SCOIL MUIRE GAN SMAL,Ard Aitinn,Co. Ceatharlach,,,Carlow,R93WC03
+18027T|CLOONIQUIN N S,Ailfionn,An Caisleán Riabhach,Co. Ros Comáin,,Roscommon,F45Y045
+18028V|CORR A CHRAINN NATIONAL SCHOOL,Corr a Chrainn,Emyvale,Co. Monaghan,,Monaghan,H18XH29
+18029A|S N MUIRE GAN SMAL,Druimeanna,Tubbercurry,Co. Sligo,,Sligo,F91DW65
+18030I|SCOIL AILBHE,Cathair Ailbhe,Ballybricken Grange,Kilmallock,Co. Limerick,Limerick,V35T283
+18031K|S N BRIDE,Crochta Greine,Currach,Co. Chill Dara,,Kildare,R56NR27
+18032M|S N CLUAIN MUINGE,Clonmoney,Newmarket-on-Fergus,Co. Clare,,Clare,V95AH94
+18033O|KILCOMMON N S,Kilcommon,Churchlands,Tinahely,Arklow,Wicklow,Y14Y302
+18034Q|S N MHUIRE,Muchgrange,Grianphort,Dún Dealgan,Co. Lú,Louth,A91DK09
+18036U|DIARMADA N S,Castlepollard,Co. Westmeath,,,Westmeath,N91WC61
+18037W|S N MHUIRE,Baile Uí Earáin,Baile Lóibín,Co. na Mí,,Meath,C15CF59
+18038B|ST MARGARETS N S,Sandyhill,Saint Margaret's,Co. Dublin,,Dublin,K67PE80
+18039D|NA MINTEOGA N S,Headford,Killarney,Co. Kerry,,Kerry,V93PF30
+18040L|S N NAOMH PADRAIG,Collon Road,Slane,,,Meath,C15NX78
+18042P|Presentation Primary School,Dublin Road,Tuam,,,Galway,H54F970
+18043R|S N MUIRE GAN SMAL,Tiernascragh,Ballycrissane,Ballinasloe,Co. Galway,Galway,H53TP86
+18044T|S N NAOMH PADRAIG,Cockhill Road,Stamullen,,,Meath,K32KR96
+18045V|S N MUIRE GAN SMAL,Cartown,Termonfeckin,Drogheda,Co. Louth,Louth,A92A567
+18046A|SCOIL BRIDE B,Church Avenue,Blanchardstown,,,Dublin,D15H329
+18047C|SCOIL BRIDE C,Church Avenue,Blanchardstown,Dublin 15,,Dublin,D15R271
+18048E|S N NAOMH DEAGLAN,Ard Mór,Co. Phort Láirge,,,Waterford,P36P527
+18049G|MUIRE NA MAINISTREACH,Muire na Mainistreach,Cill Airne,Co. Chiarraí,,Kerry,V93T271
+18051Q|COOLE N.S,,Garradice,Kilcock,Co. Kildare,,Meath,W23AXK8
+18052S|S N MUIRE GAN SMAL,Clochar Loreto,Cnoc na Faire,Leitir Ceanainn,,Donegal,F92CK27
+18053U|SOOEY N S,Sughaidh,Cul Átha  Boyle,,,Sligo,F52C862
+18054W|HOLLYWOOD N S,Hollywood,Naas,Co. Wicklow,,Wicklow,W91N260
+18055B|S N MHUIRE,Ballymore  Eustace,Naas,Co. Kildare,,Kildare,W91PF86
+18057F|SCOIL MHUIRE,Kilcruttin,Tullamore,Co. Offaly,,Offaly,R35K250
+18058H|SCOIL NAOMH SEOSAMH,Rathdomhnaill,Treantach,Letterkenny,,Donegal,F92K403
+18059J|BAILIEBORO N S,Bailieboro,Co. Cavan,,,Cavan,A82DR53
+18061T|SCOIL MHUIRE,Ballyleague,Lanesboro PO,Co. Roscommon,,Roscommon,N39PX49
+18062V|S N AN GRAINSEACH,Clonmel,Co. Tipperary,,,Tipperary,E91KT67
+18063A|S N NAOMH LORCAIN,Levitstown,Maganey,Athy,Co. Kildare,Kildare,R93KX24
+18064C|S N MUIRE,Bealch Gabhráin,Co. Kilkenny,,,Kilkenny,R95ND27
+18068K|S N PEADAR AGUS POL,Áth an Urchair,Moate,Co. Offaly,,Offaly,N37E335
+18069M|NAOMH SEOSAMH,Mell,Drogheda,Co. Louth,,Louth,A92W951
+18070U|Scoil Mhuire gan Smál,Claremorris,Co. Mayo,,,Mayo,F12XY16
+18075H|RATHDOMHNAIGH N S,Church Street,Rathdowney,Co. Laois,,Laois,R32XF63
+18076J|SCOIL NÁISIÚNTA MUIRE GAN SMÁL,Townparks,Lifford,Co. Donegal,,Donegal,F93DE28
+18077L|S N CNOC MACHAN,Bun Machan,Co. Waterford,,,Waterford,X42AD91
+18078N|SCOIL BHRIDE B7C,Paulstown,Kilkenny,,,Kilkenny,R95E170
+18080A|SCOIL MHUIRE MXD,Tucketts Lane,Howth,Co. Dublin,,Dublin,D13PW99
+18082E|S N DUMHACH,Dooagh,Achill,Co. Mayo,,Mayo,F28AK54
+18084I|SCOIL MHUIRE GAN SMAL,Lixnaw,Co. Kerry,,,Kerry,V92YK84
+18085K|BALLYNEALE N S,Carrick-on-Suir,Co. Tipperary,,,Tipperary,E32YV18
+18086M|DUNFANAGHY N S,Hornhead Rd,Dunfanaghy,Co. Donegal,,Donegal,F92HD96
+18087O|S N ODHRAN NAOFA,Baile na Cloiche,Nenagh,Co. Tipperary,,Tipperary,E45EY97
+18089S|SCOIL NAOMH MHUIRE,Maree,Oranmore,Co. Galway,,Galway,H91PK19
+18090D|S N CILL DAMHAIN,Cill Damhain,Inis Córthaidh,Co. Loch Garman,,Carlow,Y21EC60
+18092H|S N BAILE MHIC ADAIM,Baile Mhic Adaim,Magh Bhealaigh,Co. Chill Dara,,Kildare,W91YX81
+18093J|S N CLOCH RINNCE,Cloch Rinnce,Magh Bhealaigh,Co. Chill Dara,,Kildare,W91NN8F
+18094L|S N DUN NA MAINISTREACH,Dungarbhan,Co. Waterford,,,Waterford,X35NW50
+18096P|S N COILL DUBH,Naas,Co. Kildare,,,Kildare,W91D854
+18097R|TOGALA MHUIRE,Cill Tulcha,Athenry,Co. Galway,,Galway,H65Y309
+18099V|S N MUIRE NA TROCAIRE,Ardeevin,Co. Louth,,,Louth,A92FR58
+18101F|S N MUIRE,Páirc na Rian,Jenkinstown,Dundalk,Co. Louth,Louth,A91VP64
+18106P|S N NA TRIONOIDE NAOFA,Lios Muilinn,Cros Ghearla,Co. na Mí,,Meath,C15NH68
+18108T|WHITECHURCH N S CEAPACH,Clonkerdon,Cappagh,Dungarvan,,Waterford,X35N560
+18109V|S N INIS CEALTRACH,Mountshannon,Co. Clare,,,Clare,V94YP68
+18111I|S N GORT NA GAOITHE,Gort na Gaoithe,Newbridge,Ballinasloe,,Galway,H53A242
+18112K|SCOIL NAOMH EANNA,Baullaun,Loughrea,Co. Galway,,Galway,H62EY13
+18113M|S N CILL SOLAIN,Killasolan,Caltra,Ballinasloe,Co. Galway,Galway,H53VF21
+18114O|S N NAOMH EIGHNEACH,Díseart Éignigh,Bun Cranncha,Co. Dhún na nGall,,Donegal,F93YN52
+18115Q|S N MHUIRE,Cluain na nGamhan,Tullamore,Co. Offaly,,Offaly,R35NP58
+18116S|Cloontuskert National School,Lanesboro,Co. Longford,,,Roscommon,N39AT80
+18118W|COOLFANCY N S,Cúl Fhasaigh,Tinahely,Co. Wicklow,,Wicklow,Y14VY60
+18120J|SCOIL MHUIRE,Caiseal,Ceanndroma,Fánaid,,Donegal,F92V449
+18121L|S N MHUIRE,Carna,Co. na Gaillimhe,,,Galway,H91D2H5
+18125T|SCOIL NAOMH MHUIRE,Mountbellew,Ballinasloe,Co. Galway,,Galway,H53DV74
+18126V|S N SAN NIOCLAS,Tigh Banan,Castlebellingham,Co. Louth,,Louth,A91KD91
+18127A|SN MHUIRE BOYS SENIOR SCHOOL,Railway rd,Belturbet,,,Cavan,H14WA46
+18128C|S N MHUIRE MXD,Coiscéim,Mallow,Co. Cork,,Cork,P51X478
+18129E|SCOIL NAOMH PEADAR,Mountcharles,Co. Dhún na nGall,,,Donegal,F94VX99
+18130M|ST PATRICKS NS,Johnstownbridge,Enfield,Co. Meath,,Kildare,A83KD59
+18131O|S N MUIRE GAN SMAL,Ard a Ratha,Co. Dhún na nGall,,,Donegal,F94X348
+18132Q|S N MUIRE,Carlanstown,Kells,Co. Meath,,Meath,A82AH22
+18133S|FIONNTAIN NFA N S,St. Fintan's NS,Magh Glas,Co. Wexford,,Wexford,Y35TE83
+18135W|SCOIL ANGELA,Ursuline Convent,Thurles,Co. Tipperary,,Tipperary,E41ET35
+18137D|SN NAOMH FEARGAL BOYS SENIOR,Finglas West,Dublin 11,,,Dublin,D11E925
+18139H|S N NAOMH PADRAIG,Tearmon,Spencer Harbour,Drumkeerin,,Leitrim,N41V344
+18142T|SCOIL CNOC LOINGE B,Knocklong,Co. Limerick,,,Limerick,V35A627
+18145C|SN NMH TREASA,Kilkelly,Ballyhaunis,Co. Mayo,,Mayo,F35P650
+18148I|SCOIL BHRIDE MIXED N S,Lann Léire,Ardee Road,Dunleer,,Louth,A92YW92
+18150S|FRAOCH MOR N S,Scoil an Fhraoich Mhóir,The Heath,Portlaoise,Co. Laois,Laois,R32XW40
+18151U|S N MHUIRE,Baile an nGalloclach,Letterkenny,Co. Donegal,,Donegal,F92D744
+18153B|S N PADRAIG NAOFA C,Dillons Cross,Cork,,,Cork,T23VAD9
+18154D|S N PADRAIG NAOFA,Dillons Cross,Cork,,,Cork,T23AX20
+18157J|ST RYNAGHS N S,Banagher,Birr,,,Offaly,R42H221
+18158L|S N SEAMUS NAOFA,Glenmore,via Waterford,Co. Kilkenny,,Kilkenny,Y34C527
+18161A|CASTLECONNELL N S,Castleconnell,Co. Limerick,,,Limerick,V94XA43
+18163E|SN N BREANDAIN,Eanach Dhuin,Cor an Dola,Co. na Gaillimhe,,Galway,H91C963
+18164G|S N BUIRGHEAS,Nenagh,Co. Tipperary,,,Tipperary,E45FP97
+18165I|TISRARA NATIONAL SCHOOL,Tigh Srathra,Co. Roscommon,,,Roscommon,F42T295
+18166K|CLUAIN EIDHNEACH N S,Cluain Eidhneach,Mountrath,Co. Laois,,Laois,R32CP84
+18167M|S N AINE NFA SEAFIELD,Seafield,Bunmahon,Co. Waterford,,Waterford,X42TH28
+18168O|S N AN CHRIOCH,An Chrioch,Kilrush,,,Clare,V15YD63
+18169Q|S N RATH RIAGAIN,Rathregan,Batterstown,Dunboyne,,Meath,A86T665
+18170B|SN MUIRE NA FREASTOGALA GIRLS SEN,Assumption Senior Girls NS,Long Mile Road,Dublin 12,,Dublin,D12FK49
+18172F|GLENEELY N S,Gleann an Fhaoilidh,Killygordon,Co. Donegal,,Donegal,F93EV88
+18173H|S N BRIOTAS,Brittas,Co. Dublin,,,Dublin,D24WK77
+18174J|S N CAITRIONA NAOFA,Oristown,Kells,Co. Meath,,Meath,A82DP71
+18177P|SCOIL AINE NAOFA,Rathkeale,Co. Limerick,,,Limerick,V94YY15
+18178R|ST JOSEPHS CONVENT,Dublin Road,Longford Town,,,Longford,N39DY23
+18179T|S N BRIDE,Lackagh,Monasterevin,Co. Kildare,,Kildare,W34VW50
+18181G|St. Hugh's N.S.,Dowra,via Carrick-on-Shannon,Co. Leitrim,,Leitrim,N41TC66
+18182I|NAOMH ATRACHTA,Kingsland,Mainistir na Buille,Co. Roscommon,,Roscommon,F52PH39
+18183K|QUEEN OF UNIVERSE N S,Long Range,Muinebheag,Co. Carlow,,Carlow,R21T280
+18184M|S N CILL LÚRAIGH,Causeway,Tralee,Co. Kerry,,Kerry,V92EY40
+18186Q|SCOIL PHADRAIG NAOFA,Kilcurry,Dundalk,Co. Louth,,Louth,A91D302
+18190H|S N CRONAIN NFA AN CARN,Carron,Ennis,,,Clare,V95YA22
+18191J|S N RAITHIN,Raheen,Enniscorthy,Co. Wexford,,Wexford,Y21E129
+18193N|S N NAOMH FIONTAN,Lismacaffrey,Mullingar,Co. Westmeath,,Westmeath,N91CF40
+18194P|CIARAN NAOFA,Fiodharta,Co. Ros Comáin,,,Roscommon,F42YK22
+18195R|ST FINIAN N S,Clonalvy,Garristown,Co. Meath,,Meath,A42XD43
+18196T|St Patrick's National School,Boherash,Glanworth,Co. Cork,,Cork,P51DP04
+18198A|PADRAIG NAOFA N S,Avoce,Co. Wicklow,,,Wicklow,Y14X588
+18203N|SCOIL NÁISIÚNTA CÚIL an tSÚDAIRE 2,Sandy Lane,Portarlington,Co. Laois,,Laois,R32Y195
+18205R|S N AN PHAROISTE,Church Street,Finglas,Dublin 11,,Dublin,D11XT35
+18206T|NA CARRAIGE N S,Na Carraige,Mountmellick,Co. Laois,,Laois,R32AP98
+18207V|S N BAILE AN ATHA,Killaloe,Co. Clare,,,Tipperary,V94V8X6
+18212O|SCOIL NA MAIGHDINE MHUIRE,PO Box 8,Harbour Street,Co. Westmeath,,Westmeath,N91YD83
+18213Q|S N LEAMHACH,Thurles,Co. Tipperary,,,Tipperary,E41NF72
+18214S|CIL CONLA N S,Cill Conla,Ballybunion,Co. Kerry,,Kerry,V31YC04
+18217B|SCOIL PADRE PIO N S,Churchfield,Cork City,,,Cork,T23DH24
+18219F|SN CHONAILL,Machaire Clochair,Bun Beag,Co. Dhún na nGall,,Donegal,F92DD30
+18225A|S N MHUIRE MILIUC,Luimneach,Co. Luimnigh,,,Clare,V94E0C0
+18227E|SCOIL MHUIRE NAISIUNTA,Cora Finne,Co. an Chláir,,,Clare,V95YP02
+18233W|St Johns Parochial School,Ashe Street,Tralee,,,Kerry,V92EV50
+18234B|SCOIL NAOMH PADRAIG,Eo-Dhrium,Castleblayney,Co. Monaghan,,Monaghan,A75XN97
+18235D|S N MUIRE AN PORT MOR,Ross Road,Ferrybank,Waterford,,Waterford,X91AF80
+18236F|Scoil Naomh Mhuire National School,Baile Dhá Thuile,Co. Luimnigh,,,Limerick,V94VK23
+18241V|SCOIL NAOMH CHOLMCILLE,Drumman,Ramelton,Co. Donegal,,Donegal,F92NY91
+18242A|CARNEW N S,Carnew,Arklow,,,Wicklow,Y14XR62
+18246I|S N BAILE MUINE,Ballineen,Co. Cork,,,Cork,P47NW40
+18247K|S N MHUIRE NA MBRAITHRE,Clounalour,Tralee,,,Kerry,V92FD62
+18250W|S N BAILE MOR,Dunfanaghy,Letterkenny,Co. Donegal,,Donegal,F92E426
+18251B|AYR HILL N S RAMELTON,Tank Road,Ramelton,Letterkenny,Co. Donegal,Donegal,F92WT21
+18252D|SCOIL MHUIRE,Doire Glinne,An Sraith Salach,Co. na Gaillimhe,,Galway,H91P6A0
+18253F|SCOIL NAOMH CAITRIONA,Bishopstown Avenue,Model Farm Road,Co. Chorcaí,,Cork,T12TF74
+18256L|SCOIL BHRIGHDE,Silverstream,Monaghan,,,Monaghan,H18YK29
+18257N|S N BAILE AN FHASAIGH,Ballyfacey,Glenmore,Co. Kilkenny,,Kilkenny,X91C439
+18258P|NAOMH EARNAIN N S,Killashee,Longford,,,Longford,N39CK85
+18259R|Lanesborough Primary School,Lanesborough Primary School,Lanesborough,Co. Longford,,Longford,N39EH04
+18260C|SCOIL MHUIRE,Béal an Átha,Rathluirc,Co. Limerick,,Limerick,P56VW31
+18262G|LOCHAN AN BHEALAIGH N S,Lochan an Bhealaigh,Ballinea,Co. Westmeath,,Westmeath,N91KN56
+18265M|BHRIDE N S,Ard Duach,Carlow,Co. Carlow,,Laois,R93T611
+18266O|BALLYGOWN NS,Castletownroche,Co. Cork,,,Cork,P51FK18
+18267Q|CROINCHOILL N S,Crinkill,Birr,Co. Offaly,,Offaly,R42P585
+18268S|S N CILLININ,Killeeneen,Craughwell,Galway,,Galway,H91E293
+18272J|S N NAOMH EOIN,Lecarrow,Co. Roscommon,,,Roscommon,F42HC83
+18279A|St Mary's Church of Ireland N.S,Waterpark,Carrigaline,Co. Cork,,Cork,P43V243
+18280I|SCOIL NAOMH IOSEPH,Gorey,Co. Wexford,,,Wexford,Y25E135
+18282M|SN PAROISTE MAITIU NFA,Cranfield Place,Sandymount,Dublin 4,,Dublin,D04FK11
+18283O|SCOIL MHUIRE,Knockognoe,Brosna,Trá Lí,Co. Chiarraí,Kerry,V92E982
+18285S|S N CILL CHUIMIN,Thurles,Co. Tipperary,,,Tipperary,E41DK00
+18286U|S N NA HACRAI,Acres,Burtonport,Letterkenny,,Donegal,F94VY97
+18287W|S N NA MAIGHDINE MHUIRE,Gearr Eiscir,Moyvalley,Co. Kildare,,Kildare,W91Y512
+18288B|SCOIL MHICHIL NAOFA,Athy,Co. Kildare,,,Kildare,R14XD86
+18289D|SCOIL NAOMH IOSEF,Castlehackett,Belclare,Tuam,Co. Galway,Galway,H54FY23
+18292P|GAELSCOIL AN TEAGHLAIGH NAOFA,Tory Top Road,Ballyphehane,Co. Cork,,Cork,T12K039
+18294T|BARR NA SRUTHAN N S,Barr na Sruthán,Mountmellick,Co. Laois,,Laois,R32AX96
+18295V|S N MIN AN AOIRE,An Charraig,Co. Dhún na nGall,,,Donegal,F94DD80
+18296A|DROMDHALLAGH N S,Drimoleague,Co. Cork,,,Cork,P47V072
+18298E|S N CUL FADA,Cúl Fada,Ballymote,Co. Sligo,,Sligo,F56HD30
+18301N|SN MHUIRE BNS,Millstreet,Co. Cork,,,Cork,P51H278
+18308E|S N MOIN NA GCAOR,Monageer,Ballysimon,Co. Wexford,,Wexford,Y21TR52
+18309G|SCOIL BRIDE,Brierfield,Ballinasloe,Co. Galway,,Galway,H53W642
+18312S|S N TALAMH NA MANACH,Talamh na Manach,Carlingford,Co. Louth,,Louth,A91PW81
+18315B|S N PADRAIG NFA,Courtnacuddy,Enniscorthy,Co. Wexford,,Wexford,Y21RK00
+18316D|S N FHURSA,Ladhar,Banteer,Co. Cork,,Cork,P51D2HY
+18318H|S N NAOMH PARTHALAN,Cionn Sáile Beg,Youghal,Co. Cork,,Waterford,P36F827
+18319J|S N TRIANTA,Triantagh,Letterkenny,Co. Donegal,,Donegal,F92XV20
+18321T|S N MUIRE MAGH DEILGE,Dungarvan,Co. Waterford,,,Waterford,X35HK12
+18322V|S N AN DROMA,Drom,Templemore,,,Tipperary,E41PC86
+18323A|SCOIL LORCAIN B,Palmerstown,Dublin 20,,,Dublin,D20W227
+18324C|SCOIL BRIDE C,Turret Road,Palmerstown,Dublin 20,,Dublin,D20AC82
+18325E|Naomh Chartaigh Boys National School,Castleisland,Co. Kerry,,,Kerry,V92DY26
+18326G|S N NAOMH PADRAIG,Cill Chais,Clonmel,Co. Tipperary,,Tipperary,E91VX56
+18327I|S N CNOC DOIRE,Cooraclare,Kilrush,Co. Clare,,Clare,V15AR27
+18328K|S N PHADRAIG,Baile Bhriain,Fahy,Co. Offaly,,Offaly,R35X670
+18329M|S N NAOMH MHUIRE,Leckaun,via Sligo,,,Leitrim,F91N923
+18331W|S N CAOIMHIN NAOFA,Clonlisk National School,Shinrone,Birr,,Offaly,R42K702
+18332B|SCOIL NAOMH PADRAIG,Maigh Locha,Co. na Gaillimhe,,,Galway,H53PF54
+18334F|S N CNOC MIONNA,Baile an Mhóta,Co. Shligigh,,,Sligo,F56TX23
+18335H|S N MHUIRE NAOFA,An Ród,Co. Offaly,,,Offaly,R35KD66
+18336J|BOOLAVOGUE N S,Boolavogue,Ferns,Co. Wexford,,Wexford,Y21NW02
+18339P|SN IOSEF NAOFA,An Mhaigh,Leacht Uí Chonchubhair,Inis,Co. an Chláir,Clare,V95NW99
+18340A|S N PADRAIG,Lios Bo Duibhe,An Mhuinchille,Co. Cavan,,Cavan,H16X981
+18343G|S N CHAOIMHGHIN,Baile Dhaith,Thurles,Co. Tipperary,,Tipperary,E41VW24
+18344I|S N MHUIRE,Moynalvey,Summerhill,Co. Meath,,Meath,A83KD81
+18345K|S N IOSEF NAOFA,An Corrbhaile,Roscrea,Co. Tipperary,,Tipperary,E53Y449
+18346M|S N GREACH RATHAIN,Greaghrahan,Belturbet,,,Cavan,H14CH74
+18347O|S N SAN NIOCLAS,Nicholas Street,Dundalk,Co. Louth,,Louth,A91CR24
+18350D|S N NA HINSE,Bouladuff,Thurles,,,Tipperary,E41YF62
+18355N|Aughadreena National School,Aughdreena,Stradone,Co. Cavan,,Cavan,H12D923
+18356P|S N BARRA NAOFA,Sráid Gilabbey,Corcaigh,,,Cork,T12CH96
+18357R|S N PADRAIG NAOFA,Curtlestown,Enniskerry,Co. Wicklow,,Wicklow,A98CC62
+18358T|S N FIACH,Baile na Criadh,Oldcastle,Co. Meath,,Meath,A82X448
+18359V|S N CUAN,Cill Beathacn,Inis,Co. Clare,,Clare,V15AY68
+18360G|SCOIL BHREANDAIN,McAuley Road,Artane,Dublin 5,,Dublin,D05P820
+18361I|SN CAITRIONA GIRLS,Measc Avenue,Coolock,Dublin 5,,Dublin,D05HR61
+18362K|S N CAITRIONA NAIONAIN,Measc Avenue,Coolock,Dublin 5,,Dublin,D05FC92
+18363M|S N MUIRE GAN SMAL,Green Lane,Carlow,,,Carlow,R93FP57
+18364O|S N MUIRE BAINRION,Gilroy Avenue,Edenderry,Co. Offaly,,Offaly,R45XV22
+18365Q|KILMACANOGUE N S,Kilmacanogue,Bray,Co. Wicklow,,Wicklow,A98D602
+18366S|S N AODAIN,Ballintrillick,Hollyfield,Co. Sligo,,Sligo,F91XV91
+18367U|S N TOINN AN TAIRBH,Cappamore,Co. Limerick,,,Limerick,V94E670
+18368W|MHUIRE FATIMA N S,Tigh Mochue,Portlaoise,Co. Laois,,Laois,R32YN52
+18369B|S N CILL RUADHAIN,Nenagh,Co. Tipperary,,,Tipperary,E45PN25
+18371L|SCOIL MHUIRE,An Craosloch,Letterkenny,Co. Donegal,,Donegal,F92PN84
+18377A|IOSEF NAOFA,Barrack Hill,St. Bernard's Place,Fermoy,,Cork,P61YR82
+18378C|S N NAOMH IOSEPH,Baile Ailbhir,Kilcullen,Co. Kildare,,Kildare,R56W950
+18379E|BARNANE N S,Templmore,Co. Tipperary,,,Tipperary,E41PX67
+18380M|S N FAICHE LIAG,Faithlegg,Co. Waterford,,,Waterford,X91TW82
+18381O|SCOIL NA MBRAITHRE,College Street,Mullingar,,,Westmeath,N91HE22
+18382Q|SCOIL BHRIDE,Séalach,Hackbalscross,Dundalk,Co. Louth,Louth,A91Y744
+18386B|MARIST NATIONAL SCHOOL,Clogher Road,Crumlin,Dublin 12,,Dublin,D12YP98
+18387D|S N CATRIONA NFA,Ballyhack,Arthurstown,Co. Wexford,,Wexford,Y34KD29
+18388F|SCOIL NAOMH MICHEAL,Church Road,Blackrock,Co. Cork,,Cork,T12E620
+18391R|Faughart Community National School,Faughart,Dundalk,,,Louth,A91D897
+18393V|S N CILLIN,Crossreagh National School,Mullagh,via Kells,Co. Meath,Cavan,A82H704
+18395C|S N CLUAIN NA CILLE,Athlone,Co. Westmeath,,,Roscommon,N37E523
+18396E|S N RATH EILTE,Thurles,Co. Tipperary,,,Tipperary,E41YV10
+18399K|S N BHRIDE,Baile Átha Buídhe,Kilcormac,Co. Offaly,,Offaly,R42Y840
+18401R|SCOIL MHUIRE,Glasloch,Muinecháin,,,Monaghan,H18HC79
+18405C|S N PHOIL NAOFA,Athlone,Co. Westmeath,,,Westmeath,N37E973
+18406E|S N PROINSIAS NAOFA,Clarach,Co. Uíbh Fhailí,,,Offaly,R35TP08
+18410S|S N LIOSCEANUIR,Liscannor,Co. Clare,,,Clare,V95WV32
+18411U|ST MARYS SCHOOL,Greenhills Road,Tallaght,Dublin 24,,Dublin,D24K248
+18412W|S N C NAOMH PADRAIG,Scoil Phadraic Cailini,Portrane Road,Donabate,,Dublin,K36KH36
+18413B|S N NAOMH TREASA,Bellewstown,Drogheda,Co. Meath,,Meath,A92AX28
+18414D|S N GLEANN BEITHE,Glenbeigh,Co. Kerry,,,Kerry,V93KD50
+18421A|SN DUN CEANNFHAOLAIDH,Dun Ceannfhaolaidh,Co. Donegal,,,Donegal,F94W744
+18422C|SCOIL NA NOG,Gleann Maghair,Co. Chorcaí,,,Cork,T45RW94
+18424G|SCOIL NAIS IOSEF NAOFA,St. Joseph's Road,Co. Carlow,,,Carlow,R93HP99
+18426K|SCOIL IDE NAOFA,Raithineach,Bealach,Co. Luimnigh,,Limerick,V42P288
+18428O|S N BAILE NORA,Bailenóra,Tobar an Iarla,,,Cork,T12D500
+18429Q|S N MHUIRE,Cúl Ronáin,Baile Íomhair,Co. Meath,,Meath,C15HP57
+18430B|S N BAILE ROIBEAIRD,Baile Roibeaird,Nás na Ríogh,Co. Chill Dara,,Kildare,W91D403
+18431D|SN DROICHEAD NA BANDAN,Clancool,Bandon,,,Cork,P72HC65
+18432F|S N BAILE UI FHIDHNE,Screamog,Co. Roscommon,,,Roscommon,F42WV63
+18433H|NAOMH PIUS X N S,Ballacolla,Portlaoise,Co. Laois,,Laois,R32H211
+18434J|RATHCOYLE N S,Rathcoyle,Rathdangan,Kiltegan,,Wicklow,W91PN26
+18435L|SACRED HEART PRIMARY SCHOOL,Newline,Roscrea,Co. Tipperary,,Tipperary,E53T680
+18441G|SCOIL NAOMH CHUAN,Cill Íomair,Béal Átha na Sluaighe,Co. na Gaillimhe,,Galway,H53YK58
+18443K|S N IOSEF NAOFA,Aglish,Roscrea,Co. Tipperary,,Tipperary,E53RK65
+18444M|S N CLOGACH,Clogagh North,Timoleague,Co. Cork,,Cork,P72EP38
+18445O|S N SCOIL TREASA,Kilshanroe,Enfield,Co. Meath,,Kildare,A83PC95
+18446Q|SCOIL NAOMH MHUIRE,Cean Mhalanna,Ballygorman,Lifford,Co. Donegal,Donegal,F93FP76
+18448U|S N RATH BEAGAIN,Ráth Beagáin,Dún Seachlainn,Co. na Mí,,Meath,A85AE84
+18449W|ST CONLETHS N S,Derrinturn,Carbury,Co. Kildare,,Kildare,W91KC79
+18451J|SCOIL LORCAIN,Cearnóg Eaton,Baile na Manach,Co. Átha Cliath,,Dublin,A94F596
+18453N|S N MHICHIL NAOFA,Cill,Rath Molíain,Co. na Mí,,Meath,A83WV07
+18454P|S N NAOMH TREASA,Carraigín Rua,Mainistir na Buille,Co. Roscommon,,Roscommon,F52KD43
+18459C|SCOIL MHUIRE,Cill Mheanmnáin,Mullinahone,Thurles,Co. Tipperary,Tipperary,E41NR76
+18460K|SN BAILE AN MHUILINN,Baile an Mhuillin,Tuam,Co. Galway,,Galway,H54RR60
+18461M|S N MUIRE NA DOIRINI,Dreeny,Skibbereen,,,Cork,P81E023
+18462O|SCOIL LORCAIN BNS,St. John's Park,Waterford,,,Waterford,X91HY92
+18464S|St. Peter's Primary School,Hawthorn Road,Bray,Co. Wicklow,,Wicklow,A98YH93
+18465U|S N LIOS AN HALLA,Lissenhall,Nenagh,,,Tipperary,E45CK68
+18467B|S N BAILE AN DROICHID,O'Brien's Bridge,Limerick,,,Clare,V94CD83
+18468D|SCOIL MHUIRE,Caislean Uí Dhonnabháin,Drimoleague,Co. Cork,,Cork,P47E735
+18470N|NAOMH BRID N S,Knockananna,Arklow,Co. Wicklow,,Wicklow,Y14W864
+18471P|S N RATH CORR,Riverstown,Dundalk,Co. Louth,,Louth,A91X098
+18472R|SCOIL CHAITRIONA,Ballynoe,Mallow,Co. Cork,,Cork,P51YD60
+18473T|AN CHROI RO NAOFA N S,Aughrim,Co. Wicklow,,,Wicklow,Y14YH98
+18475A|S N BAILE UI CHROININ,Ballycroneen,Cloyne,,,Cork,P25TK38
+18477E|SCOIL NA MBRATHAR,John Dillon Street,Dublin 8,,,Dublin,D08FE83
+18482U|MHUIRE GRANSLA,Leachtgallon,Cluain Eois,Co. Mhuineacháin,,Monaghan,H23EY86
+18484B|MHUIRE N S,Ráth Airne,Mullingar,Co. Westmeath,,Westmeath,N91AV61
+18486F|S N CILL SIOLAIN,Cill Síoláin,Clonmel,Co. Tipperary,,Tipperary,E91CT99
+18487H|S N NAOMH MHUIRE,Fearann,Co. Chorcaí,,,Cork,P31E443
+18488J|SCOIL NAOMH GOBNAIT,Cúl na Sméar,Dungarvan,Co. Waterford,,Waterford,X35KF88
+18489L|TINAHELY N S,Tinahely,Arklow,,,Wicklow,Y14DC85
+18490T|SN M AN CROI GAN SMAL,Leenane,Co. Galway,,,Galway,H91C6H9
+18491V|S N GARRAN AN EASAIGH,Kilbrittain,Co. Cork,,,Cork,P72YP78
+18492A|S N NAOMH BRIGHID,Coill na gCros,Carrick-on-Shannon,Co. Leitrim,,Leitrim,N41VK83
+18494E|ST LOUIS INFANT SCHOOL,Park Road,Monaghan,,,Monaghan,H18P950
+18497K|LITTLE ISLAND NS,Little Island,Co. Cork,,,Cork,T45VA49
+18500T|S N NAOMH COLMCILLE,Mount Hanover,Duleek,Co. Meath,,Meath,A92TC99
+18501V|GRANGEMOCKLER NS,Carrick-on-Suir,Co. Tipperary,,,Tipperary,E32AY83
+18502A|S N NAOMH BRID,Talbotstown,Kiltegan,Co. Wicklow,,Wicklow,W91H762
+18503C|S N NAOMH BRID C,Oirreamh,Castlebar,Co. Mayo,,Mayo,F23P903
+18504E|S N N MAOLMHAODHAGH B,Anne Street,Dundalk,,,Louth,A91N286
+18505G|NAOMH CLAR N S,Tubberclare,Athlone,Co. Westmeath,,Westmeath,N37XV00
+18506I|S N NAOMH PADRAIG B,Market Square,Ballina,Co. Mayo,,Mayo,F26DD28
+18508M|NAOMH ADHAMHNAIN,Laghey PO,Co. Donegal,,,Donegal,F94E365
+18509O|AN TEAGHLAIGH NAOFA Girls Junior,Military Road,Waterford,,,Waterford,X91XN28
+18510W|St Patrick's National School,Ballymurphy,Borris,Co. Carlow,via Kilkenny,Carlow,R95FH76
+18512D|St Francis National School,Garryshane,Donohill,Co. Tipperary,,Tipperary,E34RK71
+18513F|NAOMH PADRAIG N S,Doire Liaim Óg,Rosenallis,Co. Laois,,Laois,R32YD81
+18514H|S N CHOILM CHILLE,An Tulach,Baile na hAbhann,Co. na Gaillimhe,,Galway,H91T224
+18515J|PROSPEROUS N S,Prosperous,Naas,,,Kildare,W91DT10
+18516L|S N LIOS NA GROI,Lisnagry,Co. Limerick,,,Limerick,V94K599
+18517N|SCOIL MHUIRE,Dristernan,Gleneely,Inishowen ,Co. Donegal,Donegal,F93P212
+18518P|S N CORR LORGAN,Corlurgan,Cabhán,,,Cavan,H12F786
+18520C|SCOIL PHADRAIG,Ráth Seinche,Clonmany,Co. Donegal,,Donegal,F93PY90
+18524K|S N NAOMH BRIGHDE BUACH,Kilcruttin,Tullamore,,,Offaly,R35N406
+18526O|BALLYCAR N S,Ballycar,Newmarket-on-Fergus,Co. Clare,,Clare,V95VR74
+18528S|ANNACARTY N S,Shanaknock,Annacarthy,Co. Tipperary,,Tipperary,E34X985
+18530F|ASKEATON SENIOR NS,Askeaton,Co. Limerick,,,Limerick,V94HD30
+18532J|ARDLIOS N S,Ardlois,Ballickmoyler,Co. Carlow,,Laois,R93HY62
+18533L|SCOIL MHUIRE,Teach Munna,Mullingar,Co. Westmeath,,Westmeath,N91FP46
+18535P|ST. JOHNS GIRLS N S,Ballea Road,Carrigaline,Co. Cork,,Cork,P43PK51
+18536R|S N MHUIRE LOURDES,Loch Glinne,Castlerea,Co. Roscommon,,Roscommon,F45K751
+18537T|S N ROS COM RUA,Ros Cum Rua,Ballybritt,Roscrea,Co. Tipperary,Offaly,E53TY38
+18538V|SCOIL MHUIRE,Newcastle,Clonmel,Co. Tipperary,,Tipperary,E91DX23
+18539A|SCOIL NAOMH MHUIRE,Tullybuck,Clontibret,Co. Monaghan,,Monaghan,H18XN29
+18540I|CLUAIN DRAIGNEACH,Cluain Draighneach,Lios Uí Chathasaigh,Inis,Co. an Chláir,Clare,V95DK15
+18541K|S N Chathair Aodha,Lissycasey,Ennis,Co. Clare,,Clare,V95AY67
+18542M|S N NAOMH PADRAIG,Upper Chapel Street,Castlebar,,,Mayo,F23K389
+18543O|S N CLOCHOG,Castlebaldwin,Boyle,Co. Roscommon,,Sligo,F52Y286
+18549D|S N CNOC NA CROIGHE,Cnoc na Groighe,Mallow,Co. Cork,,Cork,P51YA36
+18551N|SCOIL NA MAINISTREACH,Oldtown Road,Celbridge,Co. Kildare,,Kildare,W23VR98
+18555V|LISSYCASEY N S,Lissycasey,Ennis,Co. Clare,,Clare,V95DH58
+18557C|S N TEAMPALL DOIRE,Templederry,Nenagh,,,Tipperary,E45C853
+18558E|S N BAILE AN PHIARSAIGH,Drinagh,Co. Wexford,,,Wexford,Y35F663
+18561Q|St Joseph's NS,Rehins,Ballina,Co. Mayo,,Mayo,F26XY33
+18562S|S N AN TEAGHLAIGH,An Pháirc,Turloch,Caisleán an Bharraigh,Co. Mayo,Mayo,F23H322
+18563U|SCOIL NAOMH BRID C,Douglas Road,Cork,,,Cork,T12AK09
+18564W|S N LEITIR,Cill Cathlaigh,Co. Cavan,,,Cavan,A82CX30
+18565B|S N MA SHEASTA,Moyasta,Co. Clare,,,Clare,V15W635
+18566D|S N ATHAIR MAITIU C,Togher GNS,Togher,Co. Cork,,Cork,T12T996
+18567F|S N INIS,Inch,Killeagh,,,Cork,P36YW81
+18571T|S N CNOC AN CHROCAIRE,Cnoc an Chrocaire,Co. Roscommon,,,Roscommon,F42YF38
+18572V|GLENAMADDY NS,Kilkerrin Road,Castlerea,Co. Roscommon,,Galway,F45YP27
+18573A|Scoil Chriost Ri,Drumnacurra,Causeway,Tralee,,Kerry,V92TD45
+18575E|S N MOLAOISE,Gráinseach,Co. Shligigh,,,Sligo,F91W326
+18580U|S N MUIRE GAN SMAL,Cill Róis Íochtar,Teampaill Buí,Co. Shligigh,,Sligo,F91NT98
+18581W|SCOIL MHUIRE,Corr na Mona,Co. na Gaillimhe,,,Galway,F12WV77
+18582B|BALLYLOOBY N S,Cahir,Co. Tipperary,,,Tipperary,E21EC66
+18585H|SN BANRION NA NAINGEAL1,Gurteen Road,Ballyfermot,Dublin 10,,Dublin,D10A997
+18589P|S N MHIC DIARMADA,Coillte Clochair,Co. Leitrim,,,Leitrim,F91NF72
+18590A|SCOIL NAOMH ERC,Glenderry,Ballyheigue,Tralee,,Kerry,V92TP94
+18591C|NAOMH TOMAS N S,Rathowen,Co. Westmeath,,,Westmeath,N91HD26
+18592E|S N NAOMH IOSEF,Ard Chill,Templeboy,Co. Sligo,,Sligo,F91DH74
+18594I|S N ACHAIDH AN GHLAISIN,Béal an Mhuirthead,Co. Mhaigh Eo,,,Mayo,F26X763
+18598Q|EARNAIN MXD N S,Dealbhna Mór,Co. Westmeath,,,Westmeath,N91CTP4
+18600A|S N MA RUA,Maigh Rua,Co. Luimnigh,,,Limerick,V94X6T7
+18602E|SCOIL MHUIRE,Convent Road,Clondalkin,Dublin 22,,Dublin,D22F851
+18605K|SCOIL NAOMH PADRAIG BOYS,Carndonagh,Co. Donegal,,,Donegal,F93T935
+18607O|SCOIL NAOMH IOSEPH,Clinstown,Jenkinstown,Co. Kilkenny,,Kilkenny,R95XA00
+18608Q|S N MUIRE GAN SMAL,Claddaghduff,Co. Galway,,,Galway,H71YF76
+18609S|S N FIONTAIN NAOFA,Rathmore,Tullow,Co. Carlow,,Carlow,R93YH51
+18611F|S N NA CARRAIGE,An Charraig,Co. Dhún na nGall,,,Donegal,F94H674
+18612H|SCOIL MHUIRE,Achadh Lin,Ahalin,Co. Limerick,,Limerick,V94PC85
+18615N|S N CEATHARLACH,Green Road,Carlow,,,Carlow,R93A504
+18623M|SCOIL NAISUNTA CHNUACHA,Main Street,Castleknock,Dublin 15,,Dublin,D15PV38
+18624O|MERCY CONVENT KILLALOE,Killaloe,Co. Clare,,,Clare,V94D328
+18625Q|SCOIL CHOILMCILLE,Convent Road,Letterkenny,Co. Donegal,,Donegal,F92A386
+18626S|S N AN GLEANN DUIBH,Kiltoom,Athlone,Co. Roscommon,,Roscommon,N37YV82
+18630J|CARRIGAHOLT MIXED N S,Carrigaholt,Kilrush,Co. Clare,,Clare,V15A271
+18632N|S N EOIN BOSCO NAI BUAC,Navan Road,Dublin 7,,,Dublin,D07WP22
+18634R|SCOIL IDE,Ardnamara,Salthill,Galway,,Galway,H91E4C2
+18635T|S N TIGH AN IUBHAIR,Tigh an Iubhair,Dunleer,Co. Louth,,Louth,A92PD26
+18636V|S N BHEANAIN,Tuam,Co. Galway,,,Galway,H54CC84
+18639E|S N BAILE NA CAILLI,Ballynacally,Ennis,,,Clare,V95DE48
+18640M|NAOMH IOSEF N S,Ráth Ghuaire,Killucan,Co. Westmeath,,Westmeath,N91PP66
+18641O|S N NAOMH EOIN,Portarlington,Co. Laois,,,Laois,R32F782
+18642Q|S N NAOMH EOIN,Tower Road,Clondalkin,Dublin 22,,Dublin,D22YN52
+18643S|HOLYCROSS N.S.,Firoda,Castlecomer,Co. Kilkenny,,Kilkenny,R95E22N
+18644U|STRAFFAN N S,Straffan,Co. Kildare,,,Kildare,W23CD77
+18646B|SPRINGDALE N S,Lough Derg Road,Raheny,Dublin 6,,Dublin,D05E954
+18647D|S N SAN TREASA,The Rise,Mount Merrion,Co. Dublin,,Dublin,A94EK75
+18650P|NEWTOWN NS,Newtown,Enfield,Co. Meath,,Kildare,A83HW74
+18652T|S N AN CHAISEAL,Gleann Cholmcille,Co. Dhún na nGall,,,Donegal,F94W968
+18653V|SCOIL NAOMH IOSEF,Thomas Street,,Rathkeale,Co. Limerick,,Limerick,V94EH60
+18654A|CARAGH N S,Caragh Naas,Co. Kildare,,,Kildare,W91YE97
+18655C|SCOIL NAOMH SEOSAMH,Boot Road,Clondalkin,Dublin 22,,Dublin,D22PY13
+18659K|LISAVAIRD MXD N S,Clonakilty,Co. Cork,,,Cork,P85HK88
+18660S|S N SHAN NIOCLAS,Windgap,Co. Kilkenny,,,Kilkenny,R95XA36
+18665F|S N MAINISTIR O DTORNA,Mainistir Ó dTorna,Trá Lí,Co. Chiarraí,,Kerry,V92KC59
+18666H|S N TIR MOCHAIN,Donadea,Naas,Co. Kildare,,Kildare,W91HX78
+18670V|S N TULACH RUAIN,Tulach Ruain,Co. Kilkenny,,,Kilkenny,R95YA46
+18675I|S N CILL DAINGIN,Kildangan,Monasterevin,Co. Kildare,,Kildare,W34DR40
+18677M|SCOIL MATHAIR DE,South Circular Road,Limerick City,,,Limerick,V94VR64
+18679Q|AN GHRIANAN N S,Mount Temple,Moate,,,Westmeath,N37K129
+18681D|CHRIST CHURCH N S,Lower Newtown,Waterford,,,Waterford,X91DN40
+18682F|ST CANICES B N S,Glasanaon Road,Finglas,Dublin 11,,Dublin,D11TW01
+18683H|ST CANICES G N S,Seamus Ennis Road,Finglas,Dublin 11,,Dublin,D11C927
+18684J|S N BHAILE MHUIRNE,Murrintiwn,Co. Wexford,,,Wexford,Y35D326
+18686N|S N GORT NA LEIME,Dunmore,Tuam,Co. Galway,,Galway,H54NY66
+18687P|BALLYDUFF N S,Ballyduff,Camolin,Co. Wexford,,Wexford,Y21XY30
+18689T|OUR LADY OF MERCY SENIOR P.S.,Military Road,Waterford,,,Waterford,X91XN28
+18690E|SCOIL BHRIDE,An Cruachán,An Tulach Mhór,Co. Uíbh Fhailí,,Offaly,R35T974
+18694M|CONVENT OF MERCY N S,St. Angela's NS,The Lawn,Castlebar,,Mayo,F23YD79
+18696Q|S N DUBH RATH,Caisleán an Chláir,Co. Clare,,,Clare,V95YW31
+18700E|S N BAILE AN CAISLEAN,Baile an Chaisleáin,St Johnston,Lifford,Co. Donegal,Donegal,F93Y291
+18702I|SPA NATIONAL SCHOOL,Tralee,Co. Kerry,,,Kerry,V92CY93
+18703K|S N BAILE AN BHAILSIG,Baile an Bhailsigh,Welchtown,Balleybofey,Co. Donegal,Donegal,F93EW74
+18705O|TARBERT NATIONAL SCHOOL,Tarbert,Co. Kerry,,,Kerry,V31TW13
+18707S|CASTLEBRIDGE N S,Castlebridge,Co. Wexford,,,Wexford,Y35Y208
+18708U|S N CILL LACHTAIN,Newcastle West,Co. Limerick,,,Limerick,V42XE17
+18710H|SN NA CROISE NAOFA,Dunfanaghy,Letterkenny,,,Donegal,F92T3Y8
+18712L|S N CNOC RUSCAIGHE,Knockrooskey,Westport,,,Mayo,F28E129
+18713N|S N FIONAN NA REANNA,Rennies,Nohoval,Co. Cork,,Cork,P17A386
+18714P|ST EDANS N S,Clone Road,Ferns,Enniscorthy,,Wexford,Y21KF25
+18715R|S N PAIRC ARD,Dromard,Co. Sligo,,,Sligo,F91YT97
+18716T|CAHIR B N S,Cahir,Co. Tipperary,,,Tipperary,E21YY80
+18717V|S N CIARAIN,Cill na Fíonaí,Áth Dara,Co. Luimnigh,,Limerick,V94A8P6
+18720K|MILTOWN MALBAY B N S,Mullagh Road,Miltown Malbay,,,Clare,V95EY86
+18726W|S N SEOSAMH NA MBRATHAR,Fairview,Dublin 3,,,Dublin,D03H524
+18729F|BALLINTLEVA N S,Curraghboy,Athlone,Co. Roscommon,,Roscommon,N37VN23
+18731P|ROBERTSON N S,Church Road,Stranorlar,Co. Donegal,,Donegal,F93XV29
+18733T|S N MHUIRE,Cluain de Rath,Co. Longphort,,,Longford,N39KD36
+18734V|REALT NA MAIDINE,Ballyphehane,Cork,,,Cork,T12R657
+18737E|SCOIL BHRIDE,Conmhagh,Lifford,Co. Donegal,,Donegal,F93V095
+18739I|SHANNON AIRPORT 1 N S,Saint Senan's National School,Corrib Drive,Shannon,,Clare,V14N795
+18740Q|SHANNON AIRPORT NO 2 NS,St John's National School,Drumggely Avenue,Shannon,,Clare,V14Y970
+18741S|FAITIMA N S,Cloone,Carrick-on-Shannon,Co. Leitrim,,Leitrim,N41HN73
+18742U|ROXBORO N S,Doireán,Co. Ros Comáin ,,,Roscommon,F42NY75
+18744B|S N NA NAOMH UILE,Church Avenue,Mullingar,Co. Westmeath,,Westmeath,N91DE70
+18746F|SN MUINE MHEA,Monivea,Athenry,Co. Galway,,Galway,H65X993
+18748J|Scoil Mholainge Listerlin,Listerlin,Mullinavat,via Waterford,,Kilkenny,X91EA09
+18753C|SAINT MARYS N S LAHINCH,Lahinch,Co. Clare,,,Clare,V95FD70
+18754E|SN NAOMH SEOSAMH,Bun an Chorraigh,Acaill,Co. Mhaigh Eo,,Mayo,F28K500
+18756I|FIBOUGH NATIONAL SCHOOL,Caisleán na Mainge,Co. Chiarraí,,,Kerry,V93RW24
+18759O|CAHIR NATIONAL SCHOOL,Kenmore,Co. Kerry,,,Kerry,V93TD4V
+18762D|S N REALT NA MARA (B),Domnach Cearnaigh,Mornington,,,Meath,A92WC52
+18764H|ARD NA GCRAITH N S,Ard na gCraith,Walderstown,Co. Westmeath,,Westmeath,N37YY16
+18766L|SCOIL CHOLMCILLE,Duibhleann Riach,Carraig Airt,Co. Dhún na nGall,,Donegal,F92E680
+18767N|S N REALT NA MARA (C),Domnach Cearnaigh,Mornington,Drogheda,Co. Meath,Meath,A92T382
+18768P|FORGLEANN N S,Forgleann,Leacht Uí Chonchubhair,Co. an Chláir,,Clare,V95CC42
+18775M|S N MICHEAL NAOFA,Holycross,Thurles,Co. Tipperary,,Tipperary,E41Y840
+18777Q|S N LOMCHLUANA,Lumcloon,Cloghan,Birr,,Offaly,R42Y744
+18778S|S N NAOMH MOCHTA,Porterstown Road,Clonsilla,Dublin 15,,Dublin,D15Y316
+18779U|ST MARYS NS TOURANEENA,Ballinamult,Clonmel,Co. Waterford,,Waterford,E91K6W7
+18780F|S N NAOMH COLMCILLE,Errill,Portlaoise,Co. Laois,,Laois,R32CK26
+18786R|SCOIL IOSAGAIN,Farranree,Cork,,,Cork,T23EW70
+18791K|SCOIL CHOLMCILLE,Droim an Mhaoir,Moville,Co. Donegal,,Donegal,F93E890
+18793O|SC NAOMH EOIN LE DIA,Passage Road,Waterford,,,Waterford,X91TX47
+18795S|S N MHUIRE,Cúl an Airne,Blue Ball,Co. Offaly,,Offaly,R35K201
+18797W|St. Joseph's N.S.,Arden View,Tullamore,Co. Offaly,,Offaly,R35PH94
+18806U|KILTERNAN N S 1,Kilternan,Dublin 18,,,Dublin,D18CY28
+18812P|LOCH AN GHAIR N S,Loch an Ghair,Mullingar,Co. Westmeath,,Westmeath,N91TD95
+18817C|S N BRIGHDE,Cullenswood House,Bóthar Féadha Cuilinn,Raghnallach,Baile Átha Cliath 6,Dublin,D06E8K7
+18818E|S N NAOMH IOSAF,Leitir,Castlebar,Co. Mayo,,Mayo,F23RY60
+18820O|S N CHOLMCILLE,Blackstaff,Carraig Mhachaire Rois,Co. Mhuineacháin,,Monaghan,A81CR24
+18824W|ST IBERIUS N S,Davitt Road South,Wexford,,,Wexford,Y35N970
+18829J|S N CHOBH CHIONN TSAILE,Cionn tSáile,Co. Chorcaí,,,Cork,P17HY83
+18832V|CASTLEMAINE N S,Castlemaine,Co. Kerry,,,Kerry,V93F864
+18833A|S N LATHRACH,Lathrach,Sraith an Domhain,Co. an Chabháin,,Cavan,H12P924
+18839M|S N NA SCRINE,Screen,Enniscorthy,,,Wexford,Y21PC52
+18843D|BAINRION NA N-AINGAL 2,Ballyfermot Upper,Dublin 10,,,Dublin,D10C527
+18844F|Scoil Mhuire,Belcruit,Kincasslagh,Co. Donegal,,Donegal,F94EK09
+18848N|S N PEADAIR AGUS POL,Straide,Foxford,Co. Mayo,,Mayo,F26E927
+18856M|SCOIL NAOMH IOSEF,Ballyheigue,Tralee,Co. Kerry,,Kerry,V92DR72
+18857O|S N CARRAIG A BRUIS,Lisduff,Virginia,Co. Cavan,,Cavan,A82HX80
+18864L|S N AN CUSAN,An Cuasan,Castlequarter,Coosan,Athlone,Westmeath,N37TD88
+18872K|SCOIL IDE,Corbally,Limerick,,,Limerick,V94X659
+18874O|KILLYGORDAN N S,Main Street,Killygordon,Co. Donegal,,Donegal,F93A0CP
+18876S|SN Baile Cuisin,Ballycushion,Kilconly,Co. Galway,,Mayo,H54RK03
+18880J|S N GORT SCEICHE,Annefield,Hollymount,Co. Mayo,,Mayo,F12TF38
+18883P|S N IOSAGAIN,Spa Glen,Mallow,Co. Cork,,Cork,P51TD36
+18886V|KILL-O'-THE-GRANGE NS,Deansgrange,Blackrock,Co. Dublin,,Dublin,A94X225
+18887A|St. Joseph's National School,Mulhussey,Kilcock,,,Meath,W23T8YC
+18910P|BANTIARNA NA MBUANNA BOYS,Ballymun Road,Dublin 9,,,Dublin,D09HC90
+18911R|BANTIARNA NA MBUANNA GIRLS,Baile Munna,Dublin 9,,,Dublin,D09NY99
+18922W|S N CHLUAIN LUIFIN,Ballinrobe,Co. Mayo,,,Mayo,F31P206
+18929N|SCOIL NAOMH EINDE,Dr Mannix Road,Salthill,Galway,,Galway,H91Y725
+18939Q|S N DONAIGH,Carndonagh,Co. Donegal,,,Donegal,F93CX21
+18950E|Dromindoora N.S.,Dromindoora,Caher,Feakle,,Clare,V94XP71
+18968A|ST MALACHYS B N S,Edenmore Park,Raheny,Dublin 5,,Dublin,D05HP30
+18969C|ST EITHNES SENIOR GIRLS NS,Edenmore,Raheny,Dublin 5,,Dublin,D05NH04
+18976W|S N CHOLMILLE B,Chapel Lane,Swords,,,Dublin,K67WP65
+18977B|S N CHOLMCILLE C,Chapel Lane,Swords,,,Dublin,K67H337
+18979F|S N URSULA,Strandhill Road,Sligo,,,Sligo,F91WD27
+18991S|J F K MEMORIAL SCHOOL,Ennis Road,Limerick,,,Limerick,V94P9E8
+19000E|S N AN SPIORAID NAOMH C,Curraheen Road,Bishopstown,Co. Cork,,Cork,T12RR68
+19001G|BALLYBOGHILL N S,Ballyboughal,Co. Dublin,,,Dublin,A41RC98
+19006Q|EOIN BAISDE B SOIS,Seafield Road,Clontarf,Dublin 3,,Dublin,D03TD21
+19007S|EOIN BAISDE C NAOIDH,Seafield Road West,Clontarf,Dublin 3,,Dublin,D03XK27
+19008U|SCOIL PHADRAIG,Baile an Mhuileann,Muileann Cearr,Co. na hIarmhí,,Westmeath,N91YA24
+19009W|CRANFORD N S,Cranford,Letterkenny,Co. Donegal,,Donegal,F92TV00
+19015R|ST JOSEPHS G N S,Barry Avenue,Finglas West,Dublin 11,,Dublin,D11A8PD
+19018A|DANGAN MIXED N S,Dangan,Summerhill,Co. Meath,,Meath,A83HN83
+19036C|SCOIL PHADRAIG,Garron,Tyholland,Co. Monaghan,,Monaghan,H18Y586
+19037E|ST MONICAS N S,Edenmore,Dublin 5,,,Dublin,D05VX21
+19043W|NEW QUAY NS,New Quay,Burrin,Co. Clare,,Clare,H91HY40
+19066L|LORETO NATIONAL SCHOOL,Dalkey,Co. Dublin,,,Dublin,A96P8N3
+19089A|KILLAGHTEE N S,Killaghtee,Dunkineely,Co. Donegal,,Donegal,F94PY82
+19114T|ST PATRICK GNS,Ballyroan,Rathfarnham,Dublin 16,,Dublin,D16XK80
+19162H|THREEMILEHOUSE N S,Threemilehouse,Co. Monaghan,,,Monaghan,H18R924
+19171I|S N NAOMH MHUIRE,Baile Nua an Chaisil,Co. Longphort,,,Longford,N39PC82
+19177U|ST PIUS X N S BOYS,Fortfield Park,Terenure,Dublin 6,,Dublin,D6WHP92
+19178W|ST PIUS X G N S,Fortfield Park,Terenure,Dublin 6W,,Dublin,D6WPN27
+19197D|ST KEVINS B N S,Barry Avenue,Finglas West,Dublin 11,,Dublin,D11VW22
+19202Q|DRUMKILLY NS,Kilnalack,Co. Cavan,,,Cavan,A82VY00
+19205W|NAOMH TOLA N S,Coill Uailleach,Mullingar,Co. Westmeath,,Westmeath,N91XH26
+19208F|HOLY SPIRIT B N S,Sillogue Road,Baile Munna,Baile Átha Cliath 11,,Dublin,D11N207
+19209H|SN AN SPIORAID NAIOMH C,Sillogue Road,Ballymun,Dublin 11,,Dublin,D11X26P
+19215C|S N ARD MHUIRE C,Ballsgrove,Drogheda,Co. Louth,,Louth,A92FD60
+19220S|SCOIL NAOMH IDE,New Road,Clondalkin,Dublin 22,,Dublin,D22ED72
+19221U|SCOIL NAOMH AINE,New Road,Clondalkin Village,,,Dublin,D22X577
+19223B|S N PADRAIG,Baile Uí Ír,Mainistir Bhuithe,Drogheda,Co. Louth,Louth,A92VH02
+19224D|S N CILLMIN,Cillmin,Coalnaconarty,Clonakilty,Co. Cork,Cork,P85YV21
+19225F|SCOIL MICHIL NAOFA,Baile Bán,Gaillimh,,,Galway,H91YD58
+19226H|SCOIL NA TRIONOIDE NAOFA,Mervue,Galway,,,Galway,H91A3H2
+19228L|S N NAOMH BRID,Na Dunaibh,Leitir Ceanainn,Co. Dhún na nGall,,Donegal,F92XP86
+19231A|S N BARRA NAOFA BHUACH,Beaumont,Cork,,,Cork,T12A564
+19232C|S N BARRA NAOFA CAILINI,Woodvale Road,Beaumont,Cork City,,Cork,T12EK77
+19235I|PORTLEAN N S,Kilmacrennan,Letterkenny,,,Donegal,F92T256
+19241D|Scoil Náisiúnta Róis,Rosary Lane,Taylor's Hill,Galway,,Galway,H91W2V9
+19242F|OUR LADY OF VICTORIES INFANT N S,Ballymun Road,Dublin 9,,,Dublin,D09YC99
+19246N|S N AN TSLANAITHEORA B,Árd Easmuinn,Dundalk,Co. Louth,,Louth,A91DN76
+19247P|S N AN TSLANAITHEORA C,Árd Easmuinn,Dún Dealgan,Co. Louth,,Louth,A91EC82
+19249T|BARRYROE NS,Lislevane,Bandon,Co. Cork,,Cork,P72YE28
+19251G|SCOIL NAOMH DEAGHA,The Glebe,Inniskeen,Dundalk,Co. Louth,Monaghan,A91DW66
+19252I|Scoil Eoin Baiste,Umlagh,Carrigart,Co. Donegal,,Donegal,F92HD88
+19253K|Scoil Naomh Barra,Wilkinstown,Navan,Co. Meath,,Meath,C15VW32
+19255O|ST MICHAELS NS,Glenfarne,Co. Leitrim,,,Leitrim,F91YW25
+19256Q|SCOIL GHOBNATAN,Bellevue,Mallow,,,Cork,P51KW86
+19257S|STRABAGGAN N S,Loch Aillinne,Cara Droma Ruisc,Co. Roscommon,,Roscommon,N41VW08
+19258U|SCOIL PADRAIG NAOFA B,Hollypark,Blackrock,Co. Dublin,,Dublin,A94FE02
+19259W|ST PATRICKS GNS,Foxfock Avenue,Foxrock,Dublin 18,,Dublin,D18V659
+19260H|S N CHOLMCILLE,Baile na Finne,Co. Dhún na nGall,,,Donegal,F94VR04
+19267V|TEMPLEORUM N S,Templeorum,Piltown,via Carrick-on-Suir,Co. Kilkenny,Kilkenny,E32CY24
+19272O|SN NAOMH IOSEF,Ballybrown,Clarina,Co. Limerick,,Limerick,V94C586
+19274S|ST CONAIRES NS,Shannon,Co. Clare,,,Clare,V14X272
+19275U|BARNADERG CENTRAL SCH,Barnaderg,Tuam,,,Galway,H54EW71
+19276W|ST COLMANS MXD N S,Cummer,Tuam,Co. Galway,,Galway,H54KP40
+19279F|S N NAOMH TREASA,Clontumpher,Ballinalee,Co. Longford,,Longford,N39EW95
+19280N|SCOIL NAOMH BRID,Muff,Lifford,Co. Donegal,,Donegal,F93YV78
+19283T|BALLYMACWARD CENTRAL SC,Ballymacward,Ballinasloe,Co. Galway,,Galway,H53NX21
+19285A|KILL N S,Cootehill,Co. Cavan,,,Cavan,H16H580
+19290Q|BALLYCONEELY N S,Clifden,Co. Galway,,,Galway,H71N291
+19292U|CASTLETOWN N S,Navan,Co. Meath,,,Meath,C15K225
+19294B|LISVERNANE N S,Lisvernane,The Glen of Aherlow,,,Tipperary,E34PX49
+19296F|S N NAOMH COLMCILLE,Aughnacliffe,Co. Longford,,,Longford,N39CD60
+19297H|CROMCASTLE GREEN B N S,Cromcastle Green,Kilmore West,Dublin 5,,Dublin,D05TN12
+19298J|SCOIL NAIS IDE CAILINI,Cromcastle Green,Kilmore West,Dublin 5,,Dublin,D05TN12
+19300Q|CASTLEJORDAN CENTRAL NS,Castlejordan,Tullamore,,,Offaly,R35NX94
+19302U|SN NA MAIGHDINE MUIRE B,Shangan Road,Ballymun,Dublin 9,,Dublin,D09H2F2
+19303W|VIRGIN MARY GIRLS NATIONAL SCHOOL,Shangan Road,Ballymun,Dublin 9,,Dublin,D09T2X6
+19304B|S N CILLIN LIATH,Maistir Gaoithe,Cill Airne,Co. Chiarraí,,Kerry,V23Y540
+19305D|TANKERSTOWN N S,Tankerstown,Bansha,Co. Tipperary,,Tipperary,E34AP68
+19307H|DERRINAGREE N S,Derrinagree,Mallow,Co. Cork,,Cork,P51PT63
+19308J|ST BRIGIDS BOYS N S,Howth Road,Killester,Dublin 5,,Dublin,D05A386
+19309L|SCOIL NEASAIN,Baile Harmain,Baile Átha Cliath 5,,,Dublin,D05VF95
+19310T|SCOIL NAOMH EARNAN,Baile an tSratha,Co. Donegal,,,Donegal,F94W018
+19313C|GLENSWILLY N S,Newmills,Letterkenny,Co. Donegal,,Donegal,F92RH94
+19314E|SCOIL NA MAIGHDINE MHUIRE BOY,Broadford Rise,Ballinteer,Dublin 16,,Dublin,D16CX60
+19317K|RATHANGAN N S,Rathangan,Duncormick,Co. Wexford,,Wexford,Y35KT65
+19319O|ST Olaf's National School,Balally Drive,Dumdrum,Dublin 16,,Dublin,D16E067
+19320W|OUR LADY OF GOOD COUNSEL BOYS N S,Johnstown,Dún Laoghaire,,,Dublin,A96AF10
+19321B|OUR LADY GOOD COUNSEL GNS,Johnstownbridge,Dun Laoghaire,Co. Dublin,,Dublin,A96A033
+19322D|KILMORE CENTRAL N S,Ricehill,Kilmore,Co. Cavan,,Cavan,H12EE03
+19323F|S N BEAL ATHA GREAN,Kilmallock,Co. Limerick,,,Limerick,V35W220
+19324H|S N TEAGHLAIGH NAOFA,Killeen,Louisburgh,Co. Mayo,,Mayo,F28X2D6
+19326L|BUTLERSBRIDGE NS,Butlersbridge,Co. Cavan,,,Cavan,H12RR66
+19331E|SCOIL CHRIOST RI B,Caherdavin,Limerick City,,,Limerick,V94N229
+19332G|S N MUIRE NA HEIREANN,Caherdavin,Limerick City,,,Limerick,V94A5N7
+19333I|DOOISH N S,Ballybofey,Co. Donegal,,,Donegal,F93N768
+19335M|SCOIL NA AINGEAL,Newtownpark Avenue,Blackrock,Co. Dublin,,Dublin,A94H395
+19336O|SCOIL PHOIL NAOFA,C/O Scoil Carmel,O'Connell Avenue,Limerick,,Limerick,V94W3X5
+19338S|FLAGMOUNT CENTRAL NS,Flagmount,Caher,Co. Clare,,Clare,V94YW70
+19339U|STRATFORD LODGE NS,Baltinglass,Co. Wicklow,,,Wicklow,W91KX75
+19342J|SCOIL NAOMH EOIN BAISTE,Kilbrine,Kanturk,Co. Cork,,Cork,P51Y223
+19343L|S N DHUBHTHAIGH,Anagaire,Leitir Ceanainn,Co. Dhún na nGall,,Donegal,F94YH05
+19344N|ST AIDANS N S,Kilmanagh,Co. Kilkenny,,,Kilkenny,R95XN76
+19345P|BALLYMACARBERRY N S,Ballymacarbry,via Clonmel,Co. Waterford,,Waterford,E91E426
+19348V|NEWCESTOWN N S,Newcestown,Bandon,Co. Cork,,Cork,P72VY04
+19350I|S N CHRUIMIN NAOFA,Muilte Farannáin,Co. na hIarmhí,,,Westmeath,N91EK68
+19351K|S N CILL CRIODAIN,Kilcredan,Ladysbridge,Co. Cork,,Cork,P25FW50
+19352M|SC NAIS REALTA NA MARA,An Chill Mhór,Co. Loch Garman,,,Wexford,Y35YX20
+19353O|ST PATRICKS NS LONGFORD,Dromard,Moyne,Co. Longford,,Longford,N39X827
+19354Q|ST COLMANS N S,Cappagh,Croghan,Co. Offaly,,Offaly,R35Y635
+19356U|KILLENAULE N S,Killenaule,Thurles,Co. Tipperary,,Tipperary,E41RK33
+19357W|SN TIR NA CILLE,Tír na Cille,An Mam,Co. na Gaillimhe,,Galway,H91W635
+19359D|S N NAOMH AONGHUS,Bridgend,Lifford,Co. Donegal,,Donegal,F93YX38
+19360L|DRUMKEERIN CENTRAL NS,Sheena,Drumkeerin,Co. Leitrim,,Leitrim,N41DK12
+19362P|ST PATRICKS N S,Clara,Killybrone,Emyvale,Co. Monaghan,Monaghan,H18E365
+19363R|MULLAHORAN CENTRAL N S,Kilcogy,via Longford,Co. Cavan,,Cavan,N39KA44
+19364T|KILLEEVAN CENTRAL N S,Newbliss,Co. Monaghan,,,Monaghan,H18H735
+19365V|ACHADH NA SILEANN,Achadh na Síleann,Cora Droma Rúisc,Co. Liatroma,,Leitrim,N41NX92
+19366A|SCARIFF CENTRAL N S,Scariff,Co. Clare,,,Clare,V94A9W3
+19368E|S N NAOMH CIARAN,Rooty Cross,Oldtown,Co. Roscommon,,Roscommon,N37R521
+19369G|ST PAULS N S,Irishtown,Mountmellick,,,Laois,R32WK79
+19371Q|S N IOGNAID,Bóithrín na Sliogáin,Gaillimh,,,Galway,H91E364
+19374W|Our lady's Grove Primary School,Goatstown Road,,Dublin 14,,,Dublin,D14Y993
+19377F|NAOMH COLMAN MAC DUAIGH,Tierneevin,Gort,Co. Galway,,Galway,H91F8D2
+19378H|BALLYNARRY N S,Ballyheelan,Kilnaleck,Co. Cavan,,Cavan,A82T993
+19380R|St Oliver Plunkett National School,CILE CHOIRIN,Béal Átha na Sluaighe,Co. na Gaillimhe,,Galway,H53DX30
+19381T|RATHMORE N S,Baltimore,Skibbereen,Co. Cork,,Cork,P81PW52
+19384C|ARDFERT CENTRAL N S,Ard Fheatha,Co. Chiarraí,,,Kerry,V92CD63
+19386G|LABASHEEDA CENTRAL N S,Labasheeda,Kilrush,Co. Clare,,Clare,V15XF84
+19388K|CLONBERNE CENTRAL SCH,Clonberne,Ballinasloe,Co. Galway,,Galway,H53T291
+19389M|SN MUIRE GAN SMAL,Droimban Curraigh,Baile an Mhóta,Co. Shligigh,,Sligo,F91DT35
+19390U|ST MARKS SEN NS,Springfield,Tallaght,Dublin 24,,Dublin,D24FV07
+19391W|GARRAFRAUNS CENTRAL SCH,Garrafrauns,Dunmore,Tuam,,Galway,H54NY73
+19392B|SCOIL NAOMH AODAIN,Tamhnaigh na Muclach,Mainistir Readhain,Co. Shligigh,,Sligo,F45VF54
+19393D|MHUIRE IOSEF JUNIOR,Verbena Avenue,,Sutton,Dublin 13,,Dublin,D13CD56
+19394F|ROBEEN CENTRAL N S,Robeen,Hollymount,Co. Mayo,,Mayo,F12HP22
+19395H|SCOIL MOBHI,Bóthar Mobhi,Glasnaíon,Baile Átha Cliath 9,,Dublin,D09A303
+19396J|NA MAIGHDINE MUIRE GIRL,Ballinteer,Dublin 16,,,Dublin,D16C820
+19400U|SN GLEANN NA GCAORACH INÍON LÉINÍN,Glenageary Killiney N.S.,Killiney Road,Killiney,,Dublin,A96P585
+19401W|S N CAITRIONA SOIS,Renmore,Co. Galway,,,Galway,H91N5H6
+19402B|BALLYVARY CENTRAL N S,Keeloges Road,Castlebar,Co. Mayo,,Mayo,F23TP65
+19404F|SN MHUIRE,Ballyhooley,Co. Cork,,,Cork,P51K284
+19406J|HOLY TRINITY SEN N S,Grange Road,Donaghmede,Dublin 13,,Dublin,D13WY00
+19407L|SCOIL BHRIDE,Green Lane,Leixlip,Co. Kildare,,Kildare,W23R9Y6
+19408N|RATHCORMACK N S,Rathcormack,Co. Sligo,,,Sligo,F91NX21
+19411C|S N BAILE RAIGHIN,Letterkenny,Co. Donegal,,,Donegal,F92CX29
+19415K|SCOIL AN ATHAR TADHG,Carraig na bhFear,Co. Chorcaí,,,Cork,T34N276
+19416M|ST PAULS NS COLLOONEY,The Square,Collooney,Co. Sligo,,Sligo,F91AW27
+19418Q|CASTLERAHAN CENTRAL NS,Castlerahan,Ballyjamesduff,Co. Cavan,,Cavan,A82N673
+19419S|GOREY CENTRAL SCHOOL,Charlotte Row,Gorey,Co. Wexford,,Wexford,Y25XH11
+19420D|SN FHIACHNA,Gleann Garbh,Co. Chorcaí,,,Cork,P75DY24
+19422H|CLOUGHJORDAN NO 1 N S,Templmore Road,Cloughjordan,Co. Tipperary,,Tipperary,E53YY82
+19423J|ST PATRICKS NS,Drumshanbo,Co. Leitrim,,,Leitrim,N41PY61
+19425N|BALLYROE CENTRAL N S,Athy,Co. Kildare,,,Kildare,R14DX61
+19426P|S N MHARCUIS B,An Ghleann,Corcaigh,,,Cork,T23P5FY
+19427R|S N BHREANNDAIN C,An Ghleann,Corcaigh,,,Cork,T23AK29
+19430G|SCOIL AN TSEACHTAR LAOCH,Bóthar Bhaile Munna,Baile Átha Cliath 11,,,Dublin,D11E306
+19431I|ST JOSEPHS JNR,St Joseph's Junior National School,Balbutcher Lane,Dublin 11,,Dublin,D11ND82
+19432K|CROSSKEYS CENTRAL N S,Crosskeys,Co. Cavan,,,Cavan,H12Y998
+19434O|LATTON,Kattib,Castleblayney,Co. Monaghan,,Monaghan,A75P033
+19435Q|ST FRANCIS XAVIER J N S,Roselawn Road,Castleknock,Dublin 15,,Dublin,D15CX84
+19436S|SN NAOMH MHICHIL,Dungeagáin,Baile 'n Sceilg,Co. Chiarraí,,Kerry,V23PN30
+19437U|SCOIL NAITHI,Baile an tSaoir,Dún Droma,Baile Átha Cliath 16,,Dublin,D16EK63
+19438W|SCOIL COLMCILLE SENIOR,Wyattville,Ballybrack,Co. Dublin,,Dublin,A96TN32
+19442N|RUAN CENTRAL NS,Ruan,Ennis,Co. Clare,,Clare,V95R206
+19443P|CLONEA NS,Clonea-Power,Carrick-on-Suir,,,Waterford,E32NP40
+19446V|SCOIL MHUIRE BOYS,Grange Road,Rathfarnham,Dublin 14,,Dublin,D14P046
+19448C|S N REALT NA MARA,Tuath Ó Siosta,Cill Airne,Co. Chiarraí,,Kerry,V93K593
+19449E|ST OLIVER PLUNKETTS NS,Newcastle,Athenry,Co. Galway,,Galway,H65T680
+19451O|NEWPORT CENTRAL,Baile Uí Fhiacháin,Co. Mhaigh Eo,,,Mayo,F28ED89
+19452Q|SCOIL MHUIRE,Ballymany,Newbridge,,,Kildare,W12HD29
+19454U|DARNDALE NS JUNIOR,Our Lady Immaculate Junior School,Darndale,Dublin 17,,Dublin,D17TR25
+19456B|ST CRONAN,Brackenstown,Swords,Co. Dublin,,Dublin,K67DP28
+19458F|KILGARVAN CENTRAL SCHL,Kilgarvan,Co. Kerry,,,Kerry,V93HP79
+19459H|Scoil Mhuire,Green Lane,Leixlip,,,Kildare,W23TX49
+19461R|EILTIN NAOFA,Lios Eiltin,Co. Chiarraí,,,Kerry,V31Y266
+19462T|SCOIL MAELRUAIN JUNIOR,Old Bawn,Tallaght,Dublin 24,,Dublin,D24T854
+19463V|SCOIL MAELRUAIN SENIOR,Old Bawn,Tallaght,Dublin 24,,Dublin,D24EV18
+19465C|ST KEVINS BOYS,Kilnamanagh,Tallaght,Dublin 24,,Dublin,D24A2XF
+19466E|ST KEVINS GIRLS,Kilnamanagh,Tallaght,Dublin 24,,Dublin,D24R6PT
+19467G|SAINT MELS,Ardagh Village,Co. Longford,Co. Longford,,Longford,N39CD85
+19468I|SN CAITRIONA SINSEAR,Renmore Avenue,Renmore,Co. Galway,,Galway,H91N5H6
+19469K|NAOMH OLIVER PLUNKETT,Loch Morn,Castleblayney,Co. Monaghan,,Monaghan,A75PY66
+19470S|ST FRANCIS XAVIER SENIOR N S,Roselawn,Castleknock,Dublin 15,,Dublin,D15WY02
+19471U|ST PAULS JUNIOR NATIONAL SCHOOL,Ayrfield,Malahide Road,Dublin 13,,Dublin,D13PK10
+19472W|ST MARKS JUNIOR MIXED,Springfield,Tallaght,Dublin 24,,Dublin,D24FT95
+19473B|SCOIL BHRIDE,Grange Road,Donaghmede,Dublin 13,,Dublin,D13NY53
+19474D|SCOIL COLMCILLE NAOFA,Knocklyon,Templeogue,Dublin 16,,Dublin,D16H337
+19475F|ST BRIGIDS NS,Singland,Limerick,,,Limerick,V94FN12
+19476H|ST OLIVER PLUNKETT NS,Blackcastle,Navan,,,Meath,C15R642
+19477J|HOLY FAMILY B N S,Askea,Carlow,Co. Carlow,,Carlow,R93VX27
+19478L|Holy Family Girls N S,Askea,Carlow,Co. Carlow,,Carlow,R93X793
+19479N|RATHMULLAN N S,Marley's Lane,Drogheda,Co. Louth,,Louth,A92DD39
+19480V|ST PATRICKS,St Patrick's Close,Dublin 8,,,Dublin,D08WK19
+19483E|S N DAR EARCA,Ballyhearney,Valentia,Co. Kerry,,Kerry,V23R928
+19486K|SCOIL NAIS DEAGLAIN,Ashbourne,Co. Meath,,,Meath,A84KT02
+19487M|HOLY CROSS PRIMARY SCHOOL,New Road,Killarney,Co. Kerry,,Kerry,V93A096
+19488O|SCOIL NAOMH FEICHIN,Áth Tí an Mheasaigh,Béal Átha an Fheadha,Co. Mhaigh Eo,,Mayo,F26HH36
+19489Q|SN NAOMH FINNIN,Glenties Park,Rivermount,Dublin 11,,Dublin,D11WN70
+19490B|SCOIL MHUIRE,Ballyboden,Dublin 16,,,Dublin,D16V043
+19491D|SCOIL MHUIRE,Rathmealltain,Co. Dhún na nGall,,,Donegal,F92XHW5
+19492F|SN OILIBHEAR NAOFA,Béal Átha Longphoirt,Co. Chiarraí,,,Kerry,V31KD88
+19494J|BISHOP GALVIN NS,Orwell Park,Templeogue,Dublin 16,,Dublin,D6WY791
+19495L|CARBURY NAT SCH,The Mall,Sligo,,,Sligo,F91FW10
+19496N|SCOIL FHIACHRA SOISIR,Montrose Park,Artane,Dublin 5,,Dublin,D05W248
+19497P|SCOIL MHUIRE,Shankill,Dublin 18,,,Dublin,D18FT91
+19501D|CAHERMORE NEW CENTRAL S,Cahermore,Allihies,Beara,Co. Cork,Cork,P75R704
+19502F|SCOIL AENGHUSA JUN NS,Balrothery,Tallaght,Dublin 24,,Dublin,D24YN34
+19503H|SCOIL CHRONAIN,An tSráid Mhór,Ráth Cúil,Co. Átha Cliath,,Dublin,D24YW81
+19505L|SN OILIBHEIR,An Chúil Mhín,Cluain Saileach,Baile Átha Cliath 15,,Dublin,D15PX99
+19506N|CAPPATAGLE CENTRAL SCH,Cappataggle,Ballinasloe,,,Galway,H53D297
+19507P|SCOIL CHAITIGHEIRN,Na hAoraí,Beanntraí,Co. Chorcaí,,Cork,P75E516
+19509T|SCOIL NANO NAGLE,Bawnoge,Clondalkin,Dublin 22,,Dublin,D22VF68
+19510E|TALBOT SENIOR NS,Bawnoge,Clondalkin,Dublin 22,,Dublin,D22RT44
+19511G|ST SAVIOURS NS,Ballybeg Drive,Waterford City,,,Waterford,X91Y472
+19512I|ST OLIVERS NS,Ballycasheen,Killarney,Co. Kerry,,Kerry,V93W594
+19515O|SN NAOMH TREASA,Hampton,Balbriggan,,,Dublin,K32E925
+19518U|S N NAOMH BAOITHIN,Chapel Road,St Johnston,Lifford,Co. Donegal,Donegal,F93WN24
+19519W|ST BRIDS,Drumcong,Carrick-on-Shannon,Co. Leitrim,,Leitrim,N41VK20
+19524P|OUR LADY IMMAC SEN N S,Our Lady Immaculate Senior School,Darndale,Dublin 17,,Dublin,D17CK81
+19525R|MHICHIL NAOFA,Ballinakilla,Bere Island,Bantry,Co. Cork,Cork,P75AK22
+19526T|SN CILL DAIRBHRE,Fermoy Road,Kildorrery,Mallow,,Cork,P67VY68
+19527V|CABRA CENTRAL N S,Cabra,Kingscourt,Co. Cavan,,Cavan,A82FX44
+19528A|RAMSGRANGE CENTRAL N S,Ramsgrange,New Ross,Co. Wexford,,Wexford,Y34HX56
+19529C|SCOIL MHUIRE,Maigh Cuilinn,Co. na Gaillimhe,,,Galway,H91HF10
+19533Q|S N MUIRE AGUS IOSEF,Verbena Ave,Bayside,Dublin 13,,Dublin,D13EK83
+19534S|BALLYBAY CENTRAL,Kiltoom,Athlone,Co. Roscommon,,Roscommon,N37RC82
+19535U|BRACKENSTOWN SENIOR N S,Brackenstown Road,Swords,Co. Dublin,,Dublin,K67CH99
+19536W|HOLY FAMILY,Balloonagh,Tralee,Co. Kerry,,Kerry,V92R239
+19537B|ST ATTRACTAS JUNIOR N S,Meadowbrook,Dumdrum,Dublin 16,,Dublin,D16P891
+19538D|ST KEVINS JUNIOR N S,Newbrook Avenue,Donaghmede,Dublin 13,,Dublin,D13DK88
+19540N|CLOGHEEN CENTRAL N S,Clogheen,Co. Tipperary,,,Tipperary,E21F651
+19541P|BELGARD HEIGHTS N S,Cookstown Road,Belgard Heights,Dublin 24,,Dublin,D24C621
+19542R|ST THOMAS JUNIOR NATIONAL SCHOOL,Esker,Lucan,Co. Dublin,,Dublin,K78PF57
+19543T|SCOIL N AN CROI RO NAOFA,Killinarden,Tallaght,Dublin 24,,Dublin,D24K528
+19544V|KILCHREEST CENTRAL SCH,Kilchreest,Co. Galway,,,Galway,H62N766
+19545A|CORDUFF N S,Corduff,Blanchardstown,Dublin 15,,Dublin,D15KD21
+19546C|ST OLIVER PLUNKETT N S,St Helena's Drive,Dublin 11,,,Dublin,D11XA46
+19549I|ST FINTANS NS,Carrickbrack Road,Dublin 13,,,Dublin,D13X528
+19550Q|BALLYMANY JUNIOR NS,Standhouse Road,Newbridge,,,Kildare,W12ED88
+19551S|INCHICRONAN CENTRAL NS,Crusheen,Co. Clare,,,Clare,V95KX43
+19552U|NAOMH TOLA,Tullyglass,Shannon,,,Clare,V14Y625
+19554B|SCOIL MHUIRE,Bornacoola,Carrick-on-Shannon,Co. Leitrim,,Leitrim,N41YH05
+19556F|ST KILLIANS JUNIOR SCHOOL,Kingswood Heights,Castleview,Dublin 24,,Dublin,D24H303
+19557H|CAHERAGH NS,Caheragh,Drimoleague,,,Cork,P47AV25
+19559L|CHRIOST RI,Cloughleigh,Ennis,Co. Clare,,Clare,V95YD26
+19565G|SCOIL TREASA ,Ballycullen Avenue,Firhouse,Dublin 24,,Dublin,D24E985
+19566I|OUR LADY QUEEN OF APOSTLES,Queen of Apostles National School,Clonburris,Dublin 22,,Dublin,D22X729
+19568M|ST PATRICKS,Bruskey,Ballinagh,Co. Cavan,,Cavan,H12YY15
+19569O|NEILLSTOWN N S,Neilstown Road,Clondalkin,Dublin 22,,Dublin,D22AK09
+19573F|ST LAURENCES N S,Kindlestown,Delgany,Co. Wicklow,,Wicklow,A63Y6P9
+19574H|MARLEY GRANGE NS,Divine Word National School,Marley Grange,Dublin 16,,Dublin,D16FF62
+19575J|ST MARYS JUNIOR N S,Rowlagh,Clondalkin,Dublin 22,,Dublin,D22H504
+19576L|S N AENGHUSA,Scoil Aonghusa Senior School,Balrothery,Dublin 24,,Dublin,D24PXW8
+19577N|SCOIL IOSA,Tymon Road,Dublin 24,,,Dublin,D24ND34
+19578P|ST HELENS JUNIOR N S,Martello,Portmarnock,Co. Dublin,,Dublin,D13KP93
+19582G|ST MAELRUAINS N S,Kilclare Avenue,Jobstown,Dublin 24,,Dublin,D24YD74
+19583I|ST JOSEPHS SENIOR N S,St Joseph's Senior National School,Balbutcher Lane,Dublin 11,,Dublin,D11HY03
+19584K|SCOIL CHUALANN,Bóthar Vevay,Bré,Co. Chill Mhantáin,,Wicklow,A98VP93
+19589U|GAELSCOIL INSE CHOR,Droichead na hInse,Baile Átha Cliath 8,,,Dublin,D08NR26
+19595P|ST MARYS CENTRAL SCHOOL,Enniskean,Co. Cork,,,Cork,P47NP80
+19596R|CROSSERLOUGH N S,Crosserlough,Co. Cavan,,,Cavan,A82TK30
+19597T|AN LINBH IOSA,Ballycane,Naas,Co. Kildare,,Kildare,W91Y266
+19598V|MUIRE NA NGAEL NS,Bay Estate,Dundalk,Co. Louth,,Louth,A91C953
+19600F|S N NAOMH MHUIRE,Drumlea,Carrigallen,via Cavan,Co. Leitrim,Leitrim,H12P596
+19601H|ST PHILIP THE APOSTLE JUNIOR N S,Mountview,Clonsilla,Dublin 15,,Dublin,D15V124
+19604N|SCOIL MHUIRE,Horeswood,Campile,Co. Wexford,,Wexford,Y34PD77
+19605P|SCOIL NAIS MHUIRE SOIS,Blakestown,Mulhuddart,Dublin 15,,Dublin,D15F293
+19607T|KILPATRICK NS,Kilpatrick,Mullingar,Co. Westmeath,,Westmeath,N91H003
+19608V|ST KILLIANS N S,Mullagh,Co. Cavan,,,Cavan,A82EA36
+19611K|SCOIL NAOMH COLMCILLE,Newbrook Road,Donaghmede,Dublin 13,,Dublin,D13N722
+19612M|DALKEY SCHOOL PROJECT,Gleangeary Lodge,Glenageary,Co. Dublin,,Dublin,A96RX32
+19613O|SCOIL CNOC MHUIRE SIN,Knockmore Avenue,Killinarden,Dublin 24,,Dublin,D24TF65
+19614Q|NAOMH BODAIN,Culdaff,Lifford,Co. Donegal,,Donegal,F93EP30
+19616U|SCOIL MHUIRE,Tallow,Co. Waterford,,,Waterford,P51W212
+19617W|ST MARTIN DE PORRES N S,Heatherview Lawn,Aylesbury,Dublin 24,,Dublin,D24HF54
+19618B|ST PAULS SEN NS,Ayrfield,Malahide Road,Dublin 13,,Dublin,D13DD74
+19619D|ST MALACHYS NS,St. Helena's Road,Finglas,Dublin 11,,Dublin,D11Y880
+19624T|SCOIL NAIS CAITRIONA,Kenure,Rush,Co. Dublin,,Dublin,K56TY32
+19625V|Scoil Réalt na Mara,Balbriggan Road,Skerries,Co. Dublin,,Dublin,K34VW10
+19626A|ST CANICES CENTRAL N S,Granges Road,Kilkenny,,,Kilkenny,R95PK80
+19627C|JOHN PAUL II N S,Sea Road,Malahide,Co. Dublin,,Dublin,K36P796
+19628E|ST FIACHRAS SEN N S,Montrose Park,Beaumont,Dublin 5,,Dublin,D05K3C3
+19629G|HOLY CROSS SCHOOL,Ballycarnane,Tramore,Co. Waterford,,Waterford,X91E003
+19631Q|GAELSCOIL MHIC EASMAINN,Ráth Ronain,Trá Lí,Co. Chiarraí,,Kerry,V92Y973
+19632S|BALLINAHOWEN NS,Athlone,Co. Westmeath,,,Westmeath,N37F744
+19633U|MOYLE N S,Moyle,Newtowncunningham,Lifford,Co. Donegal,Donegal,F93XD25
+19635B|RANSBORO NEW CENTRAL,Ransboro National School,Knocknhaur,Co. Sligo,,Sligo,F91TV77
+19636D|ST PATRICKS SENIOR SCHOOL,Corduff,Blanchardstown,Dublin 15,,Dublin,D15W261
+19637F|SCOIL FIONNBARRA,Béal Átha an Ghaorthaidh,Co. Chorcaí,,,Cork,P12PC04
+19638H|COOLDERRY CENTRAL NS,Brosna,Birr,Co. Offaly,,Offaly,R42ER23
+19640R|SCOIL MHUIRE,Lismackin,Roscrea,Co. Tipperary,,Tipperary,E53Y589
+19641T|SCOIL CHOLMCILLE JUNIOR NS,Ballybrack,Co. Dublin,,,Dublin,A96FA40
+19642V|ST PETER APOSTLE SEN NS,Neilstown,Clondalkin,Dublin 22,,Dublin,D22WR59
+19643A|ST PHILIPS SENIOR N S,Mountview,Clonsilla,Dublin 15,,Dublin,D15RC56
+19644C|ST CIARANS N S,Hartstown Road,Dublin 15,,,Dublin,D15ED83
+19645E|ST OLIVER PLUNKETTS NS,Heywood Road,Clonmel,Co. Tipperary,,Tipperary,E91NW22
+19646G|SCOIL SANTAIN,Bóthar na hAbhann Móire,Tamhlacht,Baile Átha Cliath 24,,Dublin,D24TW35
+19647I|ST MARYS SEN N S,Rowlagh,Clondalkin,Dublin 22,,Dublin,D22WN40
+19650U|SCOIL CHOLMAIN NAOFA,Bellview,Mullingar,Co. Westmeath,,Westmeath,N91DX74
+19651W|CARRACASTLE CENTRAL NS,Carracastle,Ballaghaderreen,Co. Roscommon,,Mayo,F45VK23
+19652B|AN CHROI RO NAOFA SOIS,Killinarden,Tallaght,Dublin 24,,Dublin,D24K528
+19653D|SAN CARLO JUNIOR NS,Leixlip,Co. Kildare,,,Kildare,W23E9D0
+19658N|BISHOP SHANAHAN NS,Orwell Park,Templeogue,Dublin 6W,,Dublin,D6WX093
+19659P|ST BRENDANS N S,Fenit,Tralee,Co. Kerry,,Kerry,V92YW52
+19660A|RUSH NS,Rush,Co. Dublin,,,Dublin,K56VK88
+19661C|ST GABRIELS NS,Ballyfermot Road,Ballyfermot,Dublin 10,,Dublin,D10KD76
+19662E|ST MICHAELS NS,Kylemore Road,Ballyfermot,Dublin 10,,Dublin,D10YK84
+19663G|ST RAPHAELS NS,Dominican Convent,Kylemore Road,Dublin 10,,Dublin,D10XW56
+19667O|OUR LADY OF LOURDES N S,Rosbrien,Limerick,,,Limerick,V94Y6N9
+19668Q|ST FRANCIS SENIOR N S,Clonshaugh Drive,,Priorswood,,Dublin 17,,Dublin,D17F978
+19669S|LADY OF GOOD COUNSEL BOYS SENIOR NS,Mourne Road,Drimnagh,Dublin 12,,Dublin,D12H213
+19671F|ST PAULS N S,Abbeylands,Navan,Co. Meath,,Meath,C15V067
+19672H|SCOIL MUIRE NA NGRAST,Béal Guala,Co. Chorcaí,,,Cork,P17XT32
+19673J|ST JOSEPHS N S,Tom Bellew Avenue,Dundalk,,,Louth,A91D786
+19675N|ST BRIGIDS N S,Kilcullen,Co. Kildare,,,Kildare,R56RK83
+19676P|SCOIL AINE NAOFA,Esker,Lucan,Co. Dublin,,Dublin,K78N8X6
+19677R|SCOIL IOSAGAIN,Upperchurch Central NS,Thurles,Co. Tipperary,,Tipperary,E41DY88
+19678T|ST PAULS SENIOR NS,Marley's Lane,Drogheda,,,Louth,A92D232
+19679V|S N AODHAIN NAOFA,An Babhun Buí,Béal Tairbirt,Co. an Chabháin,,Cavan,H14V128
+19680G|SCOIL C.UI DHALAIGH,Léim an Bhradáin,Co. Chill Dara,,,Kildare,W23PF67
+19684O|SCOIL EOIN PHOIL,Green Lane,Leixlip,Co. Kildare,,Kildare,W23FY81
+19685Q|SCOIL CHARTHA NAOFA,Chill Chartha,Co. Dhún na nGall,,,Donegal,F94KC99
+19686S|ST MACARTANS CENTRAL,Bundoran,Co. Donegal,,,Donegal,F94EH33
+19688W|DROMORE WEST CENTRAL,Dromore West,Co. Sligo,,,Sligo,F26VW50
+19689B|BANSHA N S,Bansha,Co. Tipperary,,,Tipperary,E34KX68
+19690J|CLONOULTY CENTRAL N S,Clonouty,Cashel,,,Tipperary,E25E370
+19692N|ST JOHN THE BAPTIST,Old Road,Cashel,Co. Tipperary,,Tipperary,E25V627
+19693P|MARY QUEEN OF IRELAND N S,Toberburr,Co. Dublin,,,Dublin,K67E718
+19694R|SCOIL MHUIRE SIN,Blakestown,Mulhuddart,Dublin 15,,Dublin,D15YK58
+19696V|CASHEL DEANERY,Cashel,Co. Tipperary,,,Tipperary,E25NV05
+19698C|ST AIDANS NS,Smithstown,Shannon,Co. Clare,,Clare,V14AW77
+19700J|LISDOONVARNA N S,Lisdoonvarna,Co. Clare,,,Clare,V95P226
+19702N|ST THOMAS JUNIOR N S,Jobstown,Tallaght,Dublin 24,,Dublin,D24X577
+19703P|DRUMCORRIN N S,Cortober,Drum,,,Monaghan,H16AK79
+19707A|ST RONANS N S,Deansrath,Clondalkin,Dublin 22,,Dublin,D22C861
+19710M|BARNACARROLL CENTRAL NS,Barnacarroll,Claremorris,Co. Mayo,,Mayo,F12D406
+19713S|ARDEN BOYS NS,Arden View,Tullamore,Co. Offaly,,Offaly,R35HN70
+19714U|MHUIRE AR CHNOC HAOINE,Knocknaheeny,Cork,,,Cork,T23AH26
+19716B|ST ATTRACTAS SENIOR N S,Meadowbrook,Dumdrum,Dublin 16,,Dublin,D16HW66
+19720P|N MICHEAL AGUS PADRAIG,St. Michael's  St. Patrick's N.S.,Boyle,Co. Roscommon,,Roscommon,F52TV26
+19721R|HOLY FAMILY JUNIOR N S,Forest Fields,Swords,Co. Dublin,,Dublin,K67PX92
+19723V|QUEEN OF ANGELS PRIMARY SCHOOL,Wedgewood,Sandyford,Dublin 16,,Dublin,D16AX05
+19725C|GAELSCOIL EANNA,Bóthar Áth Throim,An Uaimh,Co. na Mí,,Meath,C15WF67
+19726E|STRADBALLY C. OF IRE. NS,Church Lane,Stradbally,,,Waterford,X42HN63
+19727G|ST MARYS CENTRAL N S,Belmont Avenue,Donnybrook,Dublin 4,,Dublin,D04K025
+19730S|SCOIL OILIBHEIR,Ballincollie Road,Ballyvolane,Co. Cork,,Cork,T23XF51
+19734D|ST FRANCIS N S,Newcastle,Co. Wicklow,,,Wicklow,A63YX22
+19736H|SCOIL PHADRAIG,Corduff,Carrickmacross,Co. Monaghan,,Monaghan,A81PP78
+19737J|CASTLEBLAYNEY CENT N S,Castleblayney,Co. Monaghan,,,Monaghan,A75E653
+19738L|ST DYMPNAS NS,Tydavnet,Co. Monaghan,,,Monaghan,H18FK12
+19739N|SCOIL MHUIRE COOLCOTTS,Coolcotts Lane,Co. Wexford,,,Wexford,Y35TR29
+19740V|S N AONGHUSA,Geata an Domhnaigh,Droichead Átha,Co. Lú,,Louth,A92PY18
+19741A|SCOIL MHUIRE,Broadway,Co. Wexford,,,Wexford,Y35DE42
+19742C|ST COLMCILLE SENIOR N S,Knocklyon,Dublin 16,,,Dublin,D16W8K0
+19743E|ST BERNADETTES JUNIOR N S,Quarryvale,Clondalkin,Dublin 22,,Dublin,D22CD39
+19744G|NIOCLAS NAOFA,Dunmore,Co. Galway,,,Galway,H54PD32
+19745I|SCARTAGLIN NEW CENT SC,Scairteach a Ghlinne,Cill Airne,Co. Chiarraí,,Kerry,V93Y443
+19747M|SCOIL BHRIDE NS,Knockmay,Portlaoise,Co. Laois,,Laois,R32EV18
+19748O|SCOIL MHUIRE NA NAIRD,Shillelagh,Co. Wicklow,,,Wicklow,Y14W866
+19750B|SCOIL MHUIRE,Ballyroan Road,Abbeyleix,Co. Laois,,Laois,R32A566
+19753H|St Emer's National School,Ballinlee Road,Templemichael,Co. Longford,,Longford,N39ND29
+19754J|BRAY SCHOOL PROJECT N S,Killarney Road,Ballywaltrim,Co. Wicklow,,Wicklow,A98RT02
+19755L|SACRED HEART N S,Huntstown,Mulhuddart,Dublin 15,,Dublin,D15KF65
+19756N|ST CONALS,Narin,Portnoo,Co. Donegal,,Donegal,F94P021
+19761G|DUNGOURNEY CENTRAL N SC,Dungourney,Co. Cork,,,Cork,P25Y838
+19762I|ST HELENS SENIOR N S,Limetree Ave,Portmarnock,Co. Dublin,,Dublin,D13X326
+19764M|OUR LADY OF WAYSIDE N S,Bluebell Road,Bluebell,Dublin 12,,Dublin,D12KC63
+19765O|ST THOMAS SENIOR N S,Jobstown,Tallaght,Dublin 24,,Dublin,D24YN90
+19768U|SCOIL MHUIRE,Ashbourne,Co. Meath,,,Meath,A84X762
+19769W|SCOIL THOMAIS,Laurel Lodge,Castleknock,Dublin 15,,Dublin,D15VW02
+19770H|GURTEEN CENTRAL NS,Gurteen,Ballinasloe,,,Galway,H53K634
+19771J|SCOIL BARRA,Innishmore,Baile an Chollaigh,Co. Chorcaí,,Cork,P31H578
+19774P|ST JOSEPHS MXD N S,East Wall Road,Dublin 3,,,Dublin,D03HF24
+19775R|SCOIL CNOC MHUIRE JUNIOR,Knockmore Avenue,Killinarden,Dublin 24,,Dublin,D24C921
+19776T|GEESALA CENTRAL SCHOOL,Geesala,Ballina,Co. Mayo,,Mayo,F26V677
+19777V|GAELSCOIL MIDE,Bóthar an Ghleanntáin Ghlais,Cill Bharróg,Baile Átha Cliath 5,,Dublin,D05YN51
+19779C|GAELSCOIL NA CILLE,Cill Dhéagláin,Ashbourne,Co. Meath,,Meath,A84TX36
+19780K|SCOIL BRIDE,Mullaghrafferty,Carrickmacross,Co. Monaghan,,Monaghan,A81NX62
+19782O|ST BRIGIDS N S,Brookfield,Tallaght,Dublin 24,,Dublin,D24X343
+19784S|ST LASERIANS MXD NS,Leighlinbridge,Co. Carlow,,,Carlow,R93YY72
+19785U|ST BERNADETTES SENIOR N S,Quarryvale,Clondalkin,Dublin 22,,Dublin,D22PW58
+19786W|CASTLEDERMOT NS MXD,Scoil Diarmada,Athy Road,Castledermot,,Kildare,R14FX46
+19791P|Scoil Tíghearnach Naofa,Cullohill,Rathdowney,Co. Laois,,Laois,R32WV79
+19794V|AGHARDS N S,Scoil Mochua,Aghards Road,Celbridge,,Kildare,W23YY00
+19795A|TIRELLAN HEIGHTS N S,Headford Road,Galway,,,Galway,H91X853
+19796C|ST PATRICKS BNS,Clane,Co. Kildare,,,Kildare,W91FC97
+19797E|SCOIL NAISIUNTA BHRIDE,Prosperous Road,Clane,Co. Kildare,,Kildare,W91PF77
+19798G|ST COLMANS NS,Derrinabroc,Cloontia,Ballymote,Co. Sligo,Sligo,F56TY05
+19799I|SACRED HEART N S,Sruleen,Clondalkin,Dublin 22,,Dublin,D22H224
+19800N|MILFORD GRANGE N SCHOOL,Milford Grange,Castletroy,Co. Limerick,,Limerick,V94W3W4
+19801P|DRIMOLEAGUE JUNIOR SCH,Drimoleague,Co. Cork,,,Cork,P47PK50
+19803T|SN SEAMUS NAOFA,Bearna,Co. na Gaillimhe,,,Galway,H91X2X8
+19808G|TAVRANE CENTRAL NS,Kilkelly,Ballyhaunis,,,Mayo,F35A461
+19809I|ABBEYCARTON NS,Elphin,Co. Roscommon,,,Roscommon,F45V302
+19811S|GAELSCOIL EOGHAIN UÍ THUAIRISC,Garrán na Fuinseoige,Ceatharlach,,,Carlow,R93PX92
+19812U|FOXFORD CENTRAL NS,Foxford,Co. Mayo,,,Mayo,F26PX63
+19813W|ST. DYMPNA'S NATIONAL SCHOOL,Kildalkey,Navan,,,Meath,C15YN67
+19814B|SCOIL GEARBHAIN,Clais na Lachan,Dún na Mainistreach,Co. Phort Láirge,,Waterford,X35NP84
+19815D|Scoil Bhríde,Four Mile House,Co. Roscommon,,,Roscommon,F42WF25
+19817H|ST MARYS N S,Woodview Heights,Esker,Lucan,Co. Dublin,Dublin,K78KP94
+19818J|CREGGS CENTRAL N S,Creegs,via Roscommon,Co. Galway,,Galway,F42D592
+19826I|ST BRENDANS NS,Cartron,Sligo Town ,Co. Sligo,,Sligo,F91YTK2
+19828M|SN CEARN MOR,School Road,Carnmore,Oran More,Co. na Gaillimhe,Galway,H91PT80
+19830W|CORPUS CHRISTI N S,Moyross,Limerick,,,Limerick,V94Y4CY
+19831B|SCOIL CHAOIMHIN,Sráid Mhaoilbhríde,Baile Átha Cliath 1,,,Dublin,D01YT29
+19832D|SCOIL RAIFTEIRI,Faiche an Aonaigh,Castlebar,Caisleán an Bharraigh,Co. Mhaigh Eo,Mayo,F23RC84
+19833F|GAELSCOIL CHORAIN,,Sráid na Trá,Eochaill,Co. Chorcaí,,Cork,P36N263
+19834H|ST AIDANS NS,Brookfield,Tallaght,Dublin 24,,Dublin,D24XN24
+19837N|DRIMNAGH CASTLE CBS N S,Drimnagh Castle,Dublin 12,,,Dublin,D12C893
+19838P|GAEL SC MHICHIL CHIOSOG,Inis,Co. an Chláir,,,Clare,V95DW35
+19839R|GAEL SCOIL UI RIORDAIN,Carraig an Earra,,Baile an Chollaigh,Co. Chorcaí,,Cork,P31V242
+19840C|HOLY FAMILY SCHOOL,Dunedin Park,Monkstown Farm,Glenageary,Co. Dublin,Dublin,A96TW60
+19841E|GLINSK N S,Via Castlerea,Co. Galway,,,Galway,F45YW40
+19845M|NORTH DUBLIN NS PROJECT,Ballymun Road,Dublin 9,,,Dublin,D09PE80
+19846O|REALT NA MAIDNE,Listowel,Co. Kerry,,,Kerry,V31R297
+19848S|ST ETCHENS NATIONAL SCHOOL,Kinnegad,Co. Westmeath,,,Westmeath,N91CV96
+19849U|GAELSCOIL DONNCHA RUA,Bóthar Linne,Sionna,Co. an Chláir,,Clare,V14AY84
+19850F|LADYSWELL N S,Ladyswell,Mulhuddart,Dublin 15,,Dublin,D15DD40
+19851H|GAELSCOIL DE HIDE,Mainistir Fhearmaí,Co. Chorcaí,,,Cork,P61PW81
+19852J|GAELSCOIL UI RIADA,Bealach an Cháirdinéil,Wilton,Co. Chorcaí,,Cork,T12D596
+19853L|GAELSCOIL PHORT LAIRGE,Baile Mhic Gonair,Port Láirge,,,Waterford,X91AX81
+19855P|GAELSCOIL CHLUAIN DOLCAIN,Bóthar Nangor,Cluain Dolcain,Baile Átha Cliath 22,,Dublin,D22PE04
+19856R|GAELSCOIL OSRAI,Loch Buí,Cill Chainnigh,,,Kilkenny,R95AT85
+19857T|SCOIL ROIS,Carraig Mhachaire Rois,Co. Mhuineacháin,,,Monaghan,A81H663
+19858V|GAELSCOIL DARA,Bóthar Baile an Locháin,An Rinn Mhór,Co. na Gaillimhe,,Galway,H91PN47
+19865S|DIVINE MERCY JUNIOR NATIONAL SCHOOL,Balgaddy,Lucan,Co. Dublin,,Dublin,K78FW98
+19867W|SCOIL NA RITHE,Dún Seachlainn,Co. na Mí,,,Meath,A85D266
+19871N|ST PATRICKS N S,Killinagh,Blacklion,Co. Cavan,via Sligo,Cavan,F91VF61
+19872P|SCOIL CHAITLIN MAUDE,Garrán an Choill,Tamhlacht,Baile Átha Cliath 24,,Dublin,D24C921
+19874T|SCOIL NA TOIRBHIRTE,Scoil Mhuire Presentation Primary,Cathedral Street,Thurles,,Tipperary,E41V967
+19875V|SAN CARLO SENIOR N S,Confey,Leixlip,Co. Kildare,,Kildare,W23E9D0
+19877C|HOLY FAMILY SENIOR N S,Forest Fields,River Valley,Swords,Co. Dublin,Dublin,K67V9V2
+19878E|Holy Rosary Primary School,Old Court Avenue,Tallaght,Dublin 24,,Dublin,D24H022
+19879G|NAOMH PADRAIG JUNIOR,Drangan,Thurles,Co. Tipperary,,Tipperary,E41X337
+19880O|NAOMH PADRAIG SENIOR,Drangan,Thurles,Co. Tipperary,,Tipperary,E41X337
+19881Q|GAELSCOIL CHARRAIG UI LEIGHIN,Carraig Uí Leighin,Co. Chorcaí,,,Cork,P43Y160
+19882S|SCOIL AN ATHAIR TADHG O MURCHU,Dúghlas,Corcaigh,,,Cork,T12D702
+19883U|GAELSCOIL O DOGHAIR,Caisleán Nua Thiar,Co. Luimnigh,,,Limerick,V42PD71
+19884W|BALLYBAY CENTRAL NS,Ballybay,Co. Monaghan,,,Monaghan,A75A382
+19885B|GAELSCOIL PHILIB BARÚN,Cruabhaile Uachtarach,An Trá Mhór,Co. Phort Láirge,,Waterford,X91FP29
+19886D|GAEL SCOIL THOMAIS DAIBHIS,Magh Ealla,Co. Chorcaí,,,Cork,P51EY22
+19888H|ST ANNES MXD N S,Stonebridge Road,Shankill,Co. Dublin,,Dublin,D18AV61
+19890R|NAOMH MAODHOG N.S.,Ferns,Co. Wexford,,,Wexford,Y21H9P8
+19892V|GAELSCOIL DHUN DEALGAN,Muirtheimhne Mór,Dún Dealgan,Co. Lú,,Louth,A91D797
+19893A|ST KILIANS SENIOR N S,Castleview,Tallaght,Dublin 24,,Dublin,D24F797
+19894C|AN MHODH SCOIL,Ascail Uí Chonaill,Luimneach,,,Limerick,V94W891
+19896G|SCOIL CAITRIONA NA MBRAITHRE,59 Lower Baggot Street,Dublin 2,,,Dublin,D02H365
+19897I|SCOIL UÍ RIADA,An Bhanóg,Cill Choca,Co. Chill Dara,,Kildare,W23KNW8
+19898K|GAELSCOIL AN DUINNINIGH,Draighneán,Bóthar Fhaol Droma,Co. Átha Cliath,,Dublin,K67V207
+19899M|GAELSCOILE COBH,Cobh,Co. Chorcaí,,,Cork,P24AF83
+19901T|BOOTERSTOWN N S,Cross Avenue,Blackrock,Co. Dublin,,Dublin,A94E524
+19903A|KILTIMAGH CENTRAL,Kiltimagh,Co. Mayo,,,Mayo,F12XY86
+19904C|HOLY CROSS N S,Upper Kilmacud Road,Dumdrum,Dublin 14,,Dublin,D14AD66
+19905E|KILKENNY SCHOOL PROJECT,Springfields,Waterford Road,Co. Kilkenny,,Kilkenny,R95VX31
+19906G|Cork Educate Together National School,Grattan Street,Cork,,,Cork,T12NW65
+19907I|GAELSCOIL MOLOGA,Bóthar Thigh Chláir,,Cros Araild,Baile Átha Cliath 6W,,Dublin,D6WEA22
+19908K|GAELSCOIL MHACHAN,Ave de Rennes,Machan,Co. Chorcaí,,Cork,T12RH66
+19909M|GAELSCOIL PEIG SAYERS,Campas Oideachais,Fearann Phiarais,Co. Chorcaí,,Cork,T23FK40
+19910U|SLIGO PROJECT SCHOOL,Abbey Quarter,Sligo,,,Sligo,F91XF51
+19911W|ST PATRICKS CENTRAL NS,Kilmaine,Claremorris,,,Mayo,F31E199
+19912B|SCOIL MHUIRE,Glenties,Co. Donegal,,,Donegal,F94HT62
+19913D|ST JOSEPHS NS,Macroom Road,Bonnybrook,Dublin 17,,Dublin,D17DY60
+19914F|SCOIL NAISIUNTA THOLA,Both Thola,Clár Chlainne Mhuiris,Co. Mhaigh Eo,,Mayo,F12PR53
+19915H|CLAREMORRIS BOYS NS,Kilcolman Road,Claremorris,,,Mayo,F12Y996
+19916J|ST PETERS NS,Snugboro,Castlebar,Co. Mayo,,Mayo,F23XY33
+19917L|GAELSCOIL NAOMH AOGAIN,Bóthar an Choláiste,Oileán Ciarraí,Co. Chiarraí,,Kerry,V92HD27
+19918N|DRINAGH MIXED NS,Dunmanway,Co. Cork,,,Cork,P47E024
+19919P|ST DAVIDS N S,Kilmore Road,Artane,Dublin 5,,Dublin,D05E510
+19920A|ST JOHN OF GOD N S,Kilmore Road,Artane,Dublin 5,,Dublin,D05E265
+19921C|DRUNG NO 2 NS,Drung,Co. Cavan,,,Cavan,H12YR91
+19922E|OUR LADYS N S,St Columbanus Road,Milltown,Dublin 14,,Dublin,D14N8H4
+19924I|HAROLDS CROSS N S,Harolds Cross,Clareville Raod,Harold's Cross,Dublin 6W,Dublin,D6WFR66
+19925K|SCOIL MHUIRE,Parnell Street,Co. Kilkenny,,,Kilkenny,R95YT68
+19926M|GAELSCOIL CHOLAISTE MHUIRE,4 Cearnóg Parnell,Baile Átha Cliath 1,,,Dublin,D01WC99
+19927O|SCOIL MHUIRE B  C,Main Street,Stranorlar,Co. Donegal,,Donegal,F93F9TF
+19928Q|RANELAGH MULTI DENOM NS,Ranelagh Road,Rathmines,Dublin 6,,Dublin,D06Y658
+19929S|ST BRIGIDS SENIOR GIRLS,Wellmount Avenue,Finglas West,Dublin 11,,Dublin,D11X262
+19930D|Scoil an Chroí Ró-Naofa,Urlingford,Co. Kilkenny,via Thurles,,Kilkenny,E41A567
+19931F|GAELSCOIL SHEOIRSE,Clancy,Bóthar Bhaile an Róistigh,Luimneach,,Limerick,V94P283
+19932H|SN MHIC DARA,An Cheathrú Rua,Co. na Gaillimhe,,,Galway,H91T4C2
+19933J|SCOIL TREASA NAOFA,Petrie Road,Donore Avenue,Dublin 8,,Dublin,D08XP02
+19934L|LIMERICK SCHOOL PROJECT,O'Connell Avenue,Limerick,,,Limerick,V94WDV2
+19935N|SCOIL EOIN,Greendale Road,Dublin 5,,,Dublin,D05K5P2
+19936P|GAELSCOIL ULTAIN,Cnoc an Chonnaidh,Muinecháin,,,Monaghan,H18H263
+19937R|GAELSCOIL AONACH,Bóthar Naomh Chonlain,Aonach Urmhumhan,Co. Thiobraid Árann,,Tipperary,E45AK02
+19938T|ST JOSEPHS,Tivolie Road,Dun Laoghaire,Co. Dublin,,Dublin,A96VF34
+19939V|SCOIL NAISIUNTA AN DEA AOIRE,Whitehall Road,Churchtown,Dublin 14,,Dublin,D14Y448
+19940G|GAELSCOIL NAOMH PADRAIG,Bóthar an Chaisleáin,Leamhcán,Co. Átha Cliath,,Dublin,K78RK40
+19941I|GAELSCOIL FAITHLEANN,An Pháirc,Cill Airne,Co. Chiarraí,,Kerry,V93WP62
+19942K|ST PATRICKS NS,Collgagh,Calry,Sligo,,Sligo,F91DP48
+19943M|ST DAMIENS NS,Quarry Drive,Perrystown,Dublin 12,,Dublin,D12FWV6
+19944O|GORESBRIDGE N.S.,Goresbridge,Co. Kilkenny,,,Kilkenny,R95VX26
+19945Q|RATHFARNHAM EDUCATE TOGETHER,Loreto Avenue,Rathfarnham,Dublin 14,,Dublin,D14V5W4
+19946S|RUTLAND NATIONAL SCHOOL,Lower Rutland Street,Dublin 1,,,Dublin,D01AE73
+19947U|MOUNT SION CBS N S,Barrack Street,Waterford City,,,Waterford,X91NF77
+19948W|SC NA GCEITHRE MAISTRI,Lios Uí Mhulláin,Áth Luain,Co. na hIarmhí,,Westmeath,N37RP03
+19949B|ISLAMIC NATIONAL SCHOOL,19 Robuck Road,Clonskeagh,Dublin 14,,Dublin,D14V386
+19951L|SWINFORD NS,Swinford,Co. Mayo,,,Mayo,F12V050
+19952N|HOSPITAL NS,Hospital,Co. Limerick,,,Limerick,V35PX34
+19953P|ST MARYS NS,Dungarvan,Co. Waterford,,,Waterford,X35TN99
+19954R|NORTH BAY EDUCATE TOGETHER NS,Greendale Avenue,Kilbarrack,Dublin 5,,Dublin,D05K744
+19955T|Presentation Primary School,Slievekeale Road,Waterford,,,Waterford,X91K132
+19956V|GAELSCOIL SAIRSEAL,Bóthar Shíol Bhroin,Luimneach,,,Limerick,V94YX97
+19957A|DROMCLOUGH N S,Listowel,Co. Kerry,,,Kerry,V31W640
+19958C|S.N. NAOMH FHIACH,Killeshin,Graiguecullen,,,Carlow,R93KT68
+19959E|SCOIL NAOMH FIONAN,Whitecastle,Quigleys Point,Co. Donegal,,Donegal,F93XR29
+19960M|ST JOHNS N S,Church Road,Ballybrack,Co. Dublin,,Dublin,A96NW60
+19963S|SCOIL AODH RUANUALA,An tSráid Mhór Uachtarach,Dún na nGall,,,Donegal,F94H792
+19964U|SCOIL MHUIRE GAN SMAL,Ballymote,Co. Sligo,,,Sligo,F56CP59
+19965W|SCOIL MHUIRE,Clarinbridge,Co. Galway,,,Galway,H91D7P3
+19966B|ST JOSEPHS,Drumcollogher,Charleville,Co. Limerick,,Limerick,P56P409
+19967D|SCOIL IOSAGAIN,St Mary's Road,Buncrana,Co. Donegal,,Donegal,F93RF77
+19968F|GAELSCOIL DURLAS EILE,Durlas,Co. Thiobraid Árann,,,Tipperary,E41A668
+19969H|SN UI CHEITHEARNAIGH,Céide Ghearrbhaile,Béal Átha na Sluaighe,Co. na Gaillimhe,,Galway,H53W183
+19970P|PORTLAW N.S.,Convent Road,Portlaw,,,Waterford,X91V343
+19971R|GAELSCOIL ADHAMHNAIN,Gleann Cearra,Leitir Ceanainn,Co. Dhún na nGall,,Donegal,F92PV04
+19972T|S N UILEOG DE BURCA,Lochán na mBan,Clár Chlainne Mhuiris,Co. Mhaigh Eo,,Mayo,F12E201
+19973V|SCOIL MHUIRE,Racecourse Road,Clifden,,,Galway,H71HY04
+19974A|SCOIL EOIN NAOFA,Sráid an Teampaill,Sligeach,,,Sligo,F91FK20
+19975C|ST PATRICKS,BALLINAMUCK,Co. Longford,,,Longford,N39P276
+19976E|ST BEACONS N S,Mullinavat,Co. Kilkenny,,,Kilkenny,X91DY67
+19977G|BANDON BOYS NS,Convent Hill,Bandon,,,Cork,P72XH02
+19978I|MAULATRAHANE CENTRAL NS,Leap,Skibbereen,Co. Cork,,Cork,P81W952
+19979K|ST KEVINS N S,Pearse Street,Sallynoggin,,,Dublin,A96W862
+19980S|ST ATTRACTAS N S,Ballaghaderreen,Co. Roscommon,,,Roscommon,F45H367
+19981U|ST MARYS N S,Windsor Avenue,Fairview,Dublin 3,,Dublin,D03AH64
+19983B|ST CLARES NS,Ballyjamesduff,Co. Cavan,,,Cavan,A82XN67
+19985F|OUR LADY OF MERCY N S,Pearse Road,Abbeyquarter North,Sligo,,Sligo,F91YY06
+19986H|S N EOIN BAISTE,Garraí na dTor,Liospoil,Trá Lí,Co. Chiarraí,Kerry,V92CX51
+19987J|SCOIL MHUIRE N S,Newtownforbes,Co. Longford,,,Longford,N39K263
+19989N|SCOIL MHUIRE NA TROCAIRE,Cill na Mullach,Co. Chorcaí,,,Cork,P51X640
+19990V|GAELSCOIL AN EISCIR RIADA,Cluain Calge,An Tulach Mhór,Co. Uíbh Fhailí,,Offaly,R35YP90
+19991A|GAELSCOIL NA CAMOIGE,Bóthar an Úlloird,Cluain Dolcain,Baile Átha Cliath 22,,Dublin,D22X048
+19993E|GAELSCOIL AN GHOIRT ALAINN,Aibhainne Murmont,Gort Álain,Co. Chorcaí,,Cork,T23EF20
+19994G|GAELSCOIL MHIC AMHLAIGH,Lána an Mhuilleora,Cnoc na Cathrach,Co. na Gaillimhe,,Galway,H91FV4D
+19995I|NORTH KILDARE EDUCATE TOGETHER SCH,Clane Road,Celbridge,,,Kildare,W23HFX0
+19996K|ST BRENDANS NS,St Brigid's Road,Portumna,,,Galway,H53C792
+19997M|SCOIL BHRIGE AGUS BHREANDAIN NAOFA,Corrandulla,Co. Galway,,,Galway,H91AT10
+19998O|GAELSCOIL DE HIDE,Ard na Mara,Órán Mór,Co. na Gaillimhe,,Galway,H91R2RV
+19999Q|GAELSCOIL UI CHOIMIN,Pound Street,Cill Rois,Co. an Chláir,,Clare,V15KT32
+20000L|GALWAY EDUCATE TOGETHER N.S.,Thomas Hynes Road,Newcastle,Galway,,Galway,H91HV07
+20001N|GAELSCOIL BHEANNTRAI,Seisceann,Beanntraí,Co. Chorcaí,,Cork,P75VE44
+20002P|GAELSCOIL AN MHUILINN,An Muileann Cearr,Co. na hIarmhí,,,Westmeath,N91VN56
+20003R|ST AIDANS PARISH SCHOOL,Nunnery Rd,Enniscorthy,,,Wexford,Y21WD30
+20004T|SCOIL AN CROI RO NAOFA,Castletownbere,Co. Cork,,,Cork,P75CF68
+20006A|Gaelscoil Mhichíl Uí Choileáin,Bóthar Chnoc na Raithní,Cloch na gCoillte,Co. Chorcaí,,Cork,P85YV90
+20007C|GAELSCOIL CHLUAIN MEALA,Baile Gaelach,Cluain Meala,Co. Thiobraid Árann,,Tipperary,E91WT78
+20008E|GAELSCOIL LOCH GARMAN,An Charraig Bhán Thuaidh,Loch Garman,,,Wexford,Y35XW99
+20009G|GAELSCOIL DR M UI SHUILLEABHAIN,Gort na Cloiche,An Sciobairín,Co. Chorcaí,,Cork,P81HY67
+20011Q|ST JOHNS SENIOR NS,Ballybough Street,Kilkenny,,,Kilkenny,R95NH66
+20012S|GRIFFITH BARRACKS MULTI D SCHOOL,The Old Guardhouse,South Circular Road,Dublin 8,,Dublin,D08KVY4
+20013U|GAELSCOIL LIOS TUATHAIL,Lios Tuathail,Co. Chiarraí,,,Kerry,V31E981
+20015B|GAELSCOIL BHAILE MUNNA,CDETB Building,Ballymun Road,Dublin 11,,Dublin,D09TY74
+20016D|GAELSCOIL UI CHEADAIGH,Bóthar Vevay,Bré,Co. Chill Mhantáin,,Wicklow,A98YH48
+20017F|SCOIL AN SPIORAID NAOIMH,Laytown,Co. Meath,,,Meath,A92E273
+20018H|Presentation Primary School,Sexton Street,Limerick,,,Limerick,V94P028
+20019J|HOLY FAMILY SCHOOL,Ballymote Road,Tubbercurry,,,Sligo,F91EW90
+20020R|GAELSCOIL THAOBH NA COILLE,Beallairmín,An Chéim,Baile Átha Cliath 18,,Dublin,D18TK40
+20022V|SCOIL NA MBUACHAILLI,Cloch na gCoillte,Co. Chorcaí,,,Cork,P85X788
+20023A|GAELSCOIL CHILL DARA,Green Road,Newbridge,Co. Chill Dara,,Kildare,R56PR22
+20024C|BUN SCOIL MUIRE,O'Brien's Place,Youghal,Co. Cork,,Cork,P36PR62
+20025E|GAELSCOIL DROICHEAD NA BANNDAN,Cloughmacsimon,Bandon Bypass,Co. Cork,,Cork,P72T922
+20026G|Gaelscoil Bhreifne,Cnoc an Choiligh,An Cabhán,Co. an Chabháin,,Cavan,H12TD54
+20027I|GAELSCOIL THIOBRAID ARANN,Cnoc an Ráiléigh,Baile Thiobraid Árann,Co. Thiobraid Árann,,Tipperary,E34F544
+20029M|ST BRIGIDS INFANT N S,Wellmount Avenue,Finglas West,Dublin 11,,Dublin,D11F992
+20032B|DUNBOYNE JUNIOR N S,Dunboyne,Co. Meath,,,Meath,A86HW57
+20033D|DUNBOYNE SENIOR N S,Station Road,Dunboyne,,,Meath,A86X857
+20035H|ST GABRIELS N S,Cowper Street,Dublin 7,,,Dublin,D07CX50
+20036J|NORTH PRESENTATION PRIMARY SCHOOL,Gerald Griffin Street,Cork City,,,Cork,T23F344
+20037L|S N PADRAIG NAOFA,Louisburgh,Co. Mayo,,,Mayo,F28T189
+20038N|SCOIL AISEIRI CHRIOST,Farranree,Cork,,,Cork,T23E634
+20039P|SCOIL NAOMH IOSAF,Baltinglass,Co. Wicklow,,,Wicklow,W91EF95
+20040A|ST BRENDANS N S,Belmont,Cloghans Hill,Tuam,Co. Galway,Galway,H54HY75
+20041C|CONVENT OF MERCY NATIONAL SCHOOL,Kilrush,Co. Clare,,,Clare,V15HX06
+20042E|SCOIL AN CHROI NAOFA,Ballinasloe,Co. Galway,,,Galway,H53W603
+20043G|GAELSCOIL CHNOC LIAMHNA,Halla na nGasóga,Bóthar Cnoc Liamhna,Baile Átha Cliath 16,,Dublin,D16HR26
+20044I|GAELSCOIL CHNOC NA RE,Bóthar Baile Uí Dhugáin,Co. Shligigh,,,Sligo,F91FH30
+20045K|GAELSCOIL CHILL MHANTÁIN,Former Abbey Community College,The Glebe,Wicklow,,Wicklow,A67N797
+20046M|GAELSCOIL NA CRUAICHE,Bóthar an Chúrsa Galf,Cathair na Mart,Co. Mhaigh Eo,,Mayo,F28R243
+20047O|GAELSCOIL BHARRA,Naomh Fionnbarra CLG,Ascal an Fhasaigh,An Chabrach,Baile Átha Cliath 7,Dublin,D07CF72
+20048Q|GAELSCOIL LIOS NA NOG,Áras Cullenswood,21A Bóthar Oakley,Raghnallach,Baile Átha Cliath 6,Dublin,D06WF43
+20049S|RINGASKIDDY LOWER HARBOUR N S,Ringaskiddy,Co. Cork,,,Cork,P43C594
+20050D|GAELSCOIL NA NDEISE,Campas Charraig Phiarais,Bóthar Charraig Phiarais,Port Láirge,,Waterford,X91 KP2H
+20051F|GAELSCOIL NA BOINNE,Dublin Road,Trim,Co. Meath,,Meath,C15YF64
+20052H|GAELSCOIL CHOLMCILLE,Lána na Cúlóige,Baile Átha Cliath 17,,,Dublin,D17W021
+20054L|SCOIL EOGHAN,Bath Terrace Lane,Moville,,,Donegal,F93A970
+20055N|GAELSCOIL ÉOIS,Bóthar Ros Liath,Cluain Éois,Co. Mhuineacháin,,Monaghan,H23RW28
+20056P|GAELSCOIL PHADRAIG,Ascaill Shileann,Baile Breac,Co. Átha Cliath,,Dublin,A96KF64
+20057R|GAELSCOIL INIS CORTHAIDH,Drom Guail,Inis Córthaidh,Co. Loch Garman,,Wexford,Y21PP59
+20058T|SCOIL UI FHIAICH,Bóthar Chill Droichid,Maigh Nuad,Co. Chill Dara,,Kildare,W23T207
+20059V|MOTHER OF DIVINE GRACE,Holy Faith National School,Ferndale Avenue,Dublin 11,,Dublin,D11VW68
+20060G|MONKSTOWN EDUCATE TOGETHER NS,Kill Avenue,Dun Laoghaire,Co. Dublin,,Dublin,A96R528
+20061I|GAELSCOIL IARFHLATHA,Tír an Chóir,Tuaim,Co. na Gaillimhe,,Galway,H54CC80
+20062K|SCOIL MHUIRE,Borrisokane,Co. Tipperary,,,Tipperary,E45H928
+20063M|SCOIL AN CHLOCHAIR CILL BHEAGAN,Kilbeggan,Co. Westmeath,,,Westmeath,N91FY53
+20064O|OUR LADY OF CONSOLATION NS,Collins Avenue East,Donnycarney,Dublin 5,,Dublin,D05RW80
+20065Q|OUR LADYS MEADOW NATIONAL SCHOO,Durrow,Co. Laois,,,Laois,R32FW18
+20066S|LUCAN EDUCATE TOGETHER NS,Mount Bellew Way,Willsbrook,Co. Dublin,,Dublin,K78C922
+20067U|ST JOSEPHS N S,Knockatallon,Scotstown,Co. Monaghan,,Monaghan,H18VY49
+20068W|ST MARYS NATIONAL SCHOOL,Cloghan,Birr,Co. Offaly,,Offaly,R42E521
+20071L|SCOIL BHRIDE,Rathdowney,Co. Laois,,,Laois,R32H773
+20073P|ST MARYS NS,Gracepark Road,Athlone,Co. Westmeath,,Westmeath,N37PX01
+20075T|ST MOCHULLAS N.S.,Ennis Road,Tullamore,Co. Clare,,Clare,V95XH26
+20076V|BUN SCOIL BHOTHAR NA NAOMH,Lismore,Co. Waterford,,,Waterford,P51TW59
+20077A|SCOIL AN SPIORAID NAOMH (BOYS),Bishopstown,Cork,,,Cork,T12X030
+20078C|SN REALT NA MARA,Chapel Street,Kilkee,Co. Clare,,Clare,V15VY11
+20079E|FOUR MASTERS NS,Kinlough,Co. Leitrim,,,Leitrim,F91P086
+20080M|GAELSCOIL AN INBHIR MHOIR,Fernbank Park,Emoclew Road,Co. Chill Mhantáin,,Wicklow,Y14XV50
+20081O|GAELSCOIL PHORT LAOISE,Cnoc an tSamhraidh,Portlaoise,Co. Laoise,,Laois,R32YA66
+20082Q|GAELSCOIL THULACH NA NÓG,Bóthar Rúisc,Dún Búinne,Co. na Mí,,Meath,A86EP04
+20083S|GAELSCOIL AN LONGFOIRT,Fearann Uí Dhuagáin,Longphort,,,Longford,N39TW62
+20084U|Gaelscoil na gCeithre Maol,Cearnóg an Mhargaidh,Béal an Átha,Co. Mhaigh Eo,,Mayo,
+20085W|GAELSCOIL CHARRAIG NA SIUIRE,C/O Carrick Utd AFC,Coolnamuch Road,Carrickbeg,Co. Tipperary,Tipperary,E32AK88
+20086B|ENNIS EDUCATE TOGETHER NS,Gort Road,Ennis,Co. Clare,,Clare,V95KP29
+20087D|KILLASHEE MULTI-DENOMINATIONAL NS,Kilcullen Road,Naas,Co. Kildare,,Kildare,W91YV60
+20088F|SCOIL MHUIRE N.S.,,Schull,Co. Cork,,,Cork,P81Y163
+20089H|ST. JOSEPHS N. S.,Ballinrobe,Co. Mayo,,,Mayo,F31E406
+20091R|ST PETERS NS,Phibsboro,Dublin 7,,,Dublin,D07F75C
+20092T|ST ULTANS NS,Cherry Orchard Avenue,Dublin 10,,,Dublin,D10NY53
+20094A|SCOIL CHRIOST AN SLANAITHEOIR,Baile an Gharraí,Co. Luimnigh,,,Limerick,V94W1X4
+20095C|GAELSCOIL BHRIAN BÓROIMHE,Coill na nÚll,Sord,Co. Átha Cliath,,Dublin,K67T3H2
+20096E|GAELSCOIL NA GCEITHRE MAISTRI,Páirc an tSrutháin,Baile Dhún na nGall,Co. Dhún na nGall,,Donegal,F94T863
+20097G|GAELSCOIL BHUN CRANNACH,Bun Crannach,Co. Dhún na nGall,,,Donegal,F93YW18
+20098I|CASTLEKNOCK EDUCATE TOGETHER NS,Beechpark Avenue,Castleknock,Dublin 15,,Dublin,D15X094
+20101R|THE SACRED HEART PRIMARY N.S.,Granard,Co. Longford,,,Longford,N39RY67
+20102T|ST FERGUS PRIMARY SCHOOL,Glin,Co. Limerick,,,Limerick,V94PT68
+20103V|JOHN SCOTTUS NS,47/49 Northumberland Road,Dublin 4,,,Dublin,D04R128
+20104A|ST AUDOENS NS,Cook Street,Dublin 8,,,Dublin,D08XP83
+20105C|STAR OF THE SEA PRIMARY SCHOOL,Passage West,Co. Cork,,,Cork,T12A381
+20106E|SCOIL NIOCLAIS,Frankfield,Grange,Co. Cork,,Cork,T12HD86
+20107G|GAELSCOIL MHAINISTIR NA CORANN,Bán Sheáin,Mainistir na Corran,Co. Chorcaí,,Cork,P25CH73
+20108I|St. John the Apostle, Knocknacarra NS,Western Distributor Road,Galway,,,Galway,H91R3N1
+20110S|S N MHUIRE SENIOR SCHOOL,Blessington,Co. Wicklow,,,Wicklow,W91RX84
+20111U|Holy Family National School,Rathmore,Co. Kerry,,,Kerry,P51N290
+20112W|CAHERCIVEEN N S,O Connell Street,Cahirciveen,Co. Kerry,,Kerry,V23TW26
+20113B|SCOIL CROI NAOFA,Bunnanadden,Ballymote,Co. Sligo,,Sligo,F56TE24
+20114D|SCOIL BRÍD,Oldtown,Naas,Co. Kildare,,Kildare,W91YA62
+20115F|SCOIL EINNE,An Spidéal,Co. na Gaillimhe,,,Galway,H91N9C9
+20116H|GLOR NA MARA NS,Convent Hill,Tramore,,,Waterford,X91Y924
+20118L|SCOIL BHRIDE,Cluain na Slí,Móinteach Mílic,Co. Laois,,Laois,R32WE51
+20120V|St Tiarnach's Primary School,Clones,Co. Monaghan,,,Monaghan,H23KC59
+20122C|SCOIL MHUIRE AGUS IOSAF,Collooney,Co. Sligo,,,Sligo,F91A076
+20123E|GAELSCOIL RIABHACH,Cois Móna,Baile Locha Riach,Co. na Gaillimhe,,Galway,H62TK22
+20124G|ST MARYS N.S.,Edgeworthstown,Co. Longford,,,Longford,N39PX32
+20125I|CROSSMOLINA N.S.,Crossmolina,Co. Mayo,,,Mayo,F26T224
+20126K|GAELSCOIL DE HIDE,Cnoc na Cruibe,Bóthar na Gaillimhe,Co. Ros Comáin,,Roscommon,F42TD83
+20127M|SCOIL NA MAIGHDINE MHUIRE,Cora Chaitlín,Inis,Co. an Chláir,,Clare,V95FX59
+20128O|ST MATTHEWS MIXED N.S,Ballmahon,Co. Longford,,,Longford,N39KA06
+20129Q|SCOIL TEAMPALL TOINNE,Ballyporeen,Cahir,Co. Tipperary,,Tipperary,E21XP64
+20130B|ST PATRICKS NS,St. Patrick's National School,Diswellstown Road,Dublin 15,,Dublin,D15PH21
+20131D|EDUCATE TOGETHER NS,Fitzwilliam Place North,Grangegorman Lower,Dublin 7,,Dublin,D07PY50
+20133H|SCOIL DEAN CUSSEN,Brú na nDeise,Co. Luimnigh,,,Limerick,V35FT99
+20134J|ST MICHAELS N. S.,Stradone,Cavan,Co. Cavan,,Cavan,H12H272
+20137P|MARY MOTHER OF HOPE SENIOR NS,Littlepace,Castaheany,Dublin 15,,Dublin,D15TA49
+20139T|INCHICORE NS,Sarsfield Road,Inchicore,Dublin 10,,Dublin,D10V963
+20140E|SCOIL MHUIRE FATIMA BOYS SENIOR,North Monastery,Cork,,,Cork,T23VY17
+20141G|THE HAROLD SCHOOL,Eden Road,Glasthule,Co. Dublin,,Dublin,A96X043
+20142I|SCOIL IOSA,Abbeyquarter,Ballyhaunis,Co. Mayo,,Mayo,F35PX94
+20143K|WATERPARK N S,Park Road,Waterford,,,Waterford,X91D540
+20144M|GAELSCOIL CHOIS FEABHAILL,Carn na Gairbhe,Bun an Phobail,Co. Dhún na nGall,,Donegal,F93YXD2
+20145O|SWORDS EDUCATE TOGETHER NS,Applewood,Swords,Co. Dublin,,Dublin,K67H0F6
+20146Q|LE CHEILE EDUCATE TOGETHER,Mornington Road,Drogheda,,,Louth,A92KX84
+20147S|SCOIL MHUIRE AGUS N.TREASA,Currow,Killarney,Co. Kerry,,Kerry,V93E981
+20148U|GAELSCOIL CHALADH AN TREOIGH,Caisleán Nua,Bóthar Bhaile Átha Cliath,Co. Luimnigh,,Limerick,V94RW26
+20149W|ST FACHNAN  ST ATTRACTAS N S,Kilfenora,Co. Clare,,,Clare,V95EY90
+20150H|HOLY FAMILY NATIONAL SCHOOL,The Rock,Ballyshannon,Co. Donegal,,Donegal,F94F259
+20151J|GAELSCOIL MHUSCRAÍ,Sean Íochtarach,An Bhlarna,Co. Chorcaí,,Cork,T23EA29
+20152L|NORTH DUBLIN MUSLIM NS PROJECT,Ratoath Road,Cabra,Dublin 7,,Dublin,D07P967
+20155R|ST JOHN THE BAPTIST BOYS SCHOOL,Cashel,Co. Tipperary,,,Tipperary,E25V627
+20157V|BUNSCOIL GLEANN SIDHEAIN,Cappoquin,Co. Waterford,,,Waterford,P51E732
+20158A|TRALEE EDUCATE TOGETHER NS,Collis Sandes House,Killeen,Oakpark,Co. Kerry,Kerry,V92PF5N
+20159C|GAELSCOIL NAS NA RIOGH,Cnoc an Phíobaire,An Nás,Co. Chill Dara,,Kildare,W91WD98
+20160K|WATERFORD EDUCATE TOGETHER NS,Carrickphierish Road,Waterford City,,,Waterford,X91NN9F
+20161M|DONABATE/PORTRANE EDUCATE TOGETHER,Ballisk Common,Beaverstown Road,Donabate,Co. Dublin,Dublin,K36HX03
+20163Q|S.N EOIN BAISTE,Fatima,Castletown,Dundalk,Co. Louth,Louth,A91XN28
+20164S|NAVAN EDUCATE TOGETHER NS,Commons Road,Navan,,,Meath,C15KV84
+20165U|GAELSCOIL MHOSHIOLOG,An Chraobhach,Bóthar Charn an Bhua,Guaire,Co. Loch Garman,Wexford,Y25VP62
+20166W|GRIFFEEN VALLEY EDUCATE TOGETHER NS,Griffeen Glen Boulevard,Lucan,Co. Dublin,,Dublin,K78YA07
+20167B|GAELSCOIL EIRNE,Fearainn an Bhaile,Béal Átha Seanaidh,Co. Dhún na nGall,,Donegal,F94KP62
+20168D|GLASNEVIN EDUCATE TOGETHER NS,Griffith Avenue,Glasnevin,Dublin 11,,Dublin,D11A2YT
+20169F|CASTLETOWN N.S,Elderfield Building,Castletown,,,Laois,R32VX78
+20170N|SCOIL CHOILL MHIC THOMAISIN,Kilmacthomas,Co. Waterford,,,Waterford,X42YY36
+20171P|ARDEE EDUCATE TOGETHER N.S,Dundalk Road,Ardee,Co. Louth,,Louth,A92TW80
+20172R|ST JOSEPHS N S,Kingscourt,Co. Cavan,,,Cavan,A82RD70
+20173T|ST ANNES PRIMARY SCHOOL,Fettercairn,Tallaght,Dublin 24,,Dublin,D24DHY5
+20174V|Scoil Éanna,Ballybay,Co. Monaghan,,,Monaghan,A75XD83
+20175A|LIMERICK CITY EAST EDUCATE TOGETHER,Dromgarrig,Mungret,Co. Limerick,,Limerick,V94ND77
+20176C|RUSH AND LUSK EDUCATE TOGETHER NS,Raheny Lane,Rathmore Road,Lusk,Co. Dublin,Dublin,K45WC62
+20177E|NEWBRIDGE EDUCATE TOGETHER,Green Road,The Curragh,Co. Kildare,,Kildare,R56YC60
+20178G|WICKLOW EDUCATE TOGETHER NS,Hawkstown Road,Wicklow Town,,,Wicklow,A67A329
+20179I|ST STEPHENS NS,Johnstown,Navan,Co. Meath,,Meath,C15AE03
+20180Q|SCOIL NAOMH EOIN,Clonmagadden Valley,Windtown,Navan,Co. Meath,Meath,C15HK75
+20181S|GAELSCOIL AN RAITHIN,An Drom Dearg,Mungairit,Luimneach,,Limerick,V941X59
+20182U|ST ENDAS NS,Kilnadur,Dunmanway,Co. Cork,,Cork,P47FV44
+20186F|CASTAHEANY EDUCATE TOGETHER NS,Ongar Village,Dublin 15,,,Dublin,D15AE61
+20187H|DIVINE MERCY SENIOR NATIONAL SCHOOL,Balgaddy,Lucan,Co. Dublin,,Dublin,K78A393
+20188J|MULLINGAR EDUCATE TOGETHER,Rathgowan,Mullingar,,,Westmeath,N91N722
+20189L|TULLAMORE EDUCATE TOGETHER NS,Collins Lane,Tullamore,Co. Offaly,,Offaly,R35AX22
+20190T|HOLY TRINITY NATIONAL SCHOOL,Glencairn,Leopardstown,Dublin 18,,Dublin,D18YV91
+20191V|ST PETERS NATIONAL SCHOOL,St Peters NS, COI,Maynooth Road,Dunboyne,Co. Meath,Meath,A86RX96
+20192A|GAELSCOIL ÁTHA Í,An Tom Ard,Baile Átha Í,Co. Chill Dara,,Kildare,R14DP92
+20193C|SCOIL MOCHEALLÓG,Kilmallock,Co. Limerick,,,Limerick,V35H324
+20194E|St. John the Evangelist National School,Station Road,Adamstown Castle,Lucan ,Co. Dublin,Dublin,K78P212
+20196I|Scoil Íosagáin,Church Road,Ballybunion,,,Kerry,V31F208
+20197K|St Johns NS,Railway Road,Kenmare,,,Kerry,V93DX76
+20199O|Scoil Chuimín  Caitríona,Oughterard,Co. Galway,,,Galway,H91PN35
+20200T|RATOATH SENIOR NS,Fairyhouse Road,Ratoath,,,Meath,A85ET29
+20201V|TYRRELSTOWN EDUCATE TOGETHER NATIONAL SCHOOL,Hollywood Road,Tyrellstown,Dublin 15,,Dublin,D15X938
+20202A|BALBRIGGAN EDUCATE TOGETHER NS,Hamlet Lane,Moylaragh,Co. Dublin,,Dublin,K32NT02
+20203C|MOHILL N S,MOHILL,Co. Leitrim,,,Leitrim,N41X762
+20204E|Scoil Mháirtin,Kilworth,Co. Cork,,,Cork,P61D504
+20205G|ST MARYS PARISH PRIMARY SCHOOL,Dublin Road,Drogheda,Co. Louth,,Louth,A92XD80
+20208M|St Coen's National School,Merrymeeting,Rathnew,Co. Wicklow,,Wicklow,A67CY68
+20210W|S N EOIN POL II,Eoghanacht,Inis Mor,Oileain Arann,Co. na Gaillimhe,Galway,H91W727
+20211B|CLAREGALWAY EDUCATE TOGETHER N S,Cloonbiggen Road,Claregalway,Co. Galway,,Galway,H91P6X5
+20212D|GAELSCOIL LIATROMA,Cora Droma Rúisc,Co. Liatroma,,,Leitrim,N41Y718
+20214H|GOREY EDUCATE TOGETHER NS,Kilnahue Lane,Carnew Road,Co. Wexford,,Wexford,Y25DX23
+20215J|ST PAULS NS,Ratoath,Co. Meath,,,Meath,A85DX54
+20216L|SCOIL OILIBHEIR NAOFA,Bettystown,Co. Meath,,,Meath,A92H762
+20217N|MOUNT PALMER NATIONAL SCHOOL,Kincon,Ballina,Co. Mayo,,Mayo,F26VW89
+20218P|St Columbanus National School,Loughlinstown Drive,Dun Laoghaire,Co. Dublin,,Dublin,A96X0D1
+20219R|ST PAULS B N S,Lisduggan,Co. Waterford,,,Waterford,X91YX80
+20220C|GAELSCOIL UI EARCAIN,Bóthar Ghlas an Éin,Fionnghlas,Baile Átha Cliath 11,,Dublin,D11VP44
+20222G|SCOIL CHUIL AODHA BARR D INSE,Cúil Aodha,Maigh Chromtha,Co. Chorcaí,,Cork,P12A660
+20223I|GAELSCOIL EISCIR RIADA,Bóthar an Ghrifín,Leamhcán,Co. Átha Cliath,,Dublin,K78YX77
+20224K|GAELSCOIL AN TSLI DALA,Boiris Mór Ossari,Co. Laoise,,,Laois,R32TN62
+20229U|NAGLE RICE PRIMARY SCHOOL,Milltown,Killarney,Co. Kerry,,Kerry,V93EV97
+20230F|SCOIL PHADRAIG,Newport Road,Westport,Co. Mayo,,Mayo,F28RK12
+20231H|ST BENEDICTS NATIONAL SCHOOL,Ongar,Dublin 15,,,Dublin,D15PY61
+20233L|SCOIL CHAITRÍONA,Cappamore,Co. Limerick,,,Limerick,V94HH98
+20235P|LETTERKENNY EDUCATE TOGETHER,Ballyraine Halls,Letterkenny,Co. Donegal,,Donegal,F92DA00
+20237T|GAELSCOIL RIADA,Raithin,Baile Átha an Rí,Co. na Gaillimhe,,Galway,H65N125
+20238V|Gaelscoil An Choillín,An Coillín Mór,An Muileann gCearr,Co. na hIarmhí,,Westmeath,N91NW80
+20239A|GAELSCOIL UI DRISCEOIL,Dunkettle,Glanmire,Co. Cork,,Cork,T45YY19
+20241K|Scoil Choilm Community NS,Porterstown Rd,Clonsilla,Dublin 15,,Dublin,D15X582
+20242M|BLESSINGTON EDUCATE TOGETHER,Red Lane,Blessington,Co. Wicklow,,Wicklow,W91DK23
+20243O|GAEL SCOIL NA LOCHANNA,Cill Moloma,Baile Coimín,Co. Chill Mhantáin,,Wicklow,W91A403
+20245S|Ennistymon National School,Ennistymon,Co. Clare,,,Clare,V95YP46
+20246U|THE BILLIS NATIONAL SCHOOL,Glaslough,Co. Monaghan,,,Monaghan,H18RR22
+20247W|Scoil Ghrainne Community National School,Phibblestown,Clonee,Dublin 15,,Dublin,D15Y5PR
+20252P|GAELSCOIL BHAILE BRIGIN,Castlelands,Baile Brigín,Co. Átha Cliath,,Dublin,K32YT18
+20255V|Bunscoil McAuley Rice,Kilkenny Road,Callan,Co. Kilkenny,,Kilkenny,R95E840
+20256A|Scoil Náisiúnta Thuar Mhic Éadaigh,Trianláir,Tuar Mhic Éadaigh,Co. Mhaigh Eo,,Mayo,F12CD93
+20257C|Scoil Naomh Padraig,Hazelhatch,Celbridge,,,Kildare,W23Y300
+20258E|Gaelscoil an Bhradáin Feasa,Bóthar an Mhuilinn,Droichead Átha,Co. na Mí,,Meath,A92WY45
+20259G|St. Francis National School,Rock Road,Blackrock,,,Louth,A91NHOV
+20260O|Gaelscoil Chluainín,Sráid an Chaisleáin,Cluainín Uí Ruairc,Co. Liatroma,,Leitrim,F91PP62
+20261Q|Newtown Junior School,Lower Newtown,Waterford City,,,Waterford,X91ET86
+20264W|GAELSCOIL NA BHFILI,Gort Inse Guaire,Co. na Gaillimhe,,,Galway,H91E0Y3
+20265B|Gaelscoil Chionn tSáile,An Ceapach,Cionn tSáile,Co. Chorcaí,,Cork,P17VF84
+20267F|Scoil Bhríde Primary School,Carrick Road,Edenderry,Co. Offaly,,Offaly,R45X951
+20268H|Adamstown Castle Educate Together National School,Station Road,Adamstown,Co. Dublin,,Dublin,K78KT91
+20269J|Scoil Chormaic CNS,Stephenstown,Balbriggan,Co. Dublin,,Dublin,K32AX94
+20270R|Holy Family Junior School,Aughnaharna,Summerhill,Portlaoise,,Laois,R32CY05
+20271T|Scoil na Naomh Uilig,Rickardstown,Newbridge,Co. Kildare,,Kildare,W12FK10
+20272V|St Mary's National School,Thomastown,Co. Kilkenny,,,Kilkenny,R95FP30
+20273A|S N Chartaigh Naofa,Rahan,Tullamore,Co. Offaly,,Offaly,R35P263
+20274C|Esker Educate Together N.S.,The Glebe,Esker Lane,Lucan,,Dublin,K78N239
+20275E|Scoil Íosa,Convent Hill,Ballina,Co. Mayo,,Mayo,F26F293
+20277I|St Michaels National School,Cootehill,Co. Cavan,,,Cavan,H16P304
+20278K|Newtownmountkennedy Primary School,Newtownmountkennedy,Co. Wicklow,,,Wicklow,A63FP76
+20280U|Newtown NS,Newtown,Abbeyknockmoy,Co. Galway,,Galway,H54P489
+20281W|St Benedicts and St Marys National School,Grange Park,Raheny,Dublin 5,,Dublin,D05K4N2
+20282B|Bracken Educate Together N.S.,Castlelands,Balbriggan,Co. Dublin,,Dublin,K32YE94
+20289P|St. Cynoc's National School,Ferbane,Co. Offaly,,,Offaly,R42P803
+20292E|Maynooth Educate Together National School,Celbridge Road,Maynooth,Co. Kildare,,Kildare,W23P466
+20294I|Aston Village Educate Together National School,Dunlin Street,Aston Village,Co. Louth,,Louth,A92DR44
+20295K|Carlow Educate Together NS,Bestfield,Athy Road,Carlow Town,Carlow,Carlow,R93TW74
+20300A|Greystones Educate Together National School,Blacklion,Greystones,Co. Wicklow,,Wicklow,A63YE36
+20301C|Gaelscoil na gCloch Liath,Blacklion,Greystones,Co. Wicklow,,Wicklow,A63AN22
+20302E|Thornleigh Educate Together National School,Thornleigh Green,Applewood Village,Co. Dublin,,Dublin,K67PH68
+20303G|Lucan East ETNS,Kishogue Cross,Off Griffeen Avenue,Co. Dublin,,Dublin,K78FA37
+20304I|St. Francis of Assisi National School,Belmayne,Balgriffin,Dublin 13,,Dublin,D13RF78
+20307O|Skerries Educate Together National School,Kellys Bay,Skerries,Co. Dublin,,Dublin,K34CX46
+20308Q|Belmayne Educate Together National School,Balgriffin Park,Belmayne,Dublin 13,,Dublin,D13DA58
+20309S|Mary Mother of Hope Junior National School,Littlepace,Castaheany,Dublin 15,,Dublin,D15PH93
+20310D|Educate Together Carrigaline,Kilnagleary,Carrigaline,Co. Cork,,Cork,P43YX86
+20312H|Raheen Wood Steiner School,Raheen Road,Tuamgraney,,,Clare,V94RW32
+20313J|Mol an Oige,Glencree,Ennistymon,,,Clare,V95D372
+20326S|Kilcolgan Educate Together NS,Kilcornan,Clarinbridge,Co. Galway,,Galway,H91W2P5
+20327U|Gaelscoil Lorgan,Bóthar Mhuineacháin,Baile na Lorgan,Co. Mhuineacháin,,Monaghan,A75Y278
+20332N|Gaelscoil Éadan Doire,Cill Anna,Éadan Doire,Co. Uíbh Fhailí,,Offaly,R45ED89
+20333P|Wexford Educate Together National School,Whitemill,Clonard,Co. Wexford,,Wexford,Y35C520
+20334R|Gaelscoil Ros Eo,Gaelscoil Ros Eo,An Ros,Co. Átha Cliath,,Dublin,K56C867
+20335T|Scoil Phadraig Naofa,Foxwood,Rochestown,Co. Cork,,Cork,T12HX79
+20336V|Midleton Educate Together School,Broomfield West,Mill Road,Midleton,Co. Cork,Cork,P25NH94
+20337A|Edenmore N.S.,Emyvale,Co. Monaghan,,,Monaghan,H18WY26
+20338C|Holy Child National School,Larkhill Road,Whitehall,Dublin 9,,Dublin,D09YR59
+20339E|RÉALT NA MARA SCHOOL,Mill Street,Dundalk,Co. Louth,,Louth,A91TD3H
+20345W|S N Leitir Meallain,Leitir Meallain,Co. na Gaillimhe,,,Galway,H91RX45
+20346B|Kilcoole Primary School,Main Street,Kilcoole,,,Wicklow,A63XT71
+20347D|Portlaoise Educate Together NS,Summerhill Downs,Stradbally Road,Portlaoise,Co. Laois,Laois,R32HX45
+20348F|Holywell Educate Together National School,Holywell Road,Nevinstown,Swords,Co. Dublin,Dublin,K67AP99
+20349H|SCOIL OILIBHÉIR NAOFA,St. Oliver's N.S.,Ballymakenny Road,Drogheda,Co. Louth,Louth,A92NV26
+20350P|Merlin Woods Primary School,Doughiska Road,Doughiska,Galway,,Galway,H91D7VH
+20351R|Naas Community National School,Craddockstown Road,Naas,Co. Kildare,,Kildare,W91HF68
+20352T|ARD Rí COMMUNITY NATIONAL SCHOOL,Balreask Old,Navan,Co. Meath,,Meath,C15D340
+20353V|St Coleman's National School,Stradbally,Laois,Co. Laois,,Laois,R32VR84
+20355C|Holy Trinity National School,Rocklow Road,Fethard,Co. Tipperary,,Tipperary,E91TD43
+20382F|Gaelscoil na Mí,Cill Dhéagláin Thiar,Cill Dhéagláin,Co. na Mí,,Meath,A84Y8X7
+20383H|Hansfield Educate Together National School,Barnwell Road,Hansfield,Dublin 15,,Dublin,D15H1FC
+20384J|Powerstown Educate Together National School,Powerstown Road,Tyrrelstown,Dublin 15,,Dublin,D15VR80
+20385L|Our Lady's National School,Banada,Tourlestrane,Co. Sligo,,Sligo,F91K09R
+20387P|Scoil Mhuire Agus Chormaic,Kilcormac,Co. Offaly,,,Offaly,R42RC92
+20388R|Bunscoil Chriost Ri,Evergreen Road,Turners Cross,Co. Cork,,Cork,T12H6KA
+20389T|Scoil Maria Assumpta,Ballyphehane,Cork,,,Cork,T12HY44
+20391G|De La Salle National School,Ballyfermot Road,Ballyfermot,Dublin 10,,Dublin,D10EV62
+20392I|Pelletstown ETNS,Ashtown Road,,Rathborne,Dublin 15,,Dublin,D15W571
+20394M|Gaelscoil an Chuilinn,Bóthar Bhaile an Phaoraigh,Baile an Tirialaigh,Baile Átha Cliath 15,,Dublin,D15WR86
+20396Q|Ashbourne Educate Together National School,Ashbourne Educate Together,Killegland,Co. Meath,,Meath,A84TW90
+20397S|St Louise de Marillac Primary School,Drumfinn Road,Ballyfermot,Dublin 10,,Dublin,D10KT99
+20398U|Citywest  Saggart Community National School,Fortunestown Lane,City West,Dublin 24,,Dublin,D24R920
+20399W|Scoil Chroí Íosa,St Anne's Road,Blarney,Co. Cork,,Cork,T23E722
+20400E|Ballinteer Educate Together National School,Notre Dame Campus,Upper Churchtown Road,Churchtown,,Dublin,D14Y563
+20401G|Stepaside Educate Together National School,Belarmine Vale,Stepaside,Dublin 18,,Dublin,D18H7W6
+20402I|City West Educate Together National School,Fortunestown Lane,Citywest,Dublin 24,,Dublin,D24TR94
+20403K|KILDARE TOWN EDUCATE TOGETHER,Melitta Road,Kildare Town,,,Kildare,R51RX38
+20404M|Coore National School,Coore,Mullagh,Ennis,,Clare,V95T972
+20405O|St Mary's National School,Bishop St,,Limerick,,,Limerick,V94P0A9
+20410H|Knocknacarra Educate Together NS,An Coimín Mór,Cappagh Road,Knocknacarra,,Galway,H91Y38E
+20411J|Firhouse Educate Together National School,Ballycullen Drive,Firhouse,Dublin 24,,Dublin,D24P942
+20412L|Gaelscoil na Giúise,Céide Bhaile Uí Chuilinn,Teach na Giúise,Baile Átha Cliath 24,,Dublin,D24W682
+20413N|Douglas Rochestown Educate Together National School,C/O Douglas Hall AFC,Moneygourney,Co. Cork,,Cork,T12RY97
+20421M|Scoil Chróine,An Clochán Liath,Co. Dhún na nGall,,,Donegal,F94YV26
+20422O|Scoil Aoife,Citywest Drive,Citywest,Dublin 24,,Dublin,D24EE3V
+20425U|Gaelscoil Shliabh Rua,Bóthar Bhaile Uí Ógáin,Baile Átha Clith 18,Baile Átha Cliath 18,,Dublin,D18K0EN
+20426W|Lucan Community National School,Tor na Rí Walk,Balgaddy Road,Lucan,,Dublin,K78AE83
+20427B|St Brigid's Kildare Town Primary School,Grey Abbey Road,Kildare Town,Co. Kildare,,Kildare,R51XY30
+20428D|Gaelscoil Mhic Aodha,Bóthar Mhelitta,Baile Chill Dara,Co. Chill Dara,,Kildare,R51CX64
+20429F|ST. JAMES'S PRIMARY SCHOOL,Basin Lane,James' Street,Dublin 8,,Dublin,D08EC96
+20430N|Canal Way Educate Together National School,Basin Street Upper,Dublin 8,,,Dublin,D08K338
+20431P|Scoil Néifinn,Keenagh,Ballina,,,Mayo,F26XR04
+20432R|Scoil Mhuire,Carrick-on-Shannon,Co. Leitrim,,,Leitrim,N41Y186
+20434V|Scoil Mhichil,Cahermurphy,Kilmihil,Kilrush,,Clare,V15W892
+20435A|Scoil Naomh Eltin,Kinsale,Co. Cork,,,Cork,P17CF82
+20436C|St Mary's Primary School,Dorset Street,Dublin 7,,,Dublin,D07HF10
+20437E|St Laurence's National School,Brookstone Road,Baldoyle,Dublin 13,,Dublin,D13C924
+20439I|Scoil Chroi Naofa,Rochfortbridge,Co. Westmeath,,,Westmeath,N91CP38
+20440Q|Scoil Aonghusa Community National School,Kingsfort Avenue,Castlepark Village,Mallow,,Cork,P51 P5V2
+20441S|Shellybanks Educate Together National School,Simmonscourt Road,Ballsbridge,Dublin 4,,Dublin,D04AK00
+20442U|Scoil Chliodhna Community National School,C/O Carrigtwohill GAA Club,Carrigtwohill,Co. Cork,,Cork,T45P282
+20443W|St. Senan's National School,Kilmacow,Co. Kilkenny,via Waterford,,Kilkenny,X91D894
+20444B|Trim Educate Together National School,The Maudlins,Trim,,,Meath,C15KA9P
+20445D|Malahide / Portmarnock Educate Together National School,Malahide Road,Dublin 17,,,Dublin,D17K231
+20446F|Tramore Educate Together National School,Pond Road,Tramore,Co. Waterford,,Waterford,X91X27Y
+20447H|Kilmurry McMahon National School,Kilmurry McMahon,Kilrush,,,Clare,V15D899
+20448J|Annagh Hill NS,Ballyglunin,Tuam,Co. Galway,,Galway,H54F104
+20450T|Assumption Junior School,Sisters of Charity,Walkinstown,Dublin 12,,Dublin,D12EH70
+20451V|Scoil Naomh Cualán,Borrisoleigh,Thurles,Co. Tipperary,,Tipperary,E41EK29
+20452A|Broadford  Kilbane National School,Broadford,Co. Clare,,,Clare,V94AP28
+20453C|Broombridge Educate Together National School,Bannow Road,Cabra,Dublin 7,,Dublin,D07TD93
+20456I|Tuam Educate Together National School,Dublin Road,Tuam,,,Galway,H54N237
+20457K|Castlebar Educate Together National School,Marsh House,Newtown,Co. Mayo,,Mayo,F23FV59
+20458M|New Ross Educate Together National School,Barrett's Park,New Ross,Co. Wexford,,Wexford,Y34AY71
+20459O|Le Chéile National School,Roxboro Road,Limerick,,,Limerick,V94X2TR
+20460W|Thomond Primary School,Ballynanty Road,Limerick,,,Limerick,V94C2R7
+20461B|Gaelscoil na Laochra,Sandymount Haven,Birr,,,Offaly,R42P821
+20462D|Galway Steiner National School,An Cimin Mor,Cappagh Road,Knocknacarra,,Galway,H91Y38E
+20463F|Holy Spirit Junior Primary School,Limekiln Lane,Greenhills,Dublin 12,,Dublin,D12V880
+20464H|Holy Spirit Senior Primary School,Limekiln Lane,Greenhills,Dublin 12,,Dublin,D12AY63
+20465J|Gort National School,Tubber Road,Gort,Co. Galway,,Galway,H91AD93
+20466L|St Fergal's National School,Ballywaltrim,Bray,,,Wicklow,A98A521
+20467N|ST AILBE'S NATIONAL SCHOOL,Emly,Co. Tipperary,,,Tipperary,E34NY00
+20468P|St Dominic's National School,Mountain Park,Tallaght,Dublin 24,,Dublin,D24P7XC
+20469R|St John's Senior School,Coolgreaney Road,Arklow,,,Wicklow,Y14PA97
+20470C|St Michael's and St Peter's Junior School,Hickey's Hill,Arklow,,,Wicklow,Y14R239
+20473I|Greystones Community NS,Greystones Rugby Club,Mill Road,Greystones,,Wicklow,A63RY64
+20475M|Our Lady's National School,Thurles,Co. Tipperary,,,Tipperary,E41W352
+20476O|SCOIL NA MAINISTREACH QUIN DANGAN,Newline Road,Quin,Co. Clare,,Clare,V95P659
+20477Q|St Patrick's Boys' National School,Skibbereen,Co. Cork,,,Cork,P81KP63
+20478S|Ballyduff National School,Ballyduff,Tralee,Co. Kerry,,Kerry,V92E796
+20480F|Holy Family Senior School,Aughnaharna,Portlaoise,Co. Laois,,Laois,R32DN24
+20481H|Bunscoil Nic Amhlaidh,Castlemoyle,New Ross,Co. Wexford,,Wexford,Y34XT89
+20482J|Bunscoil Ris,Castlemoyle,New Ross,,,Wexford,Y34XN32
+20483L|Scoil Chlann Naofa,Ballinamore,Co. Leitrim,,,Leitrim,N41KD98
+20485P|Ballyroan Primary School,Ballyroan,Co. Laois,,,Laois,R32V4H0
+20486R|Grace Park Educate Together National School,C/0 Glasnevin ETNS,Griffith Avenue Extension,Glasnevin,Dublin 9,Dublin,D09WK0H
+20487T|Gaelscoil na Fuinseoige,Páirc Finsbury,Baile an Teampaill,Baile Átha Cliath 14,,Dublin,D14N960
+20488V|Scoil Úna Naofa,Armagh Road,Crumlin,Dublin 12,,Dublin,D12W524
+20491K|St Columba's National School,Ballyturn,Gort,Co. Galway,,Galway,H91W8Y8
+20492M|Scoil Mhuire,Mooncoin,Co. Kilkenny,,,Kilkenny,X91KC92
+20493O|Canon Sheehan Primary School,Turnpike,Doneraile,Co. Cork,,Cork,P51X796
+20494Q|Riverview Educate Together National School,Limekiln Road,Greenhills,,,Dublin,D12VY8A
+20496U|Salesian Primary School,Fernbank,North Circular Rd,Limerick,,Limerick,V94RR99
+20497W|Scoil Mhuire agus Eoin,Boherboy Road,Lotabeg,Mayfield,,Cork,T23CA33
+20498B|St Cóman's Wood Primary School,Convent Road,Roscommon Town,,,Roscommon,F42YH60
+20499D|St Mary's National School,Partry,Claremorris,Co. Mayo,,Mayo,F12X032
+20500I|Gaelscoil an Chaisleáin,Ballincollig,Co. Cork,,,Cork,P31W270
+20501K|Dublin South City Centre ETNS,C/O Griffith Barracks MDS,South Circular Road,Dublin 8,,Dublin,D08KVY4
+20502M|Scoil Sinead NS,Patrician College Campus,Deanstown,Finglas,Dublin 11,Dublin,D11HN88
+20503O|Dun Laoghaire ETNS,C/O The Red Door School,Monkstown Grove,Monkstown Avenue,Co. Dublin,Dublin,A94D3H7
+20504Q|Rossmore National School,Rossmore,Cashel,Co. Tipperary,,Tipperary,E25E722
+20505S|Scoil Mhuire Allenwood National School,Allenwood,Robertstown,Naas,Co. Kildare,Kildare,W91FX21
+20506U|Ballyragget National School,Ballyragget,Kilkenny road,Ballyragget,,Kilkenny,R95KR86
+20507W|St Laurence O'Toole's National School,Seville Place,North Wall,Dublin 1,,Dublin,D01 WK38
+20508B|St Brigid's and St Patrick's National School,Bothar Brugha,Drogheda,Co. Louth,,Louth,A92 HW97
+20509D|Lusk Junior National School St Maccullins,Chapel Road,Lusk,Co. Dublin,,Dublin,
+20511N|Fermoy Educate Together NS,Ashe Quay,Fermoy,Co. Cork,,Cork,P61TK73
+20512P|Lacken National School,Carrowomre-Lacken,Ballina,Co. Mayo,,Mayo,F26A240
+20513R|Kilmurry NS,Crossmolina,Mayo,,,Mayo,
